@@ -11,8 +11,12 @@
             "id": "2d9ccf83283d9d8f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "2d9ccf83283d9d8f",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/유데미/챕터 3.md",
     "LLM/파인튜닝이란?.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 6 라마 2 파인튜닝해보기.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 3 라마1 모델리뷰.md",
