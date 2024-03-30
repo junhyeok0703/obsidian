@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b1a5ba50086ed8f9",
@@ -154,7 +155,7 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "2d9ccf83283d9d8f",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "LLM/파인튜닝이란?.md",
