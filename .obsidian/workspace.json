@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/시디즈 의자 추천과 챗봇서비스 개발.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
-    "img/스크린샷 2024-03-30 19.38.38.png",
+    "스크린샷 2024-04-02 20.12.20.png",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+    "img/스크린샷 2024-03-30 19.38.38.png",
     "2024-04-01.md",
     "img/스크린샷 2024-03-30 19.38.49.png",
     "img/스크린샷 2024-03-30 19.38.22.png",
