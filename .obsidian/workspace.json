@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4.md",
+                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4.md",
+                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4.md",
+                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4.md"
+                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
               }
             }
           },
@@ -156,20 +156,22 @@
   },
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/유데미/챕터 3.md",
-    "Frontend/리액트 강의/유데미/챕터 4.md",
-    "Frontend/리액트 강의/유데미/챕터 4",
-    "스크린샷 2024-04-02 20.12.20.png",
+    "img/스크린샷 2024-04-02 20.12.20.png",
+    "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+    "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+    "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
+    "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
+    "Frontend/리액트 강의/유데미/챕터 4.md",
+    "Frontend/리액트 강의/유데미/챕터 3.md",
+    "Frontend/리액트 강의/유데미/챕터 4",
     "img/스크린샷 2024-03-30 19.38.38.png",
     "2024-04-01.md",
     "img/스크린샷 2024-03-30 19.38.49.png",
     "img/스크린샷 2024-03-30 19.38.22.png",
-    "LLM/파인튜닝이란?.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 6 라마 2 파인튜닝해보기.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 3 라마1 모델리뷰.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 4 라마2 모델리뷰.md",
-    "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
     "img/스크린샷 2024-03-30 01.02.54.png",
     "img/스크린샷 2024-03-29 23.32.20.png",
     "img/스크린샷 2024-03-30 00.58.30.png",
@@ -183,7 +185,6 @@
     "LLM/챕터1(LLM파인튜닝)",
     "LLM/챕터2(RAG 랭체인)/섹션 4 텍스트를 작은 의미 단위로 나눠보자 - Document transformers 모듈.md",
     "LLM/챕터2(RAG 랭체인)/섹션 3 외부 텍스트를 불러와보자 - Document Loaders 모듈.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
     "Frontend/React.md",
     "LLM/챕터2(RAG 랭체인)",
     "RAG/무제 파일.md",
@@ -203,8 +204,6 @@
     "Frontend/기본기/CSS.md",
     "무제 파일 1.canvas",
     "2024-01-21 (캡스톤회의).md",
-    "Project/나만의 옷장.md",
-    "Obsidian/마크다운 사용법.md",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
   ]
