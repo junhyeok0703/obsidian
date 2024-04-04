@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
     "img/스크린샷 2024-04-02 20.12.20.png",
-    "LLM/사용 용도에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+    "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
     "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
