@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md"
+                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   "active": "d6fe2f203e647f39",
   "lastOpenFiles": [
     "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
-    "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
+    "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "Frontend/리액트 강의/유데미/챕터 4.md",
