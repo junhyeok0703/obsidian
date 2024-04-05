@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "CodeingTest/코드잇/자료형/숫자형.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "CodeingTest/코드잇/자료형/숫자형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "CodeingTest/코드잇/자료형/숫자형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
+                "file": "CodeingTest/코드잇/자료형/숫자형.md"
               }
             }
           },
@@ -156,14 +156,31 @@
   },
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
-    "img/스크린샷 2024-04-02 20.12.20.png",
+    "CodeingTest/코드잇/자료형/퀴즈 2.md",
+    "CodeingTest/코드잇/무제 파일.md",
+    "CodeingTest/코드잇/자료형/type 함수.md",
+    "CodeingTest/코드잇/자료형/불린형.md",
+    "CodeingTest/코드잇/자료형/불 대수.md",
+    "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
+    "CodeingTest/코드잇/자료형/문자열.md",
+    "CodeingTest/코드잇/자료형/format을 이용한 문자열 포매팅.md",
+    "CodeingTest/코드잇/자료형/퀴즈1.md",
+    "CodeingTest/코드잇/자료형/형 변환.md",
+    "CodeingTest/코드잇/자료형/숫자형.md",
+    "Frontend/리액트 강의/유데미/챕터 4.md",
+    "CodeingTest/코드잇/제어문",
+    "CodeingTest/코드잇/추상화",
+    "CodeingTest/코드잇/자료형",
+    "CodeingTest/코드잇/프로그래밍 핵심.md",
+    "CodeingTest/코드잇",
+    "CodeingTest",
+    "Frontend/리액트 강의/유데미/챕터 3.md",
     "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+    "img/스크린샷 2024-04-02 20.12.20.png",
     "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
-    "Frontend/리액트 강의/유데미/챕터 4.md",
-    "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "img/스크린샷 2024-03-30 19.38.38.png",
     "2024-04-01.md",
@@ -183,27 +200,11 @@
     "파인튜닝@.md",
     "LLM/챕터2(RAG 랭체인)/섹션 5 텍스트를 벡터로 변환하고 저장  - 임베딩과 벡터스토어.md",
     "LLM/챕터1(LLM파인튜닝)",
-    "LLM/챕터2(RAG 랭체인)/섹션 4 텍스트를 작은 의미 단위로 나눠보자 - Document transformers 모듈.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 3 외부 텍스트를 불러와보자 - Document Loaders 모듈.md",
-    "Frontend/React.md",
     "LLM/챕터2(RAG 랭체인)",
-    "RAG/무제 파일.md",
-    "무제 파일.md",
     "LLM",
-    "Frontend/리액트 강의/소플",
-    "Frontend/리액트 강의/노마드코더",
-    "Frontend/리액트 강의/별코딩",
-    "Frontend/리액트 강의/유데미",
-    "Frontend/리액트 강의/제로초",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일.canvas",
-    "2024-03-19.md",
-    "Frontend/기본기/React,js강의목록.md",
-    "Frontend/기본기/JavaScrpit.md",
-    "Frontend/기본기/HTML.md",
-    "Frontend/기본기/CSS.md",
     "무제 파일 1.canvas",
-    "2024-01-21 (캡스톤회의).md",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
   ]
