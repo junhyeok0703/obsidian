@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/코드잇/자료형/형 변환.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/코드잇/자료형/형 변환.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/코드잇/자료형/형 변환.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/문자열.md"
+                "file": "CodeingTest/코드잇/자료형/형 변환.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
+    "CodeingTest/코드잇/자료형/문자열.md",
+    "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
     "스크린샷 2024-04-05 15.18.33.png",
     "CodeingTest/코드잇/자료형/숫자형.md",
     "스크린샷 2024-04-05 15.05.41.png",
@@ -165,8 +167,6 @@
     "CodeingTest/코드잇/자료형/type 함수.md",
     "CodeingTest/코드잇/자료형/불린형.md",
     "CodeingTest/코드잇/자료형/불 대수.md",
-    "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
-    "CodeingTest/코드잇/자료형/문자열.md",
     "CodeingTest/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "CodeingTest/코드잇/자료형/퀴즈1.md",
     "CodeingTest/코드잇/자료형/형 변환.md",
@@ -197,7 +197,6 @@
     "img/스크린샷 2024-03-30 00.58.30.png",
     "img",
     "LLM/챕터1(LLM파인튜닝)/섹션 5 PEFT.md",
-    "img/스크린샷 2024-03-30 01.22.03.png",
     "파인튜닝@.md",
     "LLM/챕터1(LLM파인튜닝)",
     "LLM/챕터2(RAG 랭체인)",
