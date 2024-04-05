@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/Fragments.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "d6fe2f203e647f39",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
+    "Frontend/리액트 강의/유데미/챕터 4/얕은복사(...문법).md",
+    "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "Frontend/리액트 강의/유데미/챕터 4.md",
     "CodeingTest/python study/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
@@ -200,7 +201,6 @@
     "img/스크린샷 2024-03-30 00.58.30.png",
     "img",
     "LLM/챕터1(LLM파인튜닝)/섹션 5 PEFT.md",
-    "파인튜닝@.md",
     "LLM/챕터1(LLM파인튜닝)",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일.canvas",
