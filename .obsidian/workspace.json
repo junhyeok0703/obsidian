@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/형 변환.md",
+                "file": "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/형 변환.md",
+                "file": "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/형 변환.md",
+                "file": "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코드잇/자료형/형 변환.md"
+                "file": "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md"
               }
             }
           },
@@ -156,6 +156,7 @@
   },
   "active": "3b76b23971d18865",
   "lastOpenFiles": [
+    "CodeingTest/코드잇/자료형/형 변환.md",
     "CodeingTest/코드잇/자료형/문자열.md",
     "CodeingTest/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
     "스크린샷 2024-04-05 15.18.33.png",
@@ -169,7 +170,6 @@
     "CodeingTest/코드잇/자료형/불 대수.md",
     "CodeingTest/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "CodeingTest/코드잇/자료형/퀴즈1.md",
-    "CodeingTest/코드잇/자료형/형 변환.md",
     "Frontend/리액트 강의/유데미/챕터 4.md",
     "CodeingTest/코드잇/제어문",
     "CodeingTest/코드잇/추상화",
