@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md"
               }
             }
           },
@@ -156,10 +156,11 @@
   },
   "active": "d6fe2f203e647f39",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
+    "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
     "스크린샷 2024-04-05 16.25.18.png",
     "스크린샷 2024-04-05 16.22.19.png",
     "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
-    "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소에 Props(속성) 전달하기.md",
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "Frontend/리액트 강의/유데미/챕터 4.md",
@@ -199,7 +200,6 @@
     "LLM/챕터1(LLM파인튜닝)/섹션 3 라마1 모델리뷰.md",
     "LLM/챕터1(LLM파인튜닝)/섹션 4 라마2 모델리뷰.md",
     "img/스크린샷 2024-03-30 01.02.54.png",
-    "img/스크린샷 2024-03-29 23.32.20.png",
     "img",
     "LLM/챕터1(LLM파인튜닝)",
     "Frontend/강의/ㅇ.canvas",
