@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8df243ae9f01870",
+        "id": "83452e6fb48e55f0",
         "type": "tabs",
         "children": [
           {
-            "id": "d6fe2f203e647f39",
+            "id": "2e56da251f4e5369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md"
+                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
               }
             }
           },
@@ -154,10 +154,11 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "d6fe2f203e647f39",
+  "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
+    "Frontend/React.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
+    "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
     "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
     "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소(Wapper컴포넌트)에 Props(속성) 전달하기.md",
     "스크린샷 2024-04-05 16.25.18.png",
@@ -198,7 +199,6 @@
     "2024-04-01.md",
     "img/스크린샷 2024-03-30 19.38.49.png",
     "img/스크린샷 2024-03-30 19.38.22.png",
-    "LLM/챕터1(LLM파인튜닝)/섹션 6 라마 2 파인튜닝해보기.md",
     "img/스크린샷 2024-03-30 01.02.54.png",
     "img",
     "LLM/챕터1(LLM파인튜닝)",
