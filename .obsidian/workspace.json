@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md"
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md"
               }
             }
           },
@@ -169,6 +169,9 @@
   },
   "active": "1f3fc5aac789ee55",
   "lastOpenFiles": [
+    "스크린샷 2024-04-07 00.33.12.png",
+    "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
+    "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "스크린샷 2024-04-07 00.30.23.png",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
     "스크린샷 2024-04-07 00.29.18.png",
@@ -197,11 +200,8 @@
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/자료형/형 변환.md",
     "CodeingTest/python study/코드잇/자료형/문자열.md",
-    "스크린샷 2024-04-05 15.18.33.png",
     "CodeingTest/python study/코드잇/자료형/숫자형.md",
-    "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
     "CodeingTest/코드잇/무제 파일.md",
-    "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
