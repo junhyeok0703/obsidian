@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
+                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
+                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
+                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/불린형.md"
+                "file": "CodeingTest/python study/코드잇/자료형/type 함수.md"
               }
             }
           },
@@ -169,6 +169,11 @@
   },
   "active": "1f3fc5aac789ee55",
   "lastOpenFiles": [
+    "스크린샷 2024-04-07 00.30.23.png",
+    "CodeingTest/python study/코드잇/자료형/불린형.md",
+    "스크린샷 2024-04-07 00.29.18.png",
+    "스크린샷 2024-04-07 00.28.51.png",
+    "스크린샷 2024-04-07 00.28.41.png",
     "CodeingTest/python study/코드잇/자료형/불 대수.md",
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "스크린샷 2024-04-07 00.20.48.png",
@@ -194,12 +199,9 @@
     "CodeingTest/python study/코드잇/자료형/문자열.md",
     "스크린샷 2024-04-05 15.18.33.png",
     "CodeingTest/python study/코드잇/자료형/숫자형.md",
-    "스크린샷 2024-04-05 15.05.41.png",
-    "스크린샷 2024-04-05 15.05.27.png",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
     "CodeingTest/코드잇/무제 파일.md",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
-    "CodeingTest/python study/코드잇/자료형/불린형.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
@@ -207,7 +209,6 @@
     "CodeingTest/코드잇/프로그래밍 핵심.md",
     "CodeingTest/python study/코드잇",
     "CodeingTest",
-    "img/스크린샷 2024-04-02 20.12.20.png",
     "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
