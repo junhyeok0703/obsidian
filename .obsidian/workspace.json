@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
+                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
+                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
+                "file": "CodeingTest/python study/코드잇/자료형/불린형.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md"
+                "file": "CodeingTest/python study/코드잇/자료형/불린형.md"
               }
             }
           },
@@ -169,6 +169,8 @@
   },
   "active": "1f3fc5aac789ee55",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/자료형/불 대수.md",
+    "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "스크린샷 2024-04-07 00.20.48.png",
     "스크린샷 2024-04-07 00.19.19.png",
     "스크린샷 2024-04-07 00.18.47.png",
@@ -198,8 +200,6 @@
     "CodeingTest/코드잇/무제 파일.md",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
-    "CodeingTest/python study/코드잇/자료형/불 대수.md",
-    "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
@@ -212,7 +212,6 @@
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
     "Frontend/리액트 강의/유데미/챕터 4",
-    "img/스크린샷 2024-03-30 19.38.38.png",
     "img",
     "LLM/챕터1(LLM파인튜닝)",
     "Frontend/강의/ㅇ.canvas",
