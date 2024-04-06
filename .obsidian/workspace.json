@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤 끝나면 할일.md"
+                "file": "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md"
               }
             }
           },
@@ -169,8 +169,8 @@
   },
   "active": "1f3fc5aac789ee55",
   "lastOpenFiles": [
-    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "캡스톤 끝나면 할일.md",
+    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "Frontend/React.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
     "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
