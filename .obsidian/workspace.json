@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f3fc5aac789ee55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "캡스톤 끝나면 할일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "캡스톤 끝나면 할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
+                "file": "캡스톤 끝나면 할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md"
+                "file": "캡스톤 끝나면 할일.md"
               }
             }
           },
@@ -154,8 +167,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "2e56da251f4e5369",
+  "active": "1f3fc5aac789ee55",
   "lastOpenFiles": [
+    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
+    "캡스톤 끝나면 할일.md",
     "Frontend/React.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
     "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
@@ -188,7 +203,6 @@
     "CodeingTest/코드잇/프로그래밍 핵심.md",
     "CodeingTest/python study/코드잇",
     "CodeingTest",
-    "LLM/사용 용도와 설정 가격에 대한 노트북에 최소사양과 적정사양을 추천 해주는 LLM모델,챗봇.md",
     "img/스크린샷 2024-04-02 20.12.20.png",
     "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
@@ -196,7 +210,6 @@
     "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "img/스크린샷 2024-03-30 19.38.38.png",
-    "2024-04-01.md",
     "img/스크린샷 2024-03-30 19.38.49.png",
     "img/스크린샷 2024-03-30 19.38.22.png",
     "img/스크린샷 2024-03-30 01.02.54.png",
