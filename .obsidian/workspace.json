@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f3fc5aac789ee55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈1.md"
+                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md"
               }
             }
           },
@@ -167,10 +154,17 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "1f3fc5aac789ee55",
+  "active": "2e56da251f4e5369",
   "lastOpenFiles": [
     "스크린샷 2024-04-07 00.33.12.png",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
+    "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
+    "CodeingTest/python study/코드잇/자료형/숫자형.md",
+    "CodeingTest/python study/코드잇/자료형/스크린샷 2024-04-07 00.33.12.png",
+    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
+    "스크린샷 2024-04-05 15.05.41.png",
+    "스크린샷 2024-04-05 15.05.27.png",
+    "스크린샷 2024-04-07 00.34.58.png",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "스크린샷 2024-04-07 00.30.23.png",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
@@ -181,17 +175,12 @@
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "스크린샷 2024-04-07 00.20.48.png",
     "스크린샷 2024-04-07 00.19.19.png",
-    "스크린샷 2024-04-07 00.18.47.png",
-    "스크린샷 2024-04-07 00.17.13.png",
     "캡스톤 끝나면 할일.md",
-    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "Frontend/React.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
     "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
     "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
     "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소(Wapper컴포넌트)에 Props(속성) 전달하기.md",
-    "스크린샷 2024-04-05 16.25.18.png",
-    "스크린샷 2024-04-05 16.22.19.png",
     "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
@@ -200,9 +189,7 @@
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/자료형/형 변환.md",
     "CodeingTest/python study/코드잇/자료형/문자열.md",
-    "CodeingTest/python study/코드잇/자료형/숫자형.md",
     "CodeingTest/코드잇/무제 파일.md",
-    "CodeingTest/python study/코드잇/자료형/퀴즈1.md",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
     "CodeingTest/python study/코드잇/자료형",
