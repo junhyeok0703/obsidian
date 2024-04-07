@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
+                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
+                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
+                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/퀴즈 1.md"
+                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md"
               }
             }
           },
@@ -156,9 +156,10 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
+    "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "screencapture-codeit-kr-topics-core-concept-of-python-programming-lessons-2753-2024-04-07-00_36_55.png",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
-    "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
     "스크린샷 2024-04-07 00.33.12.png",
     "CodeingTest/python study/코드잇/자료형/숫자형.md",
     "CodeingTest/python study/코드잇/자료형/스크린샷 2024-04-07 00.33.12.png",
@@ -174,7 +175,6 @@
     "스크린샷 2024-04-07 00.28.41.png",
     "CodeingTest/python study/코드잇/자료형/불 대수.md",
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
-    "스크린샷 2024-04-07 00.20.48.png",
     "캡스톤 끝나면 할일.md",
     "Frontend/React.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
