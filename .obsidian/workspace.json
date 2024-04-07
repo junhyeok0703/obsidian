@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md",
+                "file": "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md",
+                "file": "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md",
+                "file": "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md"
+                "file": "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md"
               }
             }
           },
@@ -156,9 +156,12 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/추상화/08. 추상화 퀴즈.md",
+    "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
+    "img/screencapture-codeit-kr-topics-core-concept-of-python-programming-lessons-2768-2024-04-07-23_13_14.png",
+    "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md",
     "img/스크린샷 2024-04-07 23.07.45.png",
     "CodeingTest/python study/코드잇/추상화/06. 옵셔널 파라미터.md",
-    "CodeingTest/python study/코드잇/추상화/07. Syntactic Sugar.md",
     "img/스크린샷 2024-04-07 23.05.07.png",
     "img/스크린샷 2024-04-07 23.04.52.png",
     "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
@@ -171,11 +174,9 @@
     "img/스크린샷 2024-04-07 22.55.30.png",
     "img/스크린샷 2024-04-07 22.55.23.png",
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
-    "img/스크린샷 2024-04-07 22.51.57.png",
     "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
-    "img/스크린샷 2024-04-07 00.33.12.png",
     "CodeingTest/python study/코드잇/자료형/숫자형.md",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
@@ -192,7 +193,6 @@
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "Frontend/리액트 강의/유데미/챕터 4.md",
-    "CodeingTest/python study/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
