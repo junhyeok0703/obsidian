@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md"
+                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md"
               }
             }
           },
@@ -156,8 +156,12 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
+    "스크린샷 2024-04-07 22.57.36.png",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
+    "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
+    "스크린샷 2024-04-07 22.55.30.png",
+    "스크린샷 2024-04-07 22.55.23.png",
+    "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
     "스크린샷 2024-04-07 22.51.57.png",
     "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
@@ -173,8 +177,6 @@
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "스크린샷 2024-04-07 00.30.23.png",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
-    "스크린샷 2024-04-07 00.29.18.png",
-    "스크린샷 2024-04-07 00.28.51.png",
     "CodeingTest/python study/코드잇/자료형/불 대수.md",
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "캡스톤 끝나면 할일.md",
@@ -195,10 +197,8 @@
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
     "CodeingTest/python study/코드잇/자료형",
-    "CodeingTest/코드잇/프로그래밍 핵심.md",
     "CodeingTest/python study/코드잇",
     "CodeingTest",
-    "LLM/파인튜닝이란?.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "img",
     "LLM/챕터1(LLM파인튜닝)",
