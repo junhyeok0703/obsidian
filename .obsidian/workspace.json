@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
+                "file": "캡스톤 끝나면 할일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
+                "file": "캡스톤 끝나면 할일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
+                "file": "캡스톤 끝나면 할일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md"
+                "file": "캡스톤 끝나면 할일.md"
               }
             }
           },
@@ -156,10 +156,10 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
     "img/스크린샷 2024-04-07 23.40.53.png",
     "img/스크린샷 2024-04-07 23.40.36.png",
     "캡스톤 끝나면 할일.md",
-    "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
     "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
     "img/스크린샷 2024-04-07 23.21.26.png",
     "img/스크린샷 2024-04-07 23.20.24.png",
@@ -172,7 +172,6 @@
     "img/스크린샷 2024-04-07 23.07.45.png",
     "CodeingTest/python study/코드잇/추상화/06. 옵셔널 파라미터.md",
     "img/스크린샷 2024-04-07 23.05.07.png",
-    "img/스크린샷 2024-04-07 23.04.52.png",
     "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
     "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
