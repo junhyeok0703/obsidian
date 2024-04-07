@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md"
+                "file": "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
     "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
+    "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
+    "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
     "screencapture-codeit-kr-topics-core-concept-of-python-programming-lessons-2753-2024-04-07-00_36_55.png",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
     "스크린샷 2024-04-07 00.33.12.png",
@@ -198,7 +199,6 @@
     "CodeingTest",
     "LLM/파인튜닝이란?.md",
     "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "img",
     "LLM/챕터1(LLM파인튜닝)",
