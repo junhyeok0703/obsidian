@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
+                "file": "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
+                "file": "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
+                "file": "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md"
+                "file": "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md"
               }
             }
           },
@@ -156,9 +156,12 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "스크린샷 2024-04-07 23.01.53.png",
+    "스크린샷 2024-04-07 23.01.49.png",
+    "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
+    "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
     "스크린샷 2024-04-07 22.57.36.png",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
-    "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
     "스크린샷 2024-04-07 22.55.30.png",
     "스크린샷 2024-04-07 22.55.23.png",
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
@@ -173,9 +176,7 @@
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "스크린샷 2024-04-05 15.05.41.png",
     "스크린샷 2024-04-05 15.05.27.png",
-    "스크린샷 2024-04-07 00.34.58.png",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
-    "스크린샷 2024-04-07 00.30.23.png",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
     "CodeingTest/python study/코드잇/자료형/불 대수.md",
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
@@ -193,7 +194,6 @@
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/자료형/형 변환.md",
     "CodeingTest/python study/코드잇/자료형/문자열.md",
-    "CodeingTest/코드잇/무제 파일.md",
     "CodeingTest/python study/코드잇/제어문",
     "CodeingTest/python study/코드잇/추상화",
     "CodeingTest/python study/코드잇/자료형",
