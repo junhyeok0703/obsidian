@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
+                "file": "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
+                "file": "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
+                "file": "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md"
+                "file": "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
+    "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
     "img/스크린샷 2024-04-11 15.17.27.png",
     "img/스크린샷 2024-04-11 15.16.24.png",
     "img/스크린샷 2024-04-11 15.15.50.png",
@@ -164,7 +166,6 @@
     "img/스크린샷 2024-04-11 15.15.09.png",
     "img/스크린샷 2024-04-11 15.14.04.png",
     "CodeingTest/python study/코드잇/추상화/11. 상수.md",
-    "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
     "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
     "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
     "CodeingTest/python study/코드잇/추상화/08. 추상화 퀴즈.md",
@@ -178,7 +179,6 @@
     "img/스크린샷 2024-04-07 23.40.53.png",
     "img/스크린샷 2024-04-07 23.40.36.png",
     "img/스크린샷 2024-04-07 23.21.26.png",
-    "img/스크린샷 2024-04-07 23.20.24.png",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
