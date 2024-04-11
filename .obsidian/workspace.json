@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
+                "file": "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
+                "file": "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
+                "file": "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md"
+                "file": "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/추상화/15. 거스름돈 계산기.md",
+    "img/스크린샷 2024-04-11 15.52.47.png",
     "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
+    "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
+    "img/스크린샷 2024-04-11 15.51.19.png",
+    "CodeingTest/python study/코드잇/추상화/15. 거스름돈 계산기.md",
     "CodeingTest/python study/코드잇/추상화/무제 파일.md",
     "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
     "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
@@ -182,7 +185,6 @@
     "캡스톤 끝나면 할일.md",
     "img/스크린샷 2024-04-07 23.40.53.png",
     "img/스크린샷 2024-04-07 23.40.36.png",
-    "img/스크린샷 2024-04-07 23.21.26.png",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
@@ -190,8 +192,6 @@
     "CodeingTest/python study/코드잇/자료형/숫자형.md",
     "CodeingTest/python study/코드잇/자료형/type 함수.md",
     "CodeingTest/python study/코드잇/자료형/불린형.md",
-    "CodeingTest/python study/코드잇/자료형/불 대수.md",
-    "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
