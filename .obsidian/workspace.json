@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/03. while 반복문 실습 1.md",
+                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/03. while 반복문 실습 1.md",
+                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/03. while 반복문 실습 1.md",
+                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/03. while 반복문 실습 1.md"
+                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
+    "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
+    "LLM/파인튜닝이란?.md",
+    "CodeingTest/python study/코드잇/제어문/04. while 반복문 실습 2.md",
     "CodeingTest/python study/코드잇/제어문/03. while 반복문 실습 1.md",
+    "CodeingTest/python study/코드잇/제어문/02. while 반복문 문법.md",
     "img/스크린샷 2024-04-11 15.52.47.png",
     "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
     "img/스크린샷 2024-04-11 15.51.19.png",
@@ -189,9 +192,6 @@
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
-    "CodeingTest/python study/코드잇/자료형/숫자형.md",
-    "CodeingTest/python study/코드잇/자료형/type 함수.md",
-    "CodeingTest/python study/코드잇/자료형/불린형.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
