@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/11. 상수.md",
+                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/11. 상수.md",
+                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/11. 상수.md",
+                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/11. 상수.md"
+                "file": "CodeingTest/python study/코드잇/추상화/12. 스타일.md"
               }
             }
           },
@@ -156,8 +156,16 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
+    "img/스크린샷 2024-04-11 15.17.27.png",
+    "img/스크린샷 2024-04-11 15.16.24.png",
+    "img/스크린샷 2024-04-11 15.15.50.png",
+    "img/스크린샷 2024-04-11 15.15.23 1.png",
+    "img/스크린샷 2024-04-11 15.15.23.png",
+    "img/스크린샷 2024-04-11 15.15.09.png",
+    "img/스크린샷 2024-04-11 15.14.04.png",
     "CodeingTest/python study/코드잇/추상화/11. 상수.md",
+    "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
+    "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
     "CodeingTest/python study/코드잇/추상화/09. 변수의 scope.md",
     "CodeingTest/python study/코드잇/추상화/08. 추상화 퀴즈.md",
     "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
@@ -171,12 +179,6 @@
     "img/스크린샷 2024-04-07 23.40.36.png",
     "img/스크린샷 2024-04-07 23.21.26.png",
     "img/스크린샷 2024-04-07 23.20.24.png",
-    "img/스크린샷 2024-04-07 23.19.31.png",
-    "img/스크린샷 2024-04-07 23.18.44.png",
-    "img/스크린샷 2024-04-07 23.18.40.png",
-    "img/screencapture-codeit-kr-topics-core-concept-of-python-programming-lessons-2768-2024-04-07-23_13_14.png",
-    "img/스크린샷 2024-04-07 23.07.45.png",
-    "img/스크린샷 2024-04-07 23.05.07.png",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/추상화/02. 함수의 실행 순서.md",
     "CodeingTest/python study/코드잇/자료형/퀴즈 1.md",
@@ -190,8 +192,6 @@
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
     "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
     "Frontend/리액트 강의/유데미/챕터 4/여러 JSX 슬롯 활용법.md",
-    "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소(Wapper컴포넌트)에 Props(속성) 전달하기.md",
-    "Frontend/리액트 강의/유데미/챕터 4/Fragments.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
