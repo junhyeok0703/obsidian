@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
+                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
+                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
+                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md"
+                "file": "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
+    "CodeingTest/python study/코드잇/추상화/15. 거스름돈 계산기.md",
+    "CodeingTest/python study/코드잇/제어문/01. while 반복문 개념.md",
+    "CodeingTest/python study/코드잇/추상화/무제 파일.md",
     "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
+    "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
     "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
     "img/스크린샷 2024-04-11 15.17.27.png",
     "img/스크린샷 2024-04-11 15.16.24.png",
@@ -189,9 +192,6 @@
     "CodeingTest/python study/코드잇/자료형/불린형.md",
     "CodeingTest/python study/코드잇/자료형/불 대수.md",
     "CodeingTest/python study/코드잇/자료형/format을 이용한 문자열 포매팅.md",
-    "Frontend/React.md",
-    "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
-    "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
