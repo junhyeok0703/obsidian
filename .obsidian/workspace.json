@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 3.md"
               }
             }
           },
@@ -156,8 +156,8 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/유데미/챕터 4/70. 모든 컨텐츠가 컴포넌트에 보관될 필요가 없는 이유.md",
     "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
+    "Frontend/리액트 강의/유데미/챕터 4/70. 모든 컨텐츠가 컴포넌트에 보관될 필요가 없는 이유.md",
     "Frontend/리액트 강의/유데미/챕터 4/69. Next 프로젝트 선행 및 심화 개념.md",
     "Frontend/리액트 강의/유데미/챕터 4/기본 Prop(속성) 값 설정.md",
     "Frontend/리액트 강의/유데미/챕터 4/컴포넌트 타입 동적으로 설정하기.md",
