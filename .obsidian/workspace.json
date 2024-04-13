@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
+    "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+    "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
     "Frontend/리액트 강의/유데미/챕터 4/70. 모든 컨텐츠가 컴포넌트에 보관될 필요가 없는 이유.md",
     "Frontend/리액트 강의/유데미/챕터 4/69. Next 프로젝트 선행 및 심화 개념.md",
@@ -190,7 +191,6 @@
     "CodeingTest/python study/코드잇/추상화/08. 추상화 퀴즈.md",
     "CodeingTest/python study/코드잇/추상화/04.return과 print의 차이.md",
     "CodeingTest/python study/코드잇/추상화/05. return 과 print의 차이 실습.md",
-    "CodeingTest/python study/코드잇/추상화/06. 옵셔널 파라미터.md",
     "img/스크린샷 2024-04-07 23.40.53.png",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
