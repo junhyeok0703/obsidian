@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/07. elif문.md",
+                "file": "CodeingTest/python study/코드잇/제어문/09..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/07. elif문.md",
+                "file": "CodeingTest/python study/코드잇/제어문/09..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/07. elif문.md",
+                "file": "CodeingTest/python study/코드잇/제어문/09..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/07. elif문.md"
+                "file": "CodeingTest/python study/코드잇/제어문/09..md"
               }
             }
           },
@@ -156,10 +156,14 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/제어문/08. 학점 계산기.md",
+    "CodeingTest/python study/코드잇/제어문/09..md",
+    "img/스크린샷 2024-04-14 09.29.43.png",
+    "img/스크린샷 2024-04-14 09.29.36.png",
+    "CodeingTest/python study/코드잇/제어문/07. elif문.md",
     "img/스크린샷 2024-04-14 09.26.20.png",
     "img/스크린샷 2024-04-14 09.24.57.png",
     "CodeingTest/python study/코드잇/제어문/06. if문 문법.md",
-    "CodeingTest/python study/코드잇/제어문/07. elif문.md",
     "img/스크린샷 2024-04-14 09.19.35.png",
     "CodeingTest/python study/코드잇/제어문/05. if문 개념.md",
     "img/스크린샷 2024-04-14 09.19.00.png",
@@ -187,11 +191,7 @@
     "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
     "img/스크린샷 2024-04-11 15.17.27.png",
     "img/스크린샷 2024-04-11 15.16.24.png",
-    "img/스크린샷 2024-04-11 15.15.50.png",
-    "img/스크린샷 2024-04-11 15.15.23 1.png",
-    "img/스크린샷 2024-04-11 15.15.23.png",
     "CodeingTest/python study/코드잇/추상화/11. 상수.md",
-    "CodeingTest/python study/코드잇/추상화/10. scope퀴즈.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
