@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/09..md",
+                "file": "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/09..md",
+                "file": "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/09..md",
+                "file": "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/제어문/09..md"
+                "file": "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md"
               }
             }
           },
@@ -156,8 +156,11 @@
   },
   "active": "2e56da251f4e5369",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/제어문/09. 이상한 수학 문제 1.md",
+    "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md",
+    "img/스크린샷 2024-04-14 09.35.03.png",
+    "img/스크린샷 2024-04-14 09.35.00.png",
     "CodeingTest/python study/코드잇/제어문/08. 학점 계산기.md",
-    "CodeingTest/python study/코드잇/제어문/09..md",
     "img/스크린샷 2024-04-14 09.29.43.png",
     "img/스크린샷 2024-04-14 09.29.36.png",
     "CodeingTest/python study/코드잇/제어문/07. elif문.md",
@@ -189,9 +192,6 @@
     "CodeingTest/python study/코드잇/추상화/14 홀수?짝수?.md",
     "CodeingTest/python study/코드잇/추상화/13. 파이썬 스타일 가이드(PEP 8).md",
     "CodeingTest/python study/코드잇/추상화/12. 스타일.md",
-    "img/스크린샷 2024-04-11 15.17.27.png",
-    "img/스크린샷 2024-04-11 15.16.24.png",
-    "CodeingTest/python study/코드잇/추상화/11. 상수.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
