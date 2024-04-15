@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
+                "file": "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
+                "file": "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
+                "file": "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md"
+                "file": "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md"
               }
             }
           },
@@ -156,11 +156,13 @@
   },
   "active": "5f2ebcd5f90e0a63",
   "lastOpenFiles": [
+    "62, 75, 77], [78, 81, 86], [85, 91, 89.md",
+    "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
+    "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
     "img/스크린샷 2024-04-15 12.49.41.png",
     "img/스크린샷 2024-04-15 12.49.30.png",
     "img/스크린샷 2024-04-15 12.49.16.png",
     "CodeingTest/python study/코드잇/리스트/02. 리스트 함수.md",
-    "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
     "CodeingTest/python study/코드잇/리스트/03. 리스트 정렬.md",
     "CodeingTest/python study/코드잇/리스트/04. 리스트 인덱싱 연습.md",
     "CodeingTest/python study/코드잇/리스트/06. 환전 서비스.md",
@@ -180,7 +182,6 @@
     "CodeingTest/python study/코드잇/for 반복문",
     "CodeingTest/python study/코드잇/리스트",
     "img/스크린샷 2024-04-14 10.22.07.png",
-    "img/스크린샷 2024-04-14 10.21.56.png",
     "CodeingTest/python study/코드잇/제어문/13. 피보나치 수열.md",
     "CodeingTest/python study/코드잇/제어문/12. 택이의 우승 상금.md",
     "CodeingTest/python study/코드잇/제어문/11. 약수 찾기.md",
@@ -195,7 +196,6 @@
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
     "Frontend/리액트 강의/유데미/챕터 4/70. 모든 컨텐츠가 컴포넌트에 보관될 필요가 없는 이유.md",
-    "Frontend/리액트 강의/유데미/챕터 4/69. Next 프로젝트 선행 및 심화 개념.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
