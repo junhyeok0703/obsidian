@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md"
+                "file": "CodeingTest/python study/코드잇/리스트/01. 리스트.md"
               }
             }
           },
@@ -156,6 +156,8 @@
   },
   "active": "5f2ebcd5f90e0a63",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+    "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
     "CodeingTest/python study/코드잇/제어문/14. 구구단 만들기.md",
     "CodeingTest/python study/코드잇/파이썬 데이터의 비밀",
     "CodeingTest/python study/코드잇/사전",
@@ -182,7 +184,6 @@
     "CodeingTest/python study/코드잇/제어문/06. if문 문법.md",
     "CodeingTest/python study/코드잇/제어문/05. if문 개념.md",
     "CodeingTest/python study/코드잇/제어문/04. while 반복문 실습 2.md",
-    "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
     "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
     "Frontend/리액트 강의/유데미/챕터 3.md",
     "Frontend/리액트 강의/유데미/챕터 4/71. 세부과정 - 이미지 저장소는 public vs assets.md",
