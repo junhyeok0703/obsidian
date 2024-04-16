@@ -117,10 +117,133 @@ RAG 데이터 견적데이터와 컴퓨터부품가격데이터가 둘을 어떻
 
 ![[스크린샷 2024-04-16 23.17.04.png]]
 
+```
+  
 
+from langchain.vectorstores import Chroma
 
+from langchain.embeddings import OpenAIEmbeddings
+
+  
+
+# text-embedding-3-small 모델을 사용하여 벡터 스토어를 생성합니다.
+
+vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings(openai_api_key=OPENAI_KEY, model="text-embedding-3-small"))
+
+retriever = vectorstore.as_retriever()
+
+  
+
+# 밑에는 비싼모델임
+
+# vectorstore = Chroma.from_documents(documents=splits, embedding=OpenAIEmbeddings(openai_api_key=OPENAI_KEY)) # text-embedding-ada-002
+
+# retriever = vectorstore.as_retriever()
+```
+
+```
+from langchain.prompts import PromptTemplate
+
+  
+
+template = """
+
+# Few-shot Prompt for Computer Quotation Chatbot
+
+  
+
+## 예시 1:
+
+### 사용자: 게임과 그래픽 디자인을 할 수 있는 PC를 150만원 이하로 추천해주세요.
+
+### 챗봇: 예산과 요구사항을 고려할 때, 다음 구성을 추천드립니다:
+
+- AMD Ryzen 7 3700X 프로세서 (가격: 30만원)
+
+- NVIDIA GTX 1660 Ti 그래픽 카드 (가격: 40만원)
+
+- 16GB RAM (가격: 8만원)
+
+- 512GB SSD (가격: 10만원)
+
+- 650W 파워 서플라이 (가격: 7만원)
+
+이 구성은 총 95만원이며, 고사양 게임과 복잡한 그래픽 작업에 적합한 성능을 제공합니다.
+
+  
+
+## 예시 2:
+
+### 사용자: 딥러닝 작업을 위한 컴퓨터 세팅을 200만원 이내로 추천해주세요.
+
+### 챗봇: 딥러닝과 같은 고성능 컴퓨팅을 위해 다음과 같은 구성을 제안합니다:
+
+- Intel Core i9-9900K (가격: 50만원)
+
+- NVIDIA RTX 3070 (가격: 90만원)
+
+- 32GB RAM (가격: 16만원)
+
+- 1TB SSD (가격: 20만원)
+
+- 750W 파워 서플라이 (가격: 12만원)
+
+이 구성은 총 188만원이며, 딥러닝 알고리즘을 빠르고 효과적으로 처리할 수 있는 충분한 처리 능력을 제공합니다.
+
+  
+
+## 예시 3:
+
+### 사용자: 기본 홈 오피스 세팅 가격이 얼마인가요?
+
+### 챗봇: 일상적인 오피스 작업을 위한 경제적인 선택으로, 다음 구성을 추천드립니다:
+
+- Intel i5 프로세서 (가격: 20만원)
+
+- 내장 그래픽
+
+- 8GB RAM (가격: 4만원)
+
+- 256GB SSD (가격: 5만원)
+
+- 400W 파워 서플라이 (가격: 3만원)
+
+이 세팅의 총 비용은 약 32만원이며, 문서 작업, 웹 브라우징 및 비디오 회의 등의 기본적인 컴퓨터 작업을 수행하기에 충분합니다.
+
+  
+
+# 사용자 입력:
+
+### 사용자: [사용자의 요구사항 입력]
+
+### 챗봇: [가능한 데이터와 논리에 기반한 응답. 정보가 부족할 경우: "죄송하지만 귀하의 사양에 따른 자세한 추천을 제공할 정보가 충분하지 않습니다. 더 자세한 내용을 제공하거나 전문가와 상담하시기 바랍니다."]
+
+"""
+
+  
+
+rag_prompt_custom = PromptTemplate.from_template(template)
+```
+
+```
+# RAG chain 설정
+
+  
+
+from langchain.schema.runnable import RunnablePassthrough
+
+  
+
+rag_chain = {"context": retriever, "question": RunnablePassthrough()} | rag_prompt_custom | llm
+```
+![[스크린샷 2024-04-16 23.20.58.png]]
+위 사진이 결과값인데 
 문제점 1. 견적데이터는 한글인데 영어로 출력됨
 문제점 2. 견적을 중복되게 이야기해줌
 
+
+내가볼때 파일을 견적하나하나로 다 나눠서 라벨링해야될듯?
+약 4000개정도
+지금 다 관련있는거로 생각할것같은데 뭔가?..
 해결방안1.  강의를 참고해서 데이터형식을 비슷하게 만든다.
 해결방안2.  프롬프트를 잘써서 가격데이터와 견적데이터를 매칭하도록 유도하기
