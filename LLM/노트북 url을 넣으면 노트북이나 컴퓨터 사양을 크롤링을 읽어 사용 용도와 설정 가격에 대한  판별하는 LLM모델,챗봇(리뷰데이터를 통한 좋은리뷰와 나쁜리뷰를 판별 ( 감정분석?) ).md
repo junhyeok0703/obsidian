@@ -247,3 +247,6 @@ rag_chain = {"context": retriever, "question": RunnablePassthrough()} | rag_prom
 지금 다 관련있는거로 생각할것같은데 뭔가?..
 해결방안1.  강의를 참고해서 데이터형식을 비슷하게 만든다.
 해결방안2.  프롬프트를 잘써서 가격데이터와 견적데이터를 매칭하도록 유도하기
+
+
+
