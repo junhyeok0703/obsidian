@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "08ed6b7f9b74fa78",
+        "id": "c0d7fb0b4bacd065",
         "type": "tabs",
         "children": [
           {
-            "id": "5f2ebcd5f90e0a63",
+            "id": "c34f34fbad6ce942",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5f2ebcd5f90e0a63",
+  "active": "c34f34fbad6ce942",
   "lastOpenFiles": [
-    "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
+    "LLM/시디즈 의자 추천과 챗봇서비스 개발.md",
     "캡스톤 끝나면 할일.md",
     "LLM/파인튜닝이란?.md",
     "img/스크린샷 2024-04-16 23.20.58.png",
