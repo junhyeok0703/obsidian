@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b1a5ba50086ed8f9",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md"
+                "file": "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md"
               }
             }
           },
@@ -158,9 +157,10 @@
   },
   "active": "c4eca0392dc4a0c2",
   "lastOpenFiles": [
+    "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
+    "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
     "img/스크린샷 2024-04-25 17.34.10.png",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
-    "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/파인튜닝이란?.md",
     "캡스톤 끝나면 할일.md",
@@ -181,7 +181,6 @@
     "CodeingTest/python study/코드잇/리스트/05. 온도 단위 바꾸기.md",
     "img/스크린샷 2024-04-15 11.11.47.png",
     "img/스크린샷 2024-04-15 11.11.39.png",
-    "img/스크린샷 2024-04-15 11.02.05.png",
     "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
     "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
     "CodeingTest/python study/코드잇/제어문/14. 구구단 만들기.md",
