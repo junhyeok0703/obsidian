@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md"
+                "file": "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "c4eca0392dc4a0c2",
   "lastOpenFiles": [
+    "img/스크린샷 2024-04-29 14.58.37.png",
+    "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
+    "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
     "img/스크린샷 2024-04-29 14.56.47.png",
     "CodeingTest/python study/코드잇/for 반복문/03. range 연습.md",
-    "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
     "img/스크린샷 2024-04-29 14.50.58.png",
     "CodeingTest/python study/코드잇/for 반복문/02. range 함수.md",
     "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
@@ -184,7 +186,6 @@
     "img/스크린샷 2024-04-15 11.38.41.png",
     "img/스크린샷 2024-04-15 11.38.27.png",
     "CodeingTest/python study/코드잇/리스트/05. 온도 단위 바꾸기.md",
-    "img/스크린샷 2024-04-15 11.11.47.png",
     "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
     "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
     "CodeingTest/python study/코드잇/제어문/14. 구구단 만들기.md",
@@ -196,7 +197,6 @@
     "CodeingTest/python study/코드잇/제어문/13. 피보나치 수열.md",
     "CodeingTest/python study/코드잇/제어문/12. 택이의 우승 상금.md",
     "CodeingTest/python study/코드잇/제어문/11. 약수 찾기.md",
-    "CodeingTest/python study/코드잇/제어문/10. 이상한 수학 문제 2.md",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
