@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+                "file": "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md"
+                "file": "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md"
               }
             }
           },
@@ -155,13 +155,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "3b970c04053f40c4",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
+    "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md",
     "img/스크린샷 2024-05-01 00.45.37.png",
     "img/스크린샷 2024-05-01 00.44.41.png",
     "img/스크린샷 2024-05-01 00.44.04.png",
     "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소(Wapper컴포넌트)에 Props(속성) 전달하기.md",
-    "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
     "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/파인튜닝이란?.md",
@@ -185,7 +186,6 @@
     "62, 75, 77], [78, 81, 86], [85, 91, 89.md",
     "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
     "img/스크린샷 2024-04-15 12.49.41.png",
-    "img/스크린샷 2024-04-15 12.49.30.png",
     "CodeingTest/python study/코드잇/리스트/02. 리스트 함수.md",
     "CodeingTest/python study/코드잇/리스트/03. 리스트 정렬.md",
     "CodeingTest/python study/코드잇/리스트/04. 리스트 인덱싱 연습.md",
