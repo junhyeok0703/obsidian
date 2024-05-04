@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md"
+                "file": "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md"
               }
             }
           },
@@ -158,7 +158,9 @@
   "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
     "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
+    "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
+    "img/스크린샷 2024-05-04 17.40.27.png",
     "img/스크린샷 2024-05-04 17.37.22.png",
     "CodeingTest/python study/코드잇/2. for 반복문/07. 리스트 뒤집기.md",
     "img/스크린샷 2024-05-04 17.22.34.png",
@@ -184,7 +186,6 @@
     "CodeingTest/python study/코드잇/2. for 반복문/04. 거듭제곱.md",
     "img/스크린샷 2024-04-29 14.56.47.png",
     "CodeingTest/python study/코드잇/2. for 반복문/03. range 연습.md",
-    "img/스크린샷 2024-04-29 14.50.58.png",
     "CodeingTest/python study/코드잇/2. for 반복문/02. range 함수.md",
     "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
@@ -193,7 +194,6 @@
     "62, 75, 77], [78, 81, 86], [85, 91, 89.md",
     "CodeingTest/python study/코드잇/1. 리스트/07. 리스트 함수 활용하기.md",
     "CodeingTest/python study/코드잇/1. 리스트/02. 리스트 함수.md",
-    "CodeingTest/python study/코드잇/1. 리스트/03. 리스트 정렬.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
     "CodeingTest/python study/코드잇/3. 사전",
     "CodeingTest/python study/코드잇/2. for 반복문",
