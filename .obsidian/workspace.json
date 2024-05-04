@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b44cab721701c943",
+        "id": "2a840aff30292a2e",
         "type": "tabs",
         "children": [
           {
-            "id": "3b970c04053f40c4",
+            "id": "0ecbac8f76484e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤 끝나면 할일.md"
+                "file": "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md"
               }
             }
           },
@@ -155,8 +155,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "3b970c04053f40c4",
+  "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
+    "img/스크린샷 2024-05-04 17.17.39.png",
+    "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
+    "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md",
+    "캡스톤 끝나면 할일.md",
     "Frontend/리액트 강의/유데미/챕터 4/76. 조건적 콘테츠 & State(상태) 업데이트를 위한 차선책.md",
     "Frontend/리액트 강의/유데미/챕터 4/75.  컴포넌트 인스턴스의 분리된 동작법.md",
     "Frontend/리액트 강의/유데미/챕터 4/74. 개념복습 - State(상태) 활용법.md",
@@ -171,7 +175,6 @@
     "LLM/파인튜닝이란?.md",
     "영어일기/2024.4.29 월.md",
     "영어일기",
-    "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
     "img/스크린샷 2024-04-29 14.58.37.png",
     "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
     "img/스크린샷 2024-04-29 14.56.47.png",
@@ -182,7 +185,6 @@
     "img/스크린샷 2024-04-25 17.34.10.png",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
-    "캡스톤 끝나면 할일.md",
     "img/스크린샷 2024-04-16 23.20.58.png",
     "img/스크린샷 2024-04-16 23.17.04.png",
     "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
@@ -192,8 +194,6 @@
     "CodeingTest/python study/코드잇/리스트/03. 리스트 정렬.md",
     "CodeingTest/python study/코드잇/리스트/04. 리스트 인덱싱 연습.md",
     "CodeingTest/python study/코드잇/리스트/06. 환전 서비스.md",
-    "CodeingTest/python study/코드잇/리스트/05. 온도 단위 바꾸기.md",
-    "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
     "CodeingTest/python study/코드잇/파이썬 데이터의 비밀",
     "CodeingTest/python study/코드잇/사전",
     "CodeingTest/python study/코드잇/for 반복문",
