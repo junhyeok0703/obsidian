@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/사전/01. 사전.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/사전/01. 사전.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/사전/01. 사전.md",
+                "file": "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/사전/01. 사전.md"
+                "file": "CodeingTest/python study/코드잇/3. 사전/01. 사전.md"
               }
             }
           },
@@ -157,12 +157,12 @@
   },
   "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/for 반복문/07. 리스트 뒤집기.md",
-    "CodeingTest/python study/코드잇/사전/01. 사전.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/07. 리스트 뒤집기.md",
+    "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
     "img/스크린샷 2024-05-04 17.22.34.png",
-    "CodeingTest/python study/코드잇/for 반복문/06. 피타고라스 삼조.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/06. 피타고라스 삼조.md",
     "img/스크린샷 2024-05-04 17.17.39.png",
-    "CodeingTest/python study/코드잇/for 반복문/05. 구구단.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
     "캡스톤 끝나면 할일.md",
     "Frontend/리액트 강의/유데미/챕터 4/76. 조건적 콘테츠 & State(상태) 업데이트를 위한 차선책.md",
     "Frontend/리액트 강의/유데미/챕터 4/75.  컴포넌트 인스턴스의 분리된 동작법.md",
@@ -179,25 +179,25 @@
     "영어일기/2024.4.29 월.md",
     "영어일기",
     "img/스크린샷 2024-04-29 14.58.37.png",
-    "CodeingTest/python study/코드잇/for 반복문/04. 거듭제곱.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/04. 거듭제곱.md",
     "img/스크린샷 2024-04-29 14.56.47.png",
-    "CodeingTest/python study/코드잇/for 반복문/03. range 연습.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/03. range 연습.md",
     "img/스크린샷 2024-04-29 14.50.58.png",
-    "CodeingTest/python study/코드잇/for 반복문/02. range 함수.md",
-    "CodeingTest/python study/코드잇/for 반복문/01. for 반복문.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/02. range 함수.md",
+    "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
     "img/스크린샷 2024-04-25 17.34.10.png",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
-    "CodeingTest/python study/코드잇/리스트/08. 리스트 꿀팁.md",
+    "CodeingTest/python study/코드잇/1. 리스트/08. 리스트 꿀팁.md",
     "62, 75, 77], [78, 81, 86], [85, 91, 89.md",
-    "CodeingTest/python study/코드잇/리스트/07. 리스트 함수 활용하기.md",
-    "CodeingTest/python study/코드잇/리스트/02. 리스트 함수.md",
-    "CodeingTest/python study/코드잇/리스트/03. 리스트 정렬.md",
-    "CodeingTest/python study/코드잇/리스트/04. 리스트 인덱싱 연습.md",
-    "CodeingTest/python study/코드잇/파이썬 데이터의 비밀",
-    "CodeingTest/python study/코드잇/사전",
-    "CodeingTest/python study/코드잇/for 반복문",
-    "CodeingTest/python study/코드잇/리스트",
+    "CodeingTest/python study/코드잇/1. 리스트/07. 리스트 함수 활용하기.md",
+    "CodeingTest/python study/코드잇/1. 리스트/02. 리스트 함수.md",
+    "CodeingTest/python study/코드잇/1. 리스트/03. 리스트 정렬.md",
+    "CodeingTest/python study/코드잇/1. 리스트/04. 리스트 인덱싱 연습.md",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
+    "CodeingTest/python study/코드잇/3. 사전",
+    "CodeingTest/python study/코드잇/2. for 반복문",
+    "CodeingTest/python study/코드잇/1. 리스트",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
