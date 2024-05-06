@@ -143,3 +143,6 @@ meta_data에 왜이렇게 많은 데이터들이 있는가?
 
 https://colab.research.google.com/drive/1PALBOJ-vXgKe3LOIbKoqeD8kuZYx_Lnr#scrollTo=vL-HP-9L8OIq
 
+selft_query
+
+메타데이터 기반으로 먼저 질문을 주면 메타데이터 기반으로 쿼리로 가져옴
