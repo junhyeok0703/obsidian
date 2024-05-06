@@ -145,4 +145,14 @@ https://colab.research.google.com/drive/1PALBOJ-vXgKe3LOIbKoqeD8kuZYx_Lnr#scroll
 
 selft_query
 
-메타데이터 기반으로 먼저 질문을 주면 메타데이터 기반으로 쿼리로 가져옴
+메타데이터 기반으로 먼저 질문을 주면 메타데이터 기반으로 쿼리로 가져옴![[스크린샷 2024-05-06 23.47.22.png]]
+
+Document에 page_content랑 metadata를 넣어서 
+page_contnet는 LLM이 참고할 내용들
+meta_data는 쿼리로 확인할 데이터들
+![[스크린샷 2024-05-06 23.49.36.png]]
+그 메타데이터 카테고리에 대한 설명?
+
+밑에 리트리버로 만약 8.5인 영화 데이터 이야기해라 그러면 
+Document에서 필터링해서 하나 던져줌
+![[스크린샷 2024-05-06 23.51.29.png]]
