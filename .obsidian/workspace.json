@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/멋사스터디/라우터.md",
+                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/멋사스터디/라우터.md",
+                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/멋사스터디/라우터.md",
+                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/멋사스터디/라우터.md"
+                "file": "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
-    "Frontend/멋사스터디.md",
     "Frontend/멋사스터디/라우터.md",
+    "Frontend/멋사스터디.md",
     "Frontend/멋사스터디",
     "Frontend/React.md",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
