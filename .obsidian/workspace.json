@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/멋사스터디/리덕스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/멋사스터디/리덕스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/멋사스터디/리덕스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md"
+                "file": "Frontend/멋사스터디/리덕스.md"
               }
             }
           },
@@ -157,12 +157,13 @@
   },
   "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
+    "Frontend/멋사스터디/라우터.md",
+    "Frontend/멋사스터디/리덕스.md",
+    "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "img/스크린샷 2024-05-22 14.26.14.png",
     "img/스크린샷 2024-05-22 14.26.01.png",
     "img/스크린샷 2024-05-22 14.25.50.png",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
-    "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
-    "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디.md",
     "Frontend/멋사스터디",
     "Frontend/React.md",
@@ -178,7 +179,6 @@
     "CodeingTest/python study/코드잇/2. for 반복문/07. 리스트 뒤집기.md",
     "img/스크린샷 2024-05-04 17.22.34.png",
     "CodeingTest/python study/코드잇/2. for 반복문/06. 피타고라스 삼조.md",
-    "img/스크린샷 2024-05-04 17.17.39.png",
     "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
     "캡스톤 끝나면 할일.md",
     "Frontend/리액트 강의/유데미/챕터 4/76. 조건적 콘테츠 & State(상태) 업데이트를 위한 차선책.md",
