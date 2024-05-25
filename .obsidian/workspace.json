@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md"
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md"
               }
             }
           },
@@ -155,11 +155,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법",
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/object shorthand assignment.md",
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md",
+    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
+    "img/스크린샷 2024-05-25 17.30.40.png",
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/리액트 강의/코딩알려주는누나/react란?.md",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
     "Frontend/React.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "img/스크린샷 2024-05-25 15.18.41.png",
@@ -168,7 +171,6 @@
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/파인튜닝이란?.md",
-    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디/라우터.md",
     "img/스크린샷 2024-05-22 14.26.14.png",
@@ -179,7 +181,6 @@
     "img/스크린샷 2024-05-06 23.51.29.png",
     "img/스크린샷 2024-05-06 23.49.36.png",
     "img/스크린샷 2024-05-05 00.25.31.png",
-    "img/스크린샷 2024-05-06 23.47.22.png",
     "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
     "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
@@ -202,7 +203,6 @@
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
     "CodeingTest/python study/코드잇/제어문",
-    "CodeingTest/python study/코드잇/추상화",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
