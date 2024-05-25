@@ -1,3 +1,5 @@
+
+## 객체일 경우
 ```
 let person = {
 name : "noona",
@@ -14,9 +16,18 @@ console.log(name,age)
 ```
 하지만 객체분해할수있다.
 ```
-
 let {name,age} = person
-
-
 ```
 이런식으로 person이란 객체에서 키값을 {}이 안에 넣어주면 그 변수이름 그대로 사용 가능하다.
+
+## 배열일 경우
+
+```
+let array = [1,2,3,4]
+let [a,b] = array
+
+
+console.log(a,b)
+
+## 1 2 
+```
