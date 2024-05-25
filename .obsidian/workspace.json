@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md"
+                "file": "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md"
               }
             }
           },
@@ -155,8 +155,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "0ecbac8f76484e7c",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법",
+    "Frontend/리액트 강의/코딩알려주는누나/react란?.md",
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 자바스크립트문법/무제 파일.md",
+    "Frontend/React.md",
+    "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "img/스크린샷 2024-05-25 15.18.41.png",
     "img/스크린샷 2024-05-25 15.16.53.png",
     "img/스크린샷 2024-05-25 15.15.48.png",
@@ -164,7 +169,6 @@
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/파인튜닝이란?.md",
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
-    "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디/라우터.md",
     "img/스크린샷 2024-05-22 14.26.14.png",
@@ -172,7 +176,6 @@
     "img/스크린샷 2024-05-22 14.25.50.png",
     "Frontend/멋사스터디.md",
     "Frontend/멋사스터디",
-    "Frontend/React.md",
     "img/스크린샷 2024-05-06 23.51.29.png",
     "img/스크린샷 2024-05-06 23.49.36.png",
     "img/스크린샷 2024-05-05 00.25.31.png",
@@ -180,7 +183,6 @@
     "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
     "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
-    "img/스크린샷 2024-05-04 17.40.27.png",
     "CodeingTest/python study/코드잇/2. for 반복문/07. 리스트 뒤집기.md",
     "CodeingTest/python study/코드잇/2. for 반복문/06. 피타고라스 삼조.md",
     "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
@@ -193,8 +195,6 @@
     "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
     "영어일기/2024.4.29 월.md",
     "영어일기",
-    "CodeingTest/python study/코드잇/2. for 반복문/04. 거듭제곱.md",
-    "CodeingTest/python study/코드잇/2. for 반복문/03. range 연습.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
     "CodeingTest/python study/코드잇/3. 사전",
     "CodeingTest/python study/코드잇/2. for 반복문",
