@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/멋사스터디/리덕스.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/멋사스터디/리덕스.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/멋사스터디/리덕스.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/멋사스터디/리덕스.md"
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md"
               }
             }
           },
@@ -157,13 +157,16 @@
   },
   "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
-    "Frontend/멋사스터디/라우터.md",
-    "Frontend/멋사스터디/리덕스.md",
+    "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
+    "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
+    "LLM/파인튜닝이란?.md",
+    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
+    "Frontend/멋사스터디/리덕스.md",
+    "Frontend/멋사스터디/라우터.md",
     "img/스크린샷 2024-05-22 14.26.14.png",
     "img/스크린샷 2024-05-22 14.26.01.png",
     "img/스크린샷 2024-05-22 14.25.50.png",
-    "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "Frontend/멋사스터디.md",
     "Frontend/멋사스터디",
     "Frontend/React.md",
@@ -187,14 +190,11 @@
     "Frontend/리액트 강의/유데미/챕터 4/73. 개념 복습 - 컴포넌트 분리 & 재사용 가능한 컴포넌트 구축.md",
     "Frontend/리액트 강의/유데미/챕터 4/감싸인 요소(Wapper컴포넌트)에 Props(속성) 전달하기.md",
     "Frontend/리액트 강의/유데미/챕터 4/72 새 프로젝트 - 틱택톡 게임 첫 단계.md",
-    "LLM/파인튜닝이란?.md",
     "영어일기/2024.4.29 월.md",
     "영어일기",
     "CodeingTest/python study/코드잇/2. for 반복문/04. 거듭제곱.md",
     "CodeingTest/python study/코드잇/2. for 반복문/03. range 연습.md",
     "CodeingTest/python study/코드잇/2. for 반복문/02. range 함수.md",
-    "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
-    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
     "CodeingTest/python study/코드잇/3. 사전",
     "CodeingTest/python study/코드잇/2. for 반복문",
