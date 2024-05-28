@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md"
+                "file": "LLM/RAG 작업량 근거 자료 및 로직 설명.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "0ecbac8f76484e7c",
   "lastOpenFiles": [
+    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/spread.md",
@@ -166,7 +167,6 @@
     "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "img/스크린샷 2024-05-25 17.30.40.png",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
     "Frontend/React.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "img/스크린샷 2024-05-25 15.18.41.png",
@@ -202,7 +202,6 @@
     "CodeingTest/python study/코드잇/1. 리스트",
     "Frontend/리액트 강의/유데미/챕터 4",
     "CodeingTest/python study",
-    "CodeingTest/python study/코드잇/제어문",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
