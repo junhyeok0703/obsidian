@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md"
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md"
               }
             }
           },
@@ -157,16 +157,22 @@
   },
   "active": "15d7353f58046fc4",
   "lastOpenFiles": [
-    "img/스크린샷 2024-05-31 21.04.17.png",
-    "img/스크린샷 2024-05-31 20.59.47.png",
-    "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
+    "img/스크린샷 2024-05-31 21.14.31.png",
+    "img/스크린샷 2024-05-31 21.14.07.png",
+    "img/스크린샷 2024-05-31 21.12.56.png",
+    "img/스크린샷 2024-05-31 21.12.18.png",
+    "img/스크린샷 2024-05-31 21.11.47.png",
+    "img/스크린샷 2024-05-31 21.10.21.png",
+    "img/스크린샷 2024-05-31 21.09.26.png",
+    "img/스크린샷 2024-05-31 21.09.01.png",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/02. Aliasing 퀴즈.md",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
+    "img/Pasted image 20240531210755.png",
+    "img/Pasted image 20240531210654.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
-    "img/스크린샷 2024-05-31 20.58.10.png",
+    "img/스크린샷 2024-05-31 21.04.17.png",
+    "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
     "CodeingTest/python study/코드잇/3. 사전/04. 사전 뒤집기.md",
-    "img/스크린샷 2024-05-31 20.48.07.png",
-    "img/스크린샷 2024-05-31 20.47.55.png",
-    "img/스크린샷 2024-05-31 20.47.48.png",
-    "img/스크린샷 2024-05-31 20.47.35.png",
     "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
     "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
@@ -176,10 +182,6 @@
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "LLM/파인튜닝이란?.md",
     "캡스톤 끝나면 할일.md",
-    "img/스크린샷 2024-05-28 18.25.19.png",
-    "img/스크린샷 2024-05-28 18.24.42.png",
-    "img/스크린샷 2024-05-28 18.23.50.png",
-    "img/스크린샷 2024-05-28 18.23.24.png",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
@@ -193,8 +195,6 @@
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "Frontend/멋사스터디/리덕스.md",
-    "Frontend/멋사스터디/라우터.md",
-    "Frontend/멋사스터디.md",
     "Frontend/멋사스터디",
     "영어일기",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
