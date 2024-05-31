@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md"
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "15d7353f58046fc4",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/04. 리스트와 문자열 정리.md",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+    "img/screencapture-codeit-kr-topics-python-programming-and-data-lessons-3009-2024-05-31-21_17_17.png",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
     "img/스크린샷 2024-05-31 21.14.31.png",
     "img/스크린샷 2024-05-31 21.14.07.png",
     "img/스크린샷 2024-05-31 21.12.56.png",
@@ -166,11 +170,8 @@
     "img/스크린샷 2024-05-31 21.09.26.png",
     "img/스크린샷 2024-05-31 21.09.01.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/02. Aliasing 퀴즈.md",
-    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
     "img/Pasted image 20240531210755.png",
-    "img/Pasted image 20240531210654.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
-    "img/스크린샷 2024-05-31 21.04.17.png",
     "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
     "CodeingTest/python study/코드잇/3. 사전/04. 사전 뒤집기.md",
     "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
@@ -194,7 +195,6 @@
     "Frontend/React.md",
     "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
     "LLM/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
-    "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디",
     "영어일기",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
