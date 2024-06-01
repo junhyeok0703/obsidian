@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "791c95e5da286755",
+        "id": "a17836a549f665c5",
         "type": "tabs",
         "children": [
           {
-            "id": "15d7353f58046fc4",
+            "id": "53d5aef29b60265b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
+                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
+                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
+                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md"
+                "file": "CodeingTest/python study/코드잇/자료형/문자열.md"
               }
             }
           },
@@ -155,10 +155,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "15d7353f58046fc4",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+    "CodeingTest/python study/코드잇/무제 폴더",
+    "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
+    "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/07. 팰린드룸.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
+    "img/스크린샷 2024-06-02 00.25.16.png",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
     "img/스크린샷 2024-06-02 00.14.52.png",
     "img/스크린샷 2024-05-31 21.28.34.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/04. 리스트와 문자열 정리.md",
@@ -170,7 +175,6 @@
     "img/스크린샷 2024-05-31 21.12.18.png",
     "img/스크린샷 2024-05-31 21.11.47.png",
     "img/스크린샷 2024-05-31 21.10.21.png",
-    "img/스크린샷 2024-05-31 21.09.26.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/02. Aliasing 퀴즈.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
     "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
@@ -190,11 +194,7 @@
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/spread.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/rest (...).md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/object shorthand assignment.md",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/Destructuring.md",
-    "LLM/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
-    "Frontend/React.md",
-    "LLM/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
     "Frontend/멋사스터디",
     "영어일기",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀",
