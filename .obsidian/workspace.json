@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md"
+                "file": "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "15d7353f58046fc4",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
+    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
+    "img/스크린샷 2024-06-02 00.14.52.png",
     "img/스크린샷 2024-05-31 21.28.34.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/04. 리스트와 문자열 정리.md",
-    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
     "img/screencapture-codeit-kr-topics-python-programming-and-data-lessons-3009-2024-05-31-21_17_17.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
     "img/스크린샷 2024-05-31 21.14.31.png",
@@ -169,9 +171,7 @@
     "img/스크린샷 2024-05-31 21.11.47.png",
     "img/스크린샷 2024-05-31 21.10.21.png",
     "img/스크린샷 2024-05-31 21.09.26.png",
-    "img/스크린샷 2024-05-31 21.09.01.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/02. Aliasing 퀴즈.md",
-    "img/Pasted image 20240531210755.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
     "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
     "CodeingTest/python study/코드잇/3. 사전/04. 사전 뒤집기.md",
