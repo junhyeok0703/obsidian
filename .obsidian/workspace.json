@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/문자열.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/자료형/문자열.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md"
               }
             }
           },
@@ -155,9 +155,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "53d5aef29b60265b",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/무제 폴더",
+    "CodeingTest/python study/코드잇/자료형/문자열.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
+    "CodeingTest/python study/코드잇/파이썬 응용하기",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/07. 팰린드룸.md",
@@ -193,7 +196,6 @@
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/spread.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/rest (...).md",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/object shorthand assignment.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
     "영어일기",
@@ -201,8 +203,6 @@
     "CodeingTest/python study/코드잇/3. 사전",
     "CodeingTest/python study/코드잇/2. for 반복문",
     "CodeingTest/python study/코드잇/1. 리스트",
-    "Frontend/리액트 강의/유데미/챕터 4",
-    "CodeingTest/python study",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일.canvas",
     "무제 파일 1.canvas",
