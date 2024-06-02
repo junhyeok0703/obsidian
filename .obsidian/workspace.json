@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a17836a549f665c5",
+        "id": "0feeb154636df482",
         "type": "tabs",
         "children": [
           {
-            "id": "53d5aef29b60265b",
+            "id": "ac2701a48b569204",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
+                "file": "Frontend/SPA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
+                "file": "Frontend/SPA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
+                "file": "Frontend/SPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md"
+                "file": "Frontend/SPA.md"
               }
             }
           },
@@ -155,11 +155,19 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "53d5aef29b60265b",
+  "active": "ac2701a48b569204",
   "lastOpenFiles": [
+    "Frontend/멋사스터디/React.md",
+    "Frontend/SPA.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!(프로젝트설정).md",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/1. 리액트란?.md",
+    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
+    "LLM/파인튜닝이란?.md",
+    "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
+    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
+    "무제 파일.canvas",
+    "캡스톤 끝나면 할일.md",
+    "영어일기/2024.4.29 월.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
     "CodeingTest/python study/코드잇/자료형/문자열.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
@@ -188,14 +196,7 @@
     "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "CodeingTest/python study/코드잇/3. 사전/02. 영어 단어장.md",
     "CodeingTest/python study/코드잇/3. 사전/01. 사전.md",
-    "CodeingTest/python study/코드잇/자료형/퀴즈 2.md",
-    "CodeingTest/python study/코드잇/자료형/숫자형.md",
-    "CodeingTest/python study/코드잇/자료형/문자열을 포매팅하는 다양한 방식.md",
-    "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
-    "LLM/파인튜닝이란?.md",
-    "캡스톤 끝나면 할일.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
     "영어일기",
@@ -204,7 +205,6 @@
     "CodeingTest/python study/코드잇/2. for 반복문",
     "CodeingTest/python study/코드잇/1. 리스트",
     "Frontend/강의/ㅇ.canvas",
-    "무제 파일.canvas",
     "무제 파일 1.canvas",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
