@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md"
+                "file": "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "53d5aef29b60265b",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/자료형/문자열.md",
+    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/1. 리액트란?.md",
+    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+    "CodeingTest/python study/코드잇/자료형/문자열.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
     "CodeingTest/python study/코드잇/추상화/03. return문 제대로 이해하기.md",
@@ -191,11 +193,9 @@
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "LLM/파인튜닝이란?.md",
     "캡스톤 끝나면 할일.md",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/react란?.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/spread.md",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/rest (...).md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
     "영어일기",
