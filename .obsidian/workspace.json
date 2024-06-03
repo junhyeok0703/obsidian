@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기",
     "img/Pasted image 20240603214821.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03. random 모듈.md",
@@ -197,7 +198,6 @@
     "CodeingTest/python study/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/07. 팰린드룸.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/06. 주민등록번호 가르기.md",
-    "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/05. 자릿수 합 구하기.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
