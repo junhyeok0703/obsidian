@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03..md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03..md"
               }
             }
           },
@@ -157,6 +157,13 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
+    "img/screencapture-codeit-kr-topics-making-use-of-python-lessons-2819-2024-06-03-21_09_27.png",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/02. 스탠다드 라이브러리.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03..md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+    "img/Pasted image 20240603210040.png",
+    "img/Pasted image 20240603205757.png",
+    "img/Pasted image 20240603205631.png",
     "img/Pasted image 20240603205244.png",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "2024-06-03.md",
@@ -172,7 +179,6 @@
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "캡스톤 끝나면 할일.md",
     "영어일기/2024.4.29 월.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
     "CodeingTest/python study/코드잇/자료형/문자열.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
@@ -188,14 +194,8 @@
     "img/screencapture-codeit-kr-topics-python-programming-and-data-lessons-3009-2024-05-31-21_17_17.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/03. 리스트와 문자열.md",
     "img/스크린샷 2024-05-31 21.14.31.png",
-    "img/스크린샷 2024-05-31 21.14.07.png",
-    "img/스크린샷 2024-05-31 21.12.56.png",
-    "img/스크린샷 2024-05-31 21.12.18.png",
-    "img/스크린샷 2024-05-31 21.11.47.png",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/02. Aliasing 퀴즈.md",
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
-    "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
-    "CodeingTest/python study/코드잇/3. 사전/04. 사전 뒤집기.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
