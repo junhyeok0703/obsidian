@@ -11,8 +11,12 @@
             "id": "048ce8f2afd09304",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md"
+              }
             }
           },
           {
@@ -149,6 +157,7 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
+    "img/Pasted image 20240603205244.png",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "2024-06-03.md",
     "img/스크린샷 2024-05-28 14.59.36.png",
@@ -187,7 +196,6 @@
     "CodeingTest/python study/코드잇/4. 파이썬 데이터의 비밀/01. Aliasing.md",
     "CodeingTest/python study/코드잇/3. 사전/05. 투표 집계하기.md",
     "CodeingTest/python study/코드잇/3. 사전/04. 사전 뒤집기.md",
-    "CodeingTest/python study/코드잇/3. 사전/03. 사전 활용법.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
     "Frontend/멋사스터디",
