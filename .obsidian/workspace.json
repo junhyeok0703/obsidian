@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "481860bd792d95d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
+                "file": "리눅스/정리/1. 리눅스의 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
+                "file": "리눅스/정리/1. 리눅스의 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md"
+                "file": "리눅스/정리/1. 리눅스의 구조.md"
               }
             }
           },
@@ -168,10 +155,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "481860bd792d95d3",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/외부 패키지",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/무제 파일.md",
+    "리눅스/정리/1. 리눅스의 구조.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또",
     "img/Pasted image 20240616174158.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
@@ -192,7 +185,6 @@
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
     "리눅스/시스템 콜.md",
     "리눅스/커널.md",
-    "리눅스/정리/1. 리눅스의 구조.md",
     "리눅스/자유 소프트웨어.md",
     "리눅스/정리",
     "리눅스",
@@ -210,13 +202,8 @@
     "무제 파일.canvas",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!(프로젝트설정).md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/1. 리액트란?.md",
-    "Frontend/SPA.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
-    "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법",
-    "Frontend/멋사스터디",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
     "내가 할수있는 기술스택.canvas",
