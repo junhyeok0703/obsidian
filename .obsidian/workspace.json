@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md"
               }
             }
           },
@@ -170,11 +170,14 @@
   },
   "active": "481860bd792d95d3",
   "lastOpenFiles": [
+    "img/Pasted image 20240616162231.png",
+    "img/Pasted image 20240616162226.png",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
     "img/Pasted image 20240616161356.png",
     "img/Pasted image 20240616161332.png",
     "img/Pasted image 20240616161315.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
     "img/Pasted image 20240616161101.png",
     "img/Pasted image 20240616161056.png",
     "img/Pasted image 20240616161044.png",
@@ -182,8 +185,6 @@
     "img/Pasted image 20240616155859.png",
     "img/Pasted image 20240616154557.png",
     "img/Pasted image 20240616154509.png",
-    "img/Pasted image 20240616154355.png",
-    "img/Pasted image 20240616153953.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
     "리눅스/시스템 콜.md",
@@ -210,7 +211,6 @@
     "Frontend/SPA.md",
     "Frontend/멋사스터디/React.md",
     "LLM/파인튜닝이란?.md",
-    "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
