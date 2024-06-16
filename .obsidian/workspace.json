@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "481860bd792d95d3",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
+    "img/Pasted image 20240616174158.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
     "img/Pasted image 20240616171031.png",
     "img/Pasted image 20240616171015.png",
     "img/Pasted image 20240616162231.png",
@@ -209,7 +211,6 @@
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/1. 리액트란?.md",
     "Frontend/SPA.md",
-    "Frontend/멋사스터디/React.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
