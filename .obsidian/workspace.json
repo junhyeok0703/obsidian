@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md"
               }
             }
           },
@@ -155,13 +155,15 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "048ce8f2afd09304",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/01. 모듈이란?.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
+    "리눅스/정리/1. 리눅스의 구조.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/외부 패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/무제 파일.md",
-    "리눅스/정리/1. 리눅스의 구조.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
@@ -201,9 +203,7 @@
     "2024-06-03.md",
     "무제 파일.canvas",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/2. nodejs를 설치하자!(프로젝트설정).md",
-    "Frontend/리액트 강의/코딩알려주는누나/리액트 기초/3. component - 재활용의 시작.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
-    "CodeingTest/python study/코드잇/파이썬 응용하기",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
     "내가 할수있는 기술스택.canvas",
