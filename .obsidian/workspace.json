@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md"
               }
             }
           },
@@ -170,6 +170,12 @@
   },
   "active": "481860bd792d95d3",
   "lastOpenFiles": [
+    "img/Pasted image 20240616153646.png",
+    "img/Pasted image 20240616153623.png",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
+    "img/Pasted image 20240616153407.png",
+    "img/Pasted image 20240616153356.png",
     "img/Pasted image 20240616153034.png",
     "img/Pasted image 20240616153026.png",
     "img/Pasted image 20240616152659.png",
@@ -178,19 +184,14 @@
     "img/Pasted image 20240610213915.png",
     "img/Pasted image 20240610213645.png",
     "img/Pasted image 20240610213325.png",
-    "img/Pasted image 20240610212438.png",
-    "img/Pasted image 20240610210031.png",
-    "img/Pasted image 20240610205658.png",
     "리눅스/시스템 콜.md",
     "리눅스/커널.md",
     "리눅스/정리/1. 리눅스의 구조.md",
     "리눅스/자유 소프트웨어.md",
     "리눅스/정리",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
     "리눅스",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기",
-    "img/Pasted image 20240603214821.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03. random 모듈.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/04. datatime 모듈.md",
@@ -210,7 +211,6 @@
     "LLM/챕터1(LLM파인튜닝)/섹션 2 LLM 논문 리뷰.md",
     "Frontend/리액트 강의/코딩알려주는누나/자주쓰이는 ES6문법/삼항 연산자.md",
     "캡스톤 끝나면 할일.md",
-    "영어일기/2024.4.29 월.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "CodeingTest/python study/코드잇/파이썬 응용하기",
     "Frontend/리액트 강의/코딩알려주는누나/리액트 기초",
