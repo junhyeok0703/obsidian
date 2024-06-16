@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "481860bd792d95d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "리눅스/정리/1. 리눅스의 구조.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md"
               }
             }
           },
@@ -155,8 +168,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "048ce8f2afd09304",
+  "active": "481860bd792d95d3",
   "lastOpenFiles": [
+    "img/Pasted image 20240616153034.png",
+    "img/Pasted image 20240616153026.png",
+    "img/Pasted image 20240616152659.png",
+    "img/Pasted image 20240616152640.png",
+    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
     "img/Pasted image 20240610213915.png",
     "img/Pasted image 20240610213645.png",
     "img/Pasted image 20240610213325.png",
@@ -170,19 +188,14 @@
     "리눅스/정리",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
     "리눅스",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기",
     "img/Pasted image 20240603214821.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03. random 모듈.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
-    "img/Pasted image 20240603213740.png",
-    "img/Pasted image 20240603213621.png",
-    "img/Pasted image 20240603213618.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/04. datatime 모듈.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/05..md",
-    "img/Pasted image 20240603213325.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/02. 스탠다드 라이브러리.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
