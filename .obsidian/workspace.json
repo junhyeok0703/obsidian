@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md"
               }
             }
           },
@@ -157,10 +157,13 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
+    "img/Pasted image 20240618003228.png",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
     "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3496-2024-06-18-00_26_28.png",
     "img/Pasted image 20240618002716.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/04. 모듈 정리.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
     "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3495-2024-06-18-00_06_56.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/03. 모듈을 가져오는 여러가지 방법들.md",
     "img/Pasted image 20240616210435.png",
@@ -186,7 +189,6 @@
     "img/Pasted image 20240616171031.png",
     "img/Pasted image 20240616171015.png",
     "img/Pasted image 20240616162231.png",
-    "img/Pasted image 20240616162226.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
@@ -199,8 +201,6 @@
     "리눅스",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/04. datatime 모듈.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기",
     "무제 파일.canvas",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
