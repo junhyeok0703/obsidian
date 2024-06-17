@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md"
+                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
     "img/Pasted image 20240618003228.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
     "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3496-2024-06-18-00_26_28.png",
     "img/Pasted image 20240618002716.png",
@@ -188,7 +189,6 @@
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
     "img/Pasted image 20240616171031.png",
     "img/Pasted image 20240616171015.png",
-    "img/Pasted image 20240616162231.png",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
