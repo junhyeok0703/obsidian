@@ -17,3 +17,18 @@ def calculate_rectangle_area(x,y):
 - 반복적인 수행을 1회만 작성 후 호출
 - 코드를 논리적인 단위로 분리
 - 캡슐화 : 인터페이스만 알면 타인의 코드 사용
+
+
+
+### 출력할때 f-string
+formatting 기법
+```
+print(f"hello,{name}. you are {age}")
+
+이런느낌 
+```
+![[Pasted image 20240619184820.png]]
+
+이런식으로 
+:20은 20칸의 여유를 줘라 , >우로 정렬  , * 채워주세요 , ^가운데정렬
+.2f 소숫점 2번째 자리까지 
