@@ -11,8 +11,12 @@
             "id": "1c82106bc96a83e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md"
+              }
             }
           },
           {
@@ -149,13 +157,14 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
-    "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
     "img/Pasted image 20240619181527.png",
     "img/Pasted image 20240619181418.png",
     "img/Pasted image 20240619181027.png",
     "img/Pasted image 20240619180710.png",
     "img/Pasted image 20240619180301.png",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/13. 모듈 검색 경로.md",
     "부스트 캠프/AI프리코스",
     "부스트 캠프",
