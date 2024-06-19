@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md"
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "048ce8f2afd09304",
   "lastOpenFiles": [
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/13. 모듈 검색 경로.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초/파이썬 기초 문법.md",
+    "부스트 캠프/AI프리코스",
+    "부스트 캠프",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
+    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
     "img/Pasted image 20240618003228.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
@@ -195,15 +200,10 @@
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
     "리눅스/시스템 콜.md",
-    "리눅스/커널.md",
-    "리눅스/자유 소프트웨어.md",
     "리눅스/정리",
     "리눅스",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/사용자 입력받기",
     "무제 파일.canvas",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
     "내가 할수있는 기술스택.canvas",
