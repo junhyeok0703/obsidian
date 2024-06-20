@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md"
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
     "img/Pasted image 20240619184820.png",
     "img/Pasted image 20240619183540.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
     "img/Pasted image 20240619181527.png",
     "img/Pasted image 20240619181418.png",
     "img/Pasted image 20240619181027.png",
@@ -178,7 +179,6 @@
     "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3496-2024-06-18-00_26_28.png",
     "img/Pasted image 20240618002716.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/04. 모듈 정리.md",
-    "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3495-2024-06-18-00_06_56.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/03. 모듈을 가져오는 여러가지 방법들.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/01. 모듈이란?.md",
