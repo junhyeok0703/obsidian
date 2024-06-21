@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
+                "file": "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
+                "file": "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
+                "file": "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md"
+                "file": "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md"
               }
             }
           },
@@ -157,8 +157,15 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
+    "img/이상치 데이터 수정.png",
+    "img/Pasted Graphic 2.png",
+    "img/20150512.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
+    "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
+    "데이터분석/무제 파일.md",
+    "데이터분석/구내식당 식수인원예측",
+    "데이터분석",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
     "img/Pasted image 20240619184820.png",
     "img/Pasted image 20240619183540.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
@@ -176,8 +183,6 @@
     "img/Pasted image 20240618003228.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
-    "img/screencapture-codeit-kr-topics-python-module-and-package-lessons-3496-2024-06-18-00_26_28.png",
-    "img/Pasted image 20240618002716.png",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/04. 모듈 정리.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/03. 모듈을 가져오는 여러가지 방법들.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
@@ -198,11 +203,6 @@
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/03. split.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/02. strip.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
-    "리눅스/정리",
-    "리눅스",
     "무제 파일.canvas",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
