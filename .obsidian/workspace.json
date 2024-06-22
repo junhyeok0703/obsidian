@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md"
+                "file": "Frontend/멋사스터디/피그마보고 프론트 구축방법.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "Frontend/멋사스터디/리덕스.md",
+    "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
+    "Frontend/멋사스터디/라우터.md",
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
     "데이터분석/구내식당 식수인원예측/무제 파일.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
@@ -200,9 +203,6 @@
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/05. 파일 쓰기.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
     "무제 파일.canvas",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
