@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
+                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
+                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
+                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md"
+                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
+    "데이터분석/구내식당 식수인원예측/무제 파일.md",
+    "캡스톤 끝나면 할일.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
     "img/Pasted image 20240623192526.png",
     "img/Pasted image 20240623192522.png",
     "img/Pasted image 20240623192519.png",
@@ -167,15 +171,11 @@
     "img/Pasted image 20240623185928.png",
     "img/Pasted image 20240623185840.png",
     "img/Pasted image 20240623185730.png",
-    "img/Pasted image 20240623185547.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
-    "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
-    "데이터분석/구내식당 식수인원예측/무제 파일.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Function and Console IO.md",
     "데이터분석/무제 파일.md",
     "데이터분석/구내식당 식수인원예측",
