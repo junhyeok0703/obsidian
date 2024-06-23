@@ -27,3 +27,22 @@ is연산자는 메모리주소가 같나 확인하는것이다.
 ![[Pasted image 20240623182901.png]]
 예시 2
 ![[Pasted image 20240623182909.png]]
+문자열 
+예시1
+![[Pasted image 20240623183102.png]]
+예시2
+![[Pasted image 20240623183112.png]]
+
+
+### 간격을 두고 반복문
+![[Pasted image 20240623183135.png]]
+역순
+![[Pasted image 20240623183200.png]]
+
+
+### loop - while문
+![[Pasted image 20240623183229.png]]
+true가 되는 동안 while문은 돈다
+while문에서 조건이 false가 되면 빠져나가게 된다.
+
+
