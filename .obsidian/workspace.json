@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md",
+                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/무제 파일.md"
+                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "img/요일별 중식계와 석식계 평균 인원수.png",
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
-    "데이터분석/구내식당 식수인원예측/무제 파일.md",
+    "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
     "캡스톤 끝나면 할일.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
     "img/Pasted image 20240623192526.png",
@@ -200,7 +201,6 @@
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/무제 파일.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지",
     "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또",
     "무제 파일.canvas",
