@@ -9,4 +9,5 @@ if,else,elif등이 있다.
 그렇지않을경우는 oh no you are not accepted.
 
 ![[Pasted image 20240623175128.png]]
-이런식으로 a와 b를 피고하고서
+
+is연산자는 메모리주소가 같나 확인하는것이다.
