@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md"
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md"
               }
             }
           },
@@ -155,13 +155,14 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "1c82106bc96a83e9",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
+    "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
     "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
     "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
     "img/스크린샷 2024-05-31 20.59.47.png",
     "img/스크린샷 2024-04-14 09.29.36.png",
-    "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
     "img/요일별 중식계와 석식계 평균 인원수.png",
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
     "캡스톤 끝나면 할일.md",
@@ -174,7 +175,6 @@
     "img/Pasted image 20240623190030.png",
     "img/Pasted image 20240623185939.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
