@@ -104,5 +104,10 @@ type hints의 구조
 ![[Pasted image 20240625015335.png]]
 
 기본 함수구조에서 조금 더 구체화시킨거
-![[Pasted image 20240625015517.png]]
+![[Pasted image 20240625015705.png]]
+사용법 : 매개변수타입 그리고 리턴타입을 저렇게 삽입하면된다.
+
+### docstring
+함수에 대한 설명을 추가하는거임
+![[Pasted image 20240625015803.png]]
 
