@@ -91,3 +91,4 @@ rotate,reverse등 링크드리스트의 특성을 지원한다.
 
 ### defaultdict
 dict type의 값에 기본 값을 지정, 신규값 생성시 사용하는 방법
+![[Pasted image 20240627144944.png]]
