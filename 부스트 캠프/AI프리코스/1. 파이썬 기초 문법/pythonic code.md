@@ -29,7 +29,7 @@ colors = ["red","blue","green","yellow"]
 
 
 
-### list comprehens
+### list 컴프렌션?
 리스트사용하는거는 비슷한데
 기존 List사용하여 간단히 다른 list를 만드는 기법
 다른리스트를 사용해서 새로운 리스트를 만든다!
@@ -55,3 +55,13 @@ result
 result = [i for i in range(10) if i%2==0]
 ```
 이런식으로 조건문도 삽입할수있다.
+
+nested loop도 가능하다 
+![[Pasted image 20240627153312.png]]
+
+![[Pasted image 20240627153240.png]]
+2중 포문처럼 똑같이 적용되는데 H고정 되고 HW ,Ho , Hr, Hl이런식으로 생성되서 result안에 들어가게 될것이다.
+
+![[Pasted image 20240627153451.png]]
+이런식으로 filter 그니까 조건을 넣을수있는데 
+if else를 쓸때는 중간에 넣어줘야한다!! 중요함 삼항식처럼
