@@ -92,3 +92,16 @@ rotate,reverse등 링크드리스트의 특성을 지원한다.
 ### defaultdict
 dict type의 값에 기본 값을 지정, 신규값 생성시 사용하는 방법
 ![[Pasted image 20240627144944.png]]
+
+### counter
+시퀀스 타입의 데이터 엘레멘트의 갯수를 dict 형태로 변환
+
+```
+form collections import Counter
+
+c = Counter(["b","s","s","b"])
+print(c)
+-> 'b': 2 's': 2
+
+
+```
