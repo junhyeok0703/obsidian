@@ -77,3 +77,6 @@ list, tuple,dict에 대한 파이썬 확장 자료구조(모듈)
 
 덱큐 -> 큐와 스택을 동시에 지원 
 list에 비해 효율적인 빠른 자료 저장 방식을 지원함
+list랑 똑같은데 append가 지원이 된다.(append는 스택에서 쓰임)
+
+rotate,reverse등 링크드리스트의 특성을 지원한다.
