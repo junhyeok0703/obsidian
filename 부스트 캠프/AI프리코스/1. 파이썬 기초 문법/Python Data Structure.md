@@ -81,4 +81,12 @@ list랑 똑같은데 append가 지원이 된다.(append는 스택에서 쓰임)
 
 rotate,reverse등 링크드리스트의 특성을 지원한다.
 ![[Pasted image 20240627141416.png]]
-기존리스트보다 훨씬 더 빠르다.
+기존리스트보다 훨씬 더 빠르다
+
+
+### orderddict 
+원래 dict는 순서를 보장안했는데  지금은 콜렉션 모듈에 orderddict는 순서를 보장한다.
+근데 이제 3.6부터는 dict도 순서를 보장하게 되어서 사실상 쓸모없음.
+
+
+### defaultdict
