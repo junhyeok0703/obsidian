@@ -66,4 +66,8 @@ for문에서
 
 
 
-### json
+### collections 모듈
+list, tuple,dict에 대한 파이썬 확장 자료구조(모듈)
+
+![[Pasted image 20240627140401.png]]
+효율적으로 더 쓰려고 제공함
