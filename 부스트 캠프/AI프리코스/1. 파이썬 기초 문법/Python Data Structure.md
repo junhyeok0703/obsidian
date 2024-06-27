@@ -80,3 +80,5 @@ list에 비해 효율적인 빠른 자료 저장 방식을 지원함
 list랑 똑같은데 append가 지원이 된다.(append는 스택에서 쓰임)
 
 rotate,reverse등 링크드리스트의 특성을 지원한다.
+![[Pasted image 20240627141416.png]]
+기존리스트보다 훨씬 더 빠르다.
