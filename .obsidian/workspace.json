@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md"
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md"
               }
             }
           },
@@ -157,6 +157,9 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "img/Pasted image 20240627151705.png",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
     "img/Pasted image 20240627144944.png",
     "img/Pasted image 20240627141416.png",
     "img/Pasted image 20240627140401.png",
@@ -167,9 +170,7 @@
     "img/Pasted image 20240625184626.png",
     "img/Pasted image 20240625184400.png",
     "img/Pasted image 20240625184356.png",
-    "img/Pasted image 20240625184302.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
     "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
     "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
@@ -197,7 +198,6 @@
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/01. 모듈이란?.md",
     "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03. random 모듈.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/02. 스탠다드 라이브러리.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/외부 패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
