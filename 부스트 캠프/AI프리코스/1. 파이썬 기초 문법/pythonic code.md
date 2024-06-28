@@ -73,3 +73,15 @@ if else를 쓸때는 중간에 넣어줘야한다!! 중요함 삼항식처럼
 
 ### two dimensional list로 변환하기
 ![[Pasted image 20240629005412.png]]
+### 여기서 list 컴프렌헤션에서 for문을 여러개 붙이는이유는 뭘까?
+2중포문을 쓸때 그렇다
+
+
+### two dimensional vs one dimensional
+두개의 차이점은 그냥 1차원 list냐 2차원list냐 그차이임
+![[Pasted image 20240629005735.png]]
+이렇게 원디멘션일때이고 list 컴프리헨션일때 for문을 이어서 붙여준다
+여기서 2차원 list로 만들고싶다면 \[for문] for문이렇게하면 된다
+![[Pasted image 20240629005851.png]]
+![[Pasted image 20240629005857.png]]
+이런식으로 말이다.
