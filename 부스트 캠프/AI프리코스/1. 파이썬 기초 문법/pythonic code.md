@@ -72,3 +72,4 @@ if else를 쓸때는 중간에 넣어줘야한다!! 중요함 삼항식처럼
 ![[Pasted image 20240629005026.png]]
 
 ### two dimensional list로 변환하기
+![[Pasted image 20240629005412.png]]
