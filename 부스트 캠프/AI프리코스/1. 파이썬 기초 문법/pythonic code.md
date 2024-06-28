@@ -65,3 +65,10 @@ nested loop도 가능하다
 ![[Pasted image 20240627153451.png]]
 이런식으로 filter 그니까 조건을 넣을수있는데 
 if else를 쓸때는 중간에 넣어줘야한다!! 중요함 삼항식처럼
+
+### Nestea_loop
+![[Pasted image 20240629005013.png]]
+### Filter
+![[Pasted image 20240629005026.png]]
+
+### two dimensional list로 변환하기
