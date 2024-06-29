@@ -116,5 +116,9 @@ f = lambda x,y:x+y
 print(f(1,4))
 ```
 
+![[Pasted image 20240629223923.png]]
+이런식도 가능하다
+![[Pasted image 20240629223943.png]]
+![[Pasted image 20240629224037.png]]
 
 
