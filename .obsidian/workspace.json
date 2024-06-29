@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
+                "file": "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
+                "file": "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
+                "file": "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md"
+                "file": "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md"
               }
             }
           },
@@ -157,6 +157,14 @@
   },
   "active": "1c82106bc96a83e9",
   "lastOpenFiles": [
+    "img/Pasted image 20240629233700.png",
+    "img/Pasted image 20240629233557.png",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
+    "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
+    "부스트 캠프/AI프리코스/2. 파이썬 다지기",
+    "부스트 캠프/AI프리코스/무제 파일.canvas",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
+    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/제 폴더",
     "img/Pasted image 20240629232522.png",
     "img/Pasted image 20240629232423.png",
     "img/Pasted image 20240629232338.png",
@@ -166,10 +174,7 @@
     "img/Pasted image 20240629231047.png",
     "img/Pasted image 20240629230933.png",
     "img/Pasted image 20240629230904.png",
-    "img/Pasted image 20240629230721.png",
-    "img/Pasted image 20240629230644.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Python Data Structure.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/string and advanced function concept.md",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
     "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
@@ -177,7 +182,6 @@
     "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
     "캡스톤 끝나면 할일.md",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
@@ -197,12 +201,9 @@
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/03. 모듈을 가져오는 여러가지 방법들.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/01. 모듈이란?.md",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/03. random 모듈.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/외부 패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지",
-    "CodeingTest/python study/코드잇/파이썬 응용하기/프로젝트-로또",
     "무제 파일.canvas",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
