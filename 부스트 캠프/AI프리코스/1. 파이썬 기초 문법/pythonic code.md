@@ -170,3 +170,8 @@ for문을 써야하지만 그안에있는값을 출력할수있다.
 
 장점
 ![[Pasted image 20240629230040.png]]
+
+
+### keyword arguments
+![[Pasted image 20240629230209.png]]
+명시해두면 아규먼트가 순서가 다르게 들어감
