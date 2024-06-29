@@ -175,3 +175,6 @@ for문을 써야하지만 그안에있는값을 출력할수있다.
 ### keyword arguments
 ![[Pasted image 20240629230209.png]]
 명시해두면 아규먼트가 순서가 다르게 들어감
+### default arguments
+파라미터에다가 기본값을 넣으면 입력하지않경우 기본값이 출력된다.
+![[Pasted image 20240629230418.png]]
