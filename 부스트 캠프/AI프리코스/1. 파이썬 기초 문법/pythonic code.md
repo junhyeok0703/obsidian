@@ -92,3 +92,10 @@ if else를 쓸때는 중간에 넣어줘야한다!! 중요함 삼항식처럼
 ### enumerate 
 ![[Pasted image 20240629010224.png]]
 이런식으로 index와 값을 unpacking할수있다.
+
+![[Pasted image 20240629222236.png]]
+
+### zip 
+말그대로 2개의 list의 값을 병렬로 추출함
+![[Pasted image 20240629222340.png]]
+
