@@ -63,3 +63,26 @@ https://corikachu.github.io/articles/python/python-magic-method
 ### 클래스안에 메서드 구현하기
 메서드(액션)추가는 기존 함수와 같으나 self를 추가해야만 class함수로 인정된다!!
 
+![[Pasted image 20240630163003.png]]
+
+### objects(instance) 사용하기
+object 이름 선언과 함께 초기값 입력하기
+![[Pasted image 20240630163041.png]]
+![[Pasted image 20240630163055.png]]
+
+
+### self가 뭐냐
+생성된 인스턴스자신을 이야기한다.
+위에 코드를 보게 되면 jinhyun이라는 객체(인스턴스)가 생성되었을때
+클래스밖에서는 jinhyun.change_back_number(1)이렇게 접근하지만
+클래스코드안에서는 self가 곧 jinhyun이라는 뜻이다. 
+![[Pasted image 20240630163401.png]]
+여기서 보면 self를 넣어줘서 자기자신의 back_number를 넣어줄수있었다. 
+
+
+
+### OOP 예시
+
+구현 가능한 OOP 만들기 - 노트북
+
+![[Pasted image 20240630163648.png]]
