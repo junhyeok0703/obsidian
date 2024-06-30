@@ -58,3 +58,8 @@ print함수로 찍었을때 저게 찍힌다.
 
 https://corikachu.github.io/articles/python/python-magic-method
 이러한 아티클(매직메서드)을 정리한것이다.
+
+
+### 클래스안에 메서드 구현하기
+메서드(액션)추가는 기존 함수와 같으나 self를 추가해야만 class함수로 인정된다!!
+
