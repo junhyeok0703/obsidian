@@ -53,3 +53,8 @@ print함수로 찍었을때 저게 찍힌다.
 
 ### \_\_add\_\_는 뭘까?
 말그대로 더해준다.
+![[Pasted image 20240630162420.png]]
+이런식으로 서로 다른 객체를 더해주면 name을 더 해주게 된다!
+
+https://corikachu.github.io/articles/python/python-magic-method
+이러한 아티클(매직메서드)을 정리한것이다.
