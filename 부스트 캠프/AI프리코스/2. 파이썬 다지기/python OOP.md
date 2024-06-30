@@ -140,3 +140,4 @@ class NoteBook(object):
 
 korean에 person을 상속받았음
 korean에 아무것도 없지만 person에있는 속성과 메서드를 사용할수있음
+
