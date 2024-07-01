@@ -173,3 +173,8 @@ product객체를 인벨토리객체에 추가
 인벤토리에는 오직 product객체에만 
 ![[Pasted image 20240630174546.png]]
 private변수로 선언 타객체가 접근 못함
+
+
+만약 private변수가 없다면
+
+
