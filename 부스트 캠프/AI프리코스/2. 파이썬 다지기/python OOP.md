@@ -177,4 +177,7 @@ private변수로 선언 타객체가 접근 못함
 
 만약 private변수가 없다면
 
+![[Pasted image 20240701114541.png]]
+
+
 
