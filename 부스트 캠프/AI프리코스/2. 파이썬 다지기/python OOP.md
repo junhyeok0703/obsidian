@@ -210,5 +210,10 @@ first-class objects
 map(f,ex)이런거 여기서 f를 말한다
 
 ```
-def 
+def square(x):
+	return x * x
+f = square
+
+f(5) # 함수를 변수로 사용
+
 ```
