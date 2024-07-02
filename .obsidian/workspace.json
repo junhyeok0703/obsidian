@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8f40a654ee872bb7",
+        "id": "4b879918cce11ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7e474b4db745126",
+            "id": "5ae4d280f1a9ac74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tasksCalendar/demo_file.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tasksCalendar/demo_file.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,10 +147,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "e7e474b4db745126",
+  "active": "5ae4d280f1a9ac74",
   "lastOpenFiles": [
-    "캡스톤 끝나면 할일.md",
     "tasksCalendar/demo_file.md",
+    "캡스톤 끝나면 할일.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
