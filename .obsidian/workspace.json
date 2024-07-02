@@ -11,8 +11,12 @@
             "id": "5ae4d280f1a9ac74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tasksCalendar/demo_file.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tasksCalendar/demo_file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tasksCalendar/demo_file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tasksCalendar/demo_file.md"
+              }
             }
           },
           {
@@ -149,7 +157,9 @@
   },
   "active": "5ae4d280f1a9ac74",
   "lastOpenFiles": [
+    "2024-07-02(화).md",
     "tasksCalendar/demo_file.md",
+    "2024-07-19(금).md",
     "캡스톤 끝나면 할일.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
@@ -196,7 +206,6 @@
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/04. 모듈 정리.md",
     "Frontend/강의/ㅇ.canvas",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
