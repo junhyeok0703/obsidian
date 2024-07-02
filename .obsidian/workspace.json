@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e3c7cd33eb0e53e5",
+        "id": "8f40a654ee872bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "1c82106bc96a83e9",
+            "id": "e7e474b4db745126",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "tasksCalendar/demo_file.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "tasksCalendar/demo_file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "tasksCalendar/demo_file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤 끝나면 할일.md"
+                "file": "tasksCalendar/demo_file.md"
               }
             }
           },
@@ -155,13 +155,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "1c82106bc96a83e9",
+  "active": "e7e474b4db745126",
   "lastOpenFiles": [
-    "무제 파일.md",
     "캡스톤 끝나면 할일.md",
+    "tasksCalendar/demo_file.md",
+    "무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
-    "tasksCalendar/demo_file.md",
     "2024-07-02.md",
     "tasksCalendar/view.js",
     "tasksCalendar/view.css",
