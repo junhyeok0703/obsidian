@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "10. Planner/11. Daily/개인 할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "10. Planner/11. Daily/개인 할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasksCalendar/demo_file.md",
+                "file": "10. Planner/11. Daily/개인 할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasksCalendar/demo_file.md"
+                "file": "10. Planner/11. Daily/개인 할 일.md"
               }
             }
           },
@@ -157,9 +157,13 @@
   },
   "active": "5ae4d280f1a9ac74",
   "lastOpenFiles": [
-    "2024-07-02(화).md",
     "tasksCalendar/demo_file.md",
+    "10. Planner/11. Daily/개인 할 일.md",
+    "2024-07-02(화).md",
     "2024-07-19(금).md",
+    "10. Planner/11. Daily",
+    "10. Planner",
+    "daily",
     "캡스톤 끝나면 할일.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
@@ -198,14 +202,10 @@
     "데이터분석/무제 파일.md",
     "데이터분석/구내식당 식수인원예측",
     "데이터분석",
-    "부스트 캠프/AI프리코스/1. 파이썬 기초 문법",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/13. 모듈 검색 경로.md",
-    "부스트 캠프/AI프리코스",
-    "부스트 캠프",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/10. 스탠다드 라이브러리.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/08. 네임스페이스.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/07. 현재 파일에서 사용 가능한 기능은?.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
     "Frontend/강의/ㅇ.canvas",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
