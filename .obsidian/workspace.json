@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.50390243530273
   },
   "right": {
     "id": "b1a5ba50086ed8f9",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "2024-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "2024-07-02.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,8 +170,13 @@
   },
   "active": "f351afd03a7e6634",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "tasksCalendar/demo_file.md",
+    "2024-07-02.md",
     "무제 파일.md",
+    "tasksCalendar/view.js",
+    "tasksCalendar/view.css",
+    "tasksCalendar",
+    "무제 파일.canvas",
     "캡스톤 끝나면 할일.md",
     "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
     "img/Pasted image 20240701141020.png",
@@ -213,10 +218,6 @@
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/05. 모듈 사용해보기.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/04. 모듈 정리.md",
     "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/03. 모듈을 가져오는 여러가지 방법들.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈/02. 모듈 사용하기.md",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/외부 패키지",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/패키지",
-    "CodeingTest/python study/코드잇/파이썬 모듈과 패키지/모듈",
     "Frontend/강의/ㅇ.canvas",
     "무제 파일 1.canvas",
     "내가 할수있는 기술스택.canvas",
