@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4b879918cce11ee1",
+        "id": "6763c7331652bbba",
         "type": "tabs",
         "children": [
           {
-            "id": "5ae4d280f1a9ac74",
+            "id": "62c547791c0d8097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "캡스톤 끝나면 할일.md",
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "캡스톤 끝나면 할일.md"
+                "file": "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Variables.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "5ae4d280f1a9ac74",
+  "active": "62c547791c0d8097",
   "lastOpenFiles": [
+    "캡스톤 끝나면 할일.md",
     "10. Planner/11. Daily/개인 할 일.md",
     "tasksCalendar/demo_file.md",
     "2024-07-02(화).md",
@@ -164,7 +165,6 @@
     "10. Planner/11. Daily",
     "10. Planner",
     "daily",
-    "캡스톤 끝나면 할일.md",
     "무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
