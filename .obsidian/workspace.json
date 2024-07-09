@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md"
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md"
               }
             }
           },
@@ -157,9 +157,9 @@
   },
   "active": "62c547791c0d8097",
   "lastOpenFiles": [
+    "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
     "img/퀴즈2일차.png",
     "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
-    "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
     "캡스톤 끝나면 할일.md",
     "데이터 청년 캠퍼스/2일차",
     "데이터 청년 캠퍼스/1일차",
@@ -189,7 +189,6 @@
     "img/Pasted image 20240630170043.png",
     "img/Pasted image 20240630163648.png",
     "img/Pasted image 20240630163401.png",
-    "img/Pasted image 20240630163055.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
     "부스트 캠프/AI프리코스/2. 파이썬 다지기",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
