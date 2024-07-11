@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md"
+                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md"
               }
             }
           },
@@ -157,13 +157,14 @@
   },
   "active": "62c547791c0d8097",
   "lastOpenFiles": [
+    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md",
+    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
     "img/Pasted image 20240711122106.png",
     "데이터 청년 캠퍼스/4일차/오전 수업 - 통계의 기초.md",
     "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
     "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
     "데이터 청년 캠퍼스/3일차/오후 수업 - 판다스.md",
     "데이터 청년 캠퍼스/3일차/오전 수업 - 판다스.md",
-    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
     "데이터 청년 캠퍼스/무제 폴더/무제 폴더",
     "데이터 청년 캠퍼스/무제 폴더 1",
     "데이터 청년 캠퍼스/4일차",
@@ -196,7 +197,6 @@
     "img/Pasted image 20240701114541.png",
     "img/Pasted image 20240630174546.png",
     "img/Pasted image 20240630173606.png",
-    "img/Pasted image 20240630170048.png",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/Conditionals and Loops.md",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
     "부스트 캠프/AI프리코스/1. 파이썬 기초 문법/pythonic code.md",
