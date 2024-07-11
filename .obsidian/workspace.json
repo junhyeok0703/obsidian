@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md",
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md"
+                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "62c547791c0d8097",
   "lastOpenFiles": [
-    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
+    "img/Pasted image 20240712004120.png",
     "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬실습_조건문과 반복문.md",
+    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
     "img/Pasted image 20240711122106.png",
     "데이터 청년 캠퍼스/4일차/오전 수업 - 통계의 기초.md",
     "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
@@ -205,7 +206,6 @@
     "CodeingTest/python study/코드잇/2. for 반복문/05. 구구단.md",
     "CodeingTest/python study/코드잇/2. for 반복문/01. for 반복문.md",
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
-    "Frontend/멋사스터디/라우터.md",
     "Frontend/강의/ㅇ.canvas",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
