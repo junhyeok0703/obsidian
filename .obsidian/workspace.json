@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/4일차/오전 수업 - matplotlib.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/4일차/오전 수업 - matplotlib.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+                "file": "데이터 청년 캠퍼스/4일차/오전 수업 - matplotlib.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md"
+                "file": "데이터 청년 캠퍼스/4일차/오전 수업 - matplotlib.md"
               }
             }
           },
@@ -157,9 +157,13 @@
   },
   "active": "62c547791c0d8097",
   "lastOpenFiles": [
+    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
+    "데이터 청년 캠퍼스/4일차/오전 수업 - matplotlib.md",
+    "데이터 청년 캠퍼스/무제 폴더/무제 폴더",
+    "데이터 청년 캠퍼스/무제 폴더 1",
+    "데이터 청년 캠퍼스/4일차",
     "부스트 캠프/AI프리코스/2. 파이썬 다지기/python OOP.md",
     "데이터분석/구내식당 식수인원예측/식수인원상관관계분석.md",
-    "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 기초.md",
     "데이터 청년 캠퍼스/1일차/오전 수업 - 빅데이터의 이해.md",
     "img/Pasted image 20240710171019.png",
     "데이터 청년 캠퍼스/3일차/오후 수업 - 판다스.md",
@@ -186,9 +190,6 @@
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "2024-07-02.md",
-    "tasksCalendar/view.js",
-    "tasksCalendar/view.css",
-    "tasksCalendar",
     "img/Pasted image 20240701141020.png",
     "img/Pasted image 20240701114738.png",
     "img/Pasted image 20240701114541.png",
@@ -205,7 +206,6 @@
     "데이터분석/구내식당 식수인원예측/어떤식으로 진행할지.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
-    "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
     "Frontend/강의/ㅇ.canvas",
     "내가 할수있는 기술스택.canvas",
     "내가 할수있는 기술스택 1.canvas"
