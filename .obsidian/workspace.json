@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
+                "file": "데이터 청년 캠퍼스/5일차/오전 수업 - 판다스.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
+                "file": "데이터 청년 캠퍼스/5일차/오전 수업 - 판다스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
+                "file": "데이터 청년 캠퍼스/5일차/오전 수업 - 판다스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md"
+                "file": "데이터 청년 캠퍼스/5일차/오전 수업 - 판다스.md"
               }
             }
           },
@@ -157,6 +157,10 @@
   },
   "active": "62c547791c0d8097",
   "lastOpenFiles": [
+    "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
+    "데이터 청년 캠퍼스/5일차/오전 수업 - 판다스.md",
+    "데이터 청년 캠퍼스/5일차/무제 폴더",
+    "데이터 청년 캠퍼스/5일차",
     "img/Pasted image 20240712012217.png",
     "img/Pasted image 20240712011454.png",
     "img/Pasted image 20240712011125.png",
@@ -169,7 +173,6 @@
     "데이터 청년 캠퍼스/1일차/오후 수업 - 파이썬 자료형 실습.md",
     "img/Pasted image 20240711122106.png",
     "데이터 청년 캠퍼스/4일차/오전 수업 - 통계의 기초.md",
-    "데이터 청년 캠퍼스/2일차/오전 - 머신러닝의 기초.md",
     "데이터 청년 캠퍼스/2일차/오후 - 파이썬 문법.md",
     "데이터 청년 캠퍼스/3일차/오후 수업 - 판다스.md",
     "데이터 청년 캠퍼스/3일차/오전 수업 - 판다스.md",
@@ -181,7 +184,6 @@
     "데이터 청년 캠퍼스/1일차/오전 수업 - 빅데이터의 이해.md",
     "img/Pasted image 20240710171019.png",
     "데이터 청년 캠퍼스/3일차",
-    "img/Pasted image 20240709183845.png",
     "캡스톤 끝나면 할일.md",
     "데이터 청년 캠퍼스/2일차",
     "데이터 청년 캠퍼스/1일차",
@@ -192,8 +194,6 @@
     "2024-07-02(화).md",
     "2024-07-19(금).md",
     "10. Planner/11. Daily",
-    "10. Planner",
-    "daily",
     "무제 파일.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
