@@ -115,3 +115,27 @@ zoo = ['기린','렛서판다','코끼리','치타']
 [animal for animal in zoo if len(animal)>3]
 -> ['렛서판다']
 ```
+
+
+#### 스트라이트판단
+```
+numbers 
+usernum
+strikes = sum(1 for g,a in zip(usernum,numbers) if g==a)
+스트라이크 판단할수있네 zip으로 두 리스트가져와서 비교해서 만약 같다면 더해서 strikes에 저장
+```
+
+
+#### zip: 길이가 같은 컬렉션 타입 자료를 같은 순서에 있는 요소끼리 묶어줌
+```
+[x for x in zip(numbers,usernum)]
+
+-> ((numbers[0],usernum[0]),~이런식)
+```
+
+#### 볼 판단
+
+```
+ball = sum(1 for t in usernum if t in numbers)
+ball = ball-strikes
+```
