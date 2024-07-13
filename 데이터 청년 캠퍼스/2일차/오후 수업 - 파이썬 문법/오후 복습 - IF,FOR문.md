@@ -63,3 +63,27 @@ import random2
 random.randint(1,100)
 # 랜덤 숫자 생성됨
 ```
+
+
+#### 랜덤 숫자뽑기
+```
+# 그냥 뽑게 되면 겹치기 때문에 리스트 하나 만들어서 뽑는거임
+# 0~9까지를 가진 리스트만들기
+numbers = list(range(10))
+#랜덤함수로 셔플로 리스트 무작위 섞기
+random.shuffle(numbers)
+
+#중복없이 슬라이싱 하였음
+numbers = numbers[:3]
+
+```
+
+#### 다 맞을때까지 반복해서 수행해야함
+```
+count =0 
+while count<9:
+	target = input("숫자 세개를 입력하세요")
+	count+=1
+	usernum = list(map(int,target))
+	
+```
