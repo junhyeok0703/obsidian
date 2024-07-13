@@ -38,7 +38,12 @@ usernum = map(int,input().split())
 computernum=[]
 for i in range(len(usernum)):
 		computernum.append(randomint())
-
+n = 0
+m = 0
 while(usernum!=computernum):
-	
+	usernum = map(int,input().split())
+	for i in range(len(usernum)):
+		if computernum[i]==usernum[i]:	
+			n =0
+		if 
 ```
