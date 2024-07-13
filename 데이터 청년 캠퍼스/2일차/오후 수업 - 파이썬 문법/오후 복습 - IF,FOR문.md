@@ -56,7 +56,8 @@ while(usernum!=computernum):
 ```
 #### random
 ```
-random2를 설치
+#random2를 설치 
+!pip install random2
 # 임포트해주기
 import random2
 #시작값과 끝값입력 1~100
@@ -85,5 +86,32 @@ while count<9:
 	target = input("숫자 세개를 입력하세요")
 	count+=1
 	usernum = list(map(int,target))
+```
+
+#### 내가 짠거 - 랜덤 숫자와 내가 입력한 숫자의 자리수 체크하기
+```
+	index=[]
+	n=0
+	m=0
+	for i in. range(len(usernum)):
+		if usernum[i]==numbers[i]:
+			index.append(i)
+			n+=1
 	
+```
+#### 리스트 컴프리헨션
+```
+sum_num = [1,2,3]
+arr = [x+1 for x in sum_num]
+-> 2,3,4
+
+arr = [x**2 for x in sum_num]
+-> 1,4,9
+
+arr = [x+1 for x in sum_num if x%2==0]
+-> 3
+
+zoo = ['기린','렛서판다','코끼리','치타']
+[animal for animal in zoo if len(animal)>3]
+-> ['렛서판다']
 ```
