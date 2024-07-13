@@ -41,7 +41,7 @@ usernum = list(map(int,input()))
 
 computernum=[]
 for i in range(len(usernum)):
-		computernum.append(randomint())
+		computernum.append(random2.randint(0,9))
 
 n = 0
 m = 0
@@ -53,4 +53,13 @@ while(usernum!=computernum):
 			n =0
 		if 
 
+```
+#### random
+```
+random2를 설치
+# 임포트해주기
+import random2
+#시작값과 끝값입력 1~100
+random.randint(1,100)
+# 랜덤 숫자 생성됨
 ```
