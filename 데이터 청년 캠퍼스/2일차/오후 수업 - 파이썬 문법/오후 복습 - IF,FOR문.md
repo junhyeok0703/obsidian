@@ -12,3 +12,33 @@ input = int(input())
 for i in range(9):
 	print(number * i+1)
 ```
+#### for문은 리스트 튜플로도 범위에 넣을수있다.
+```
+for a in ('복숭아','자두','참외'):
+	print(a)
+for a in ['복숭아','자두','참외']:
+	print(a)
+
+```
+
+
+### 야구 게임 만들기 
+룰
+1. 임의의 숫자 3개를 생각한다.
+2. 상대방이 숫자 3개를 말한다
+3. 숫자의 순서와 숫자 모두 맞으면 스트라이크
+4. 숫자만 맞으면(자리 틀림) 볼
+5. '나'는 n스트라이크 m볼 이라고 말해준다
+6. 다 맞힐때까지 반복한다.
+
+
+```
+import random 
+usernum = map(int,input().split())
+computernum=[]
+for i in range(len(usernum)):
+		computernum.append(randomint())
+
+while(usernum!=computernum):
+	
+```
