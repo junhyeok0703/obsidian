@@ -166,3 +166,23 @@ DIKW 피라미드
 	- 특징 
 		- 관계형 데이터베이스의 SQL을 보완 및 개선한 비관계형 데이터베이스
 		- 비정형 데이터와 대용량 데이터 분석 및 분산처리에 용이
+	- 장점
+		- 다양한 데이터 형식 지원 (정해진 데이터 형식이 없어서 좋음)
+		- 높은 확장성 및 성능
+		- 특정 유형의 데이터에 최적화된 기능 제공(json)
+
+DB의 종류 이름 외우기 
+RDBMS 
+- MySQL 
+- MariaDB
+- PostgreSQL
+- Microsoft SQL Server
+- Oracle Database
+- IBM Db2
+NoSQL 
+- MongoDB
+- Cassandra
+- Couchbase
+- Amazon DynamoDB
+- HBase
+- Elasticsearch
