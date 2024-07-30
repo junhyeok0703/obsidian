@@ -183,6 +183,35 @@ NoSQL
 - MongoDB
 - Cassandra
 - Couchbase
+- Redis
 - Amazon DynamoDB
 - HBase
 - Elasticsearch
+
+
+#### SQL의 이해
+	| 데이터베이스를 다루기 위해서 필수
+SQL은 DB를 조작하기 위한 표준 쿼리 언어
+- DBMS 하부 언어 : SQL은 DBMS와 직접 상호 작용하여 DB를 관리하는 언어
+- 데이터베이스 종류에 따른 문법 차이
+	- 한번 SQL을 익히면 다른 DB에 비교적 쉽게 적용 가능
+	- 조금씩 문법 다르지만 거의 기본 문법은 동일
+
+##### SQL 언어 4종류
+  - DDL  - DB테이블및구조정의
+	  - CREATE 
+	  - ALTER
+	  - RENAME
+	  - DROP
+  - DML
+	  - INSERT
+	  - DELETE
+	  - UPDATE
+	  - SELECT
+- DCL
+	- GRANT
+	- REVOKE
+- TCL
+	- COMMIT : 변경사항 영구적용
+	- SAVEPOINT : 특정 시점의 데이터 상태 저장
+	- ROLLBACK : 커밋이전변경사항 취소 세이브포인트로 돌아가기
