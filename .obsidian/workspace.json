@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "6763c7331652bbba",
+        "id": "1b335a8756cf091b",
         "type": "tabs",
         "children": [
           {
-            "id": "698c34984d55b3fa",
+            "id": "50de1f76f50d6f56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "데이터 분석가의 역량.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373494300cfa9555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "데이터 분석가의 역량.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "데이터 분석가의 역량.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "데이터 분석가의 역량.md"
               }
             }
           },
@@ -168,10 +151,10 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "373494300cfa9555",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
-    "데이터 분석가의 역량.md",
     "무제 파일.md",
+    "데이터 분석가의 역량.md",
     "무제 폴더",
     "캡스톤 끝나면 할일.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오후 수업 - 빅데이터.md",
