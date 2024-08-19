@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +157,9 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
     "img/Pasted image 20240819141548.png",
     "img/Pasted image 20240819141520.png",
     "img/Pasted image 20240819140543.png",
@@ -201,7 +203,6 @@
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오전 수업 - ADSP.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오전 수업 - 데이터베이스 구성요소.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차",
-    "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/4. 데이터 사이언스를 위한 파이썬/파이썬프젝 - 지역 번호 가공.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
