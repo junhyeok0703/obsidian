@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/13. 데이터 정렬해서 보기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/13. 데이터 정렬해서 보기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/13. 데이터 정렬해서 보기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/13. 데이터 정렬해서 보기.md"
               }
             }
           },
@@ -157,32 +157,34 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "img/Pasted image 20240819171221.png",
+    "img/Pasted image 20240819171108.png",
+    "img/Pasted image 20240819170935.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/12. 문자열 패턴 매칭 조건을 사용할 때 주의할 점.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/13. 데이터 정렬해서 보기.md",
+    "img/Pasted image 20240819170808.png",
+    "img/Pasted image 20240819170755.png",
+    "img/Pasted image 20240819170740.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
     "img/Pasted image 20240819170143.png",
     "img/Pasted image 20240819170132.png",
     "img/Pasted image 20240819170123.png",
     "img/Pasted image 20240819170113.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/10. 데이터 조회 퀴즈.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3168-2024-08-19-16_57_02.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3167-2024-08-19-16_46_58.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3165-2024-08-19-16_04_08.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/06. 그밖에 알아야할 조건  표현식.md",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3164-2024-08-19-16_01_39.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
-    "img/Pasted image 20240819154119.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/03. SQL 작성 형식에 관한 이야기.md",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3161-2024-08-19-15_36_53.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/07. 날씨 관련 컬럼은 DATE 타입으로 변경.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/09. workbench 사용법.md",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3158-2024-08-19-15_05_17.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
@@ -197,9 +199,7 @@
     "SQL/코드잇/SQL로 배우는 데이터 분석",
     "SQL/코드잇",
     "데이터분석/코드잇/데이터 사이언스란?",
-    "CodeingTest/python study/코드잇/리스트/01. 리스트.md",
     "데이터분석/코드잇",
-    "CodeingTest/python study/코드잇/변수/무제 파일.md",
     "CodeingTest/python study/코드잇/변수",
     "SQL/혼자 공부하는 SQL",
     "SQL",
