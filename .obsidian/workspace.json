@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/코드잇/추상화/01. 변수 제대로 이해하기.md"
+                "file": "python/코드잇/문제 해결 능력 기르기/무제 파일.md"
               }
             }
           },
@@ -155,8 +155,13 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "python/코드잇/문제 해결 능력 기르기/02. 이상한 수학 문제 1.md",
+    "python/코드잇/문제 해결 능력 기르기/무제 파일.md",
+    "img/Pasted image 20240819234530.png",
+    "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
+    "python/코드잇/문제 해결 능력 기르기",
     "CodeingTest/코테 책.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
@@ -190,10 +195,6 @@
     "img/Pasted image 20240819171221.png",
     "img/Pasted image 20240819171108.png",
     "img/Pasted image 20240819170935.png",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기/12. 문자열 패턴 매칭 조건을 사용할 때 주의할 점.md",
-    "img/Pasted image 20240819170808.png",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기/11. 데이터 조회 실습.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기/10. 데이터 조회 퀴즈.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/2.테이블 생성하기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/1.데이터베이스 기본 개념",
@@ -202,7 +203,6 @@
     "데이터분석/코드잇/데이터 사이언스란?",
     "데이터분석/코드잇",
     "CodeingTest/python study/코드잇/변수",
-    "SQL/혼자 공부하는 SQL",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
