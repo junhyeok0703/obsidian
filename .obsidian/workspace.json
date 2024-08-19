@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/05. Not null의 의미.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/07. 날씨 관련 컬럼은 DATE 타입으로 변경.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/09. workbench 사용법.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3158-2024-08-19-15_05_17.png",
@@ -201,7 +203,6 @@
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/5. 파이썬 EDA/5.0 파이썬 탐색적 데이터 분석 소개.md",
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/5. 파이썬 EDA/5.1 판다스 기초와 데이터 요약.md",
     "데이터 분석가의 역량.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
