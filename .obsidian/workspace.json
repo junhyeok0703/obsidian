@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/04. Primary key의 종류.md",
     "img/Pasted image 20240819141548.png",
     "img/Pasted image 20240819141520.png",
     "img/Pasted image 20240819140543.png",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
     "img/Pasted image 20240819134351.png",
     "img/Pasted image 20240819134320.png",
@@ -176,7 +177,6 @@
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/03. DBMS와 SQL.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/02. 테이블의 row와 column.md",
-    "img/Pasted image 20240818234253.png",
     "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석",
     "SQL/코드잇",
