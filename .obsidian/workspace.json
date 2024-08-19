@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3165-2024-08-19-16_04_08.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/06. 그밖에 알아야할 조건  표현식.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3164-2024-08-19-16_01_39.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
@@ -180,7 +181,6 @@
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
     "img/Pasted image 20240819141548.png",
     "img/Pasted image 20240819141520.png",
-    "img/Pasted image 20240819140543.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/06. 데이터베이스 기본 개념 퀴즈.md",
