@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
+    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3167-2024-08-19-16_46_58.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/08. 여러 개의 조건 걸기.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/09. 여러 조건을 걸 때 주의할 점.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/07. DATE 데이터 타입 관련 함수.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3165-2024-08-19-16_04_08.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/06. 그밖에 알아야할 조건  표현식.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3164-2024-08-19-16_01_39.png",
@@ -199,8 +201,6 @@
     "CodeingTest/python study/코드잇/변수",
     "리눅스/시스템 콜.md",
     "리눅스/커널.md",
-    "리눅스/자유 소프트웨어.md",
-    "리눅스/정리/1. 리눅스의 구조.md",
     "SQL/혼자 공부하는 SQL",
     "SQL",
     "무제 파일 1.canvas",
