@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/05. 데이터베이스 생성하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/05. 데이터베이스 생성하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/05. 데이터베이스 생성하기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/05. 데이터베이스 생성하기.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md"
               }
             }
           },
@@ -157,9 +157,17 @@
   },
   "active": "8b561e2b212eb2b2",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/03. DBMS와 SQL.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/05. 데이터베이스 생성하기.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/02. 테이블의 row와 column.md",
+    "img/Pasted image 20240819133749.png",
+    "img/Pasted image 20240819133717.png",
+    "img/Pasted image 20240819133640.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/06. 데이터베이스 기본 개념 퀴즈.md",
+    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3149-2024-08-19-13_33_01.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/05. 데이터베이스 생성하기.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/03. DBMS와 SQL.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/02. 테이블의 row와 column.md",
     "img/Pasted image 20240818234253.png",
     "img/Pasted image 20240818234216.png",
     "img/Pasted image 20240818234148.png",
@@ -191,18 +199,10 @@
     "img/Pasted image 20240730234223.png",
     "img/Pasted image 20240730234110.png",
     "img/Pasted image 20240730233740.png",
-    "img/Pasted image 20240730233718.png",
-    "img/Pasted image 20240730233706.png",
-    "img/Pasted image 20240730194724.png",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차",
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/4. 데이터 사이언스를 위한 파이썬/파이썬프젝 - 지역 번호 가공.md",
-    "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/5. 파이썬 EDA",
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/1. 처음 시작하는 데이터 사이언스/데이터 사이언스 시작하기.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/5일차/오후 수업 - 전처리기술 복습.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/5일차/오전 수업 - 판다스.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/5일차/오전 수업 - 4일차 돌아보기.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/6일차/오후 수업 - seaborn.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/10일차",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
