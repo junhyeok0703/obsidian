@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md"
               }
             }
           },
@@ -157,8 +157,12 @@
   },
   "active": "8b561e2b212eb2b2",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/03. Primary Key 설정하기.md",
+    "img/Pasted image 20240819134351.png",
+    "img/Pasted image 20240819134320.png",
+    "img/Pasted image 20240819134302.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
     "img/Pasted image 20240819133749.png",
     "img/Pasted image 20240819133717.png",
     "img/Pasted image 20240819133640.png",
@@ -196,13 +200,9 @@
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오후 수업 - 빅데이터.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오전 수업 - ADSP.md",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차/오전 수업 - 데이터베이스 구성요소.md",
-    "img/Pasted image 20240730234939.png",
-    "img/Pasted image 20240730234223.png",
-    "img/Pasted image 20240730234110.png",
     "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/11일차",
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/4. 데이터 사이언스를 위한 파이썬/파이썬프젝 - 지역 번호 가공.md",
     "데이터분석/네이버부스트코스/모두를 위한 데이터 사이언스/1. 처음 시작하는 데이터 사이언스/데이터 사이언스 시작하기.md",
-    "데이터분석/데이터 청년 캠퍼스/1~2주차 - 데이터 분석 기초와 심화와 머신러닝/5일차/오후 수업 - 전처리기술 복습.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
