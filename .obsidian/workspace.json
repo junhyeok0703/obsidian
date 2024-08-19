@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/05. 문자열 패턴 매칭 조건.md",
     "img/Pasted image 20240819154119.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/03. SQL 작성 형식에 관한 이야기.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/04. 조건을 나타내는 다양한 방법.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3161-2024-08-19-15_36_53.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터 조회로 기본 다지기/02. 데이터 조회의 핵심 , SELECT와 WHERE.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/06. primary key와 auto increment 속성.md",
@@ -178,7 +179,6 @@
     "img/Pasted image 20240819140543.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/02. 생성된 테이블 살펴보기.md",
     "img/Pasted image 20240819134351.png",
-    "img/Pasted image 20240819134320.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/테이블 생성하기/01. CSV파일로 테이블 생성하기.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/06. 데이터베이스 기본 개념 퀴즈.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/데이터베이스 기본 개념/05. 데이터베이스 생성하기.md",
