@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
+                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md"
+                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md"
               }
             }
           },
@@ -157,9 +157,11 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "img/Pasted image 20240820015532.png",
+    "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
+    "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
     "img/Pasted image 20240820011909.png",
     "python/코드잇/문제 해결 능력 기르기/05. 구구단 만들기.md",
-    "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
     "img/Pasted image 20240820001528.png",
     "python/코드잇/문제 해결 능력 기르기/04. 약수 찾기.md",
     "img/Pasted image 20240819235421.png",
@@ -188,13 +190,11 @@
     "데이터 분석가의 역량.md",
     "strapi.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기/17. 데이터 정렬 실습.md",
-    "tasksCalendar/demo_file.md",
     "img/Pasted image 20240819173740.png",
     "img/Pasted image 20240819173732.png",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3176-2024-08-19-17_34_59.png",
     "img/Pasted image 20240819172456.png",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3173-2024-08-19-17_23_06.png",
-    "img/Pasted image 20240819172221.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/2.테이블 생성하기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/1.데이터베이스 기본 개념",
