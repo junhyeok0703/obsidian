@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md"
               }
             }
           },
@@ -157,9 +157,27 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+    "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy",
+    "데이터분석/코드잇/데이터 사이언스 toolkit",
+    "CodeingTest/코테 책.md",
+    "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
+    "python/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
+    "python/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
+    "python/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
+    "python/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/02. 스탠다드 라이브러리.md",
+    "python/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
+    "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
     "img/Pasted image 20240820015532.png",
     "python/코드잇/문제 해결 능력 기르기/06. 택이의 우승상금.md",
-    "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
     "img/Pasted image 20240820011909.png",
     "python/코드잇/문제 해결 능력 기르기/05. 구구단 만들기.md",
     "img/Pasted image 20240820001528.png",
@@ -171,38 +189,20 @@
     "img/Pasted image 20240819234530.png",
     "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "python/코드잇/문제 해결 능력 기르기",
-    "CodeingTest/코테 책.md",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
-    "Frontend/멋사스터디/피그마보고 프론트 구축방법.md",
     "Frontend/SPA.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "LLM/캡스톤주제/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/캡스톤주제",
-    "LLM/무제 파일.md",
-    "LLM/캡스톤주제/접은 주제 - 시디즈 의자 추천과 챗봇서비스 개발.md",
-    "LLM/캡스톤주제/노트북 url을 넣으면 노트북이나 컴퓨터 사양을 크롤링을 읽어 사용 용도와 설정 가격에 대한  판별하는 LLM모델,챗봇(리뷰데이터를 통한 좋은리뷰와 나쁜리뷰를 판별 ( 감정분석?) ).md",
-    "LLM/챕터2(RAG 랭체인)/섹션 5 텍스트를 벡터로 변환하고 저장  - 임베딩과 벡터스토어.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 4 텍스트를 작은 의미 단위로 나눠보자 - Document transformers 모듈.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 3 외부 텍스트를 불러와보자 - Document Loaders 모듈.md",
-    "LLM/챕터2(RAG 랭체인)/섹션 2 LangChain이란.md",
-    "캡스톤 끝나면 할일.md",
-    "데이터 분석가의 역량.md",
-    "strapi.md",
-    "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기/17. 데이터 정렬 실습.md",
     "img/Pasted image 20240819173740.png",
     "img/Pasted image 20240819173732.png",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3176-2024-08-19-17_34_59.png",
     "img/Pasted image 20240819172456.png",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3173-2024-08-19-17_23_06.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/2.테이블 생성하기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/1.데이터베이스 기본 개념",
     "SQL/코드잇/SQL로 배우는 데이터 분석",
-    "SQL/코드잇",
-    "데이터분석/코드잇/데이터 사이언스란?",
-    "데이터분석/코드잇",
-    "CodeingTest/python study/코드잇/변수",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
