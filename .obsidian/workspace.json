@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md"
               }
             }
           },
@@ -157,12 +157,16 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/04. 비트코인 가격 정보 탐색하기 1.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
+    "img/Pasted image 20240820163944.png",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/무제 폴더",
     "img/Pasted image 20240820163257.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
     "img/Pasted image 20240820161602.png",
     "img/Pasted image 20240820161339.png",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
     "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
@@ -195,14 +199,10 @@
     "python/코드잇/문제 해결 능력 기르기",
     "Frontend/멋사스터디/라우터.md",
     "Frontend/멋사스터디/리덕스.md",
-    "Frontend/SPA.md",
     "LLM/캡스톤주제",
-    "img/Pasted image 20240819173740.png",
-    "img/Pasted image 20240819173732.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/2.테이블 생성하기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/1.데이터베이스 기본 개념",
-    "SQL/코드잇/SQL로 배우는 데이터 분석",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
