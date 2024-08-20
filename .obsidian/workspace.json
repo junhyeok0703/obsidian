@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "ace130d2d1981222",
   "lastOpenFiles": [
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+    "img/Pasted image 20240820161602.png",
+    "img/Pasted image 20240820161339.png",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
     "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
@@ -193,12 +196,9 @@
     "Frontend/멋사스터디/리덕스.md",
     "Frontend/SPA.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
-    "LLM/캡스톤주제/캡스톤 최종주제 - RAG+LLM파인튜닝을 접목한 컴퓨터 견적 추천챗봇.md",
     "LLM/캡스톤주제",
     "img/Pasted image 20240819173740.png",
     "img/Pasted image 20240819173732.png",
-    "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3176-2024-08-19-17_34_59.png",
-    "img/Pasted image 20240819172456.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/2.테이블 생성하기",
     "SQL/코드잇/SQL로 배우는 데이터 분석/1.데이터베이스 기본 개념",
