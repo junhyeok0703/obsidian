@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/07. 데이터 분석 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/07. 데이터 분석 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/07. 데이터 분석 실습.md",
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/07. 데이터 분석 실습.md"
+                "file": "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md"
               }
             }
           },
@@ -170,15 +170,16 @@
   },
   "active": "88d8674facc184fb",
   "lastOpenFiles": [
-    "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md",
+    "키워드/8월 21일 다음날 복습할 키워드.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/07. 데이터 분석 실습.md",
+    "img/Pasted image 20240822001230.png",
+    "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/06. 데이터 분석 퀴즈.md",
     "img/screencapture-codeit-kr-topics-data-analysis-using-sql-lessons-3182-2024-08-21-23_53_52.png",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/03. NULL을 다루는 방법 (결측치).md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/04. NULL에 관한 사실.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/05. 이상한 값을 제외하고 싶다면?.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/02. 집계 함수와 산술 함수.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기/01. 데이터의 특성 구하기.md",
-    "키워드/8월 21일 다음날 복습할 키워드.md",
     "SQL/코드잇/SQL로 배우는 데이터 분석/4.데이터 분석 단계로 나아가기",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
@@ -203,11 +204,9 @@
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
     "img/Pasted image 20240821152550.png",
     "img/Pasted image 20240821152546.png",
-    "img/Pasted image 20240821152520.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/01. matplotlib과 데이터 시각화.md",
     "키워드",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/04. 비트코인 가격 정보 탐색하기 1.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/무제 폴더",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
