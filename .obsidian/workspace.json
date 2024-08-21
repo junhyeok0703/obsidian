@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md"
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md"
               }
             }
           },
@@ -172,6 +172,14 @@
   "lastOpenFiles": [
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
+    "키워드/8월 21일 다음날 복습할 키워드.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/06. 비트코인 가격 정보 탐색하기 2.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
     "img/Pasted image 20240821170802.png",
     "img/Pasted image 20240821170630.png",
     "img/Pasted image 20240821155811.png",
@@ -189,19 +197,11 @@
     "img/Pasted image 20240821152520.png",
     "img/Pasted image 20240821151031.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/01. matplotlib과 데이터 시각화.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
-    "키워드/8월 21일 다음날 복습할 키워드.md",
     "키워드",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/06. 비트코인 가격 정보 탐색하기 2.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/04. 비트코인 가격 정보 탐색하기 1.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/무제 폴더",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
     "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
