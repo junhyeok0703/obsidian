@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md"
               }
             }
           },
@@ -170,8 +170,10 @@
   },
   "active": "88d8674facc184fb",
   "lastOpenFiles": [
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/01. matplotlib과 데이터 시각화.md",
+    "img/Pasted image 20240821144742.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/01. matplotlib과 데이터 시각화.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
     "img/Pasted image 20240821122051.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
@@ -210,8 +212,6 @@
     "python/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
     "python/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
     "python/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/02. 스탠다드 라이브러리.md",
-    "python/코드잇/파이썬 응용하기/파이썬 모듈 맛보기/01. 모듈.md",
-    "python/코드잇/문제 해결 능력 기르기/07. 피보나치 수열.md",
     "python/코드잇/문제 해결 능력 기르기",
     "LLM/캡스톤주제",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
