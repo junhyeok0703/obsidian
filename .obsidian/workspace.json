@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/05. 그래프 사이즈 조절하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/05. 그래프 사이즈 조절하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/05. 그래프 사이즈 조절하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/05. 그래프 사이즈 조절하기.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md"
               }
             }
           },
@@ -170,8 +170,13 @@
   },
   "active": "88d8674facc184fb",
   "lastOpenFiles": [
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/04. 그래프 간단하게 꾸미기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/07. 그래프에 한글로 된 텍스트 넣기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/01. pandas와 DataFrame.md",
+    "img/Pasted image 20240821155242.png",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/06. 연봉 데이터 시각화.md",
+    "img/Pasted image 20240821154942.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/05. 그래프 사이즈 조절하기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/04. 그래프 간단하게 꾸미기.md",
     "img/Pasted image 20240821152704.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/02. 다양한 그래프 그려보기.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/03. 쇼핑물 매출액 데이터 시각화.md",
@@ -184,10 +189,8 @@
     "img/Pasted image 20240821144742.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib/01. matplotlib과 데이터 시각화.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
-    "img/Pasted image 20240821122051.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
-    "img/Pasted image 20240821120018.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
     "키워드/8월 21일 다음날 복습할 키워드.md",
     "키워드",
@@ -209,9 +212,6 @@
     "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
     "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
     "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
-    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/01. 파일 읽기.md",
-    "python/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
-    "python/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
     "python/코드잇/문제 해결 능력 기르기",
     "LLM/캡스톤주제",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
