@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md"
+                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md"
               }
             }
           },
@@ -170,9 +170,10 @@
   },
   "active": "88d8674facc184fb",
   "lastOpenFiles": [
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
     "img/Pasted image 20240821120018.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
     "img/Pasted image 20240821115705.png",
     "img/Pasted image 20240821115444.png",
     "img/Pasted image 20240821115316.png",
@@ -191,7 +192,6 @@
     "img/Pasted image 20240820163257.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
     "img/Pasted image 20240820161602.png",
-    "img/Pasted image 20240820161339.png",
     "데이터분석/코드잇/데이터 사이언스란?/데이터 사이언스란?.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Matplotlib",
