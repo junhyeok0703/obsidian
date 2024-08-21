@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "88d8674facc184fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱.md",
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱.md",
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱.md"
+                "file": "키워드/8월 21일 다음날 복습할 키워드.md"
               }
             }
           },
@@ -155,10 +168,12 @@
       "daily-notes:오늘의 데일리 노트 열기": false
     }
   },
-  "active": "ace130d2d1981222",
+  "active": "88d8674facc184fb",
   "lastOpenFiles": [
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/06. 비트코인 가격 정보 탐색하기 2.md",
+    "키워드",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱.md",
+    "키워드/8월 21일 다음날 복습할 키워드.md",
+    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/06. 비트코인 가격 정보 탐색하기 2.md",
     "img/Pasted image 20240820170805.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/05. 인덱싱과 슬라이싱 - 2차원 array.md",
     "img/Pasted image 20240820170514.png",
@@ -196,8 +211,6 @@
     "img/Pasted image 20240820001528.png",
     "python/코드잇/문제 해결 능력 기르기/04. 약수 찾기.md",
     "python/코드잇/문제 해결 능력 기르기/03. 이상한 수학 문제 2.md",
-    "python/코드잇/문제 해결 능력 기르기/02. 이상한 수학 문제 1.md",
-    "python/코드잇/추상화/01. 변수 제대로 이해하기.md",
     "python/코드잇/문제 해결 능력 기르기",
     "LLM/캡스톤주제",
     "SQL/코드잇/SQL로 배우는 데이터 분석/3.데이터 조회로 기본 다지기",
