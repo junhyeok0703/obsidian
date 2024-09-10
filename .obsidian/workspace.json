@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md"
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md"
               }
             }
           },
@@ -157,8 +157,10 @@
   },
   "active": "97a953140cdc0a88",
   "lastOpenFiles": [
-    "CodeingTest/코테 책/구현 - 상하좌우.md",
+    "img/Pasted image 20240910153529.png",
     "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+    "CodeingTest/코테 책/DFS,BFS/DFS.md",
+    "CodeingTest/코테 책/구현 - 상하좌우.md",
     "CodeingTest/코테 책/DFS,BFS",
     "4-2 바이오헬스/빅데이터알고리즘분석/1주차/1장 4차 산업혁명의 이해과 데이터 과학.md",
     "4-2 바이오헬스/빅데이터알고리즘분석/무제 파일.md",
@@ -193,8 +195,6 @@
     "데이터분석/네이버부스트코스/파이썬으로 시작하는 데이터 사이언스/5. K-beauty 온라인 판매분석/5.1 국가통계포털 데이터셋 소개.md",
     "데이터분석/네이버부스트코스/파이썬으로 시작하는 데이터 사이언스/5. K-beauty 온라인 판매분석/무제 폴더",
     "데이터분석/네이버부스트코스/파이썬으로 시작하는 데이터 사이언스/4. 건강검진 데이터로 가설검정하기/미션.md",
-    "데이터분석/네이버부스트코스/파이썬으로 시작하는 데이터 사이언스/4. 건강검진 데이터로 가설검정하기/4.12 상관계수 - heatmap으로 표현하기.md",
-    "데이터분석/네이버부스트코스/파이썬으로 시작하는 데이터 사이언스/4. 건강검진 데이터로 가설검정하기/4.11 수치형 데이터의 분포를 표현하기 - distplot.md",
     "img/Pasted image 20240827142130.png",
     "img/Pasted image 20240827141810.png",
     "img/Pasted image 20240827141541.png",
