@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md"
+                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "97a953140cdc0a88",
   "lastOpenFiles": [
-    "img/Pasted image 20240910153529.png",
     "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+    "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
     "CodeingTest/코테 책/DFS,BFS/DFS.md",
+    "img/Pasted image 20240910153529.png",
     "CodeingTest/코테 책/구현 - 상하좌우.md",
     "CodeingTest/코테 책/DFS,BFS",
     "4-2 바이오헬스/빅데이터알고리즘분석/1주차/1장 4차 산업혁명의 이해과 데이터 과학.md",
@@ -202,7 +203,6 @@
     "img/Pasted image 20240827141451.png",
     "img/Pasted image 20240827141330.png",
     "img/Pasted image 20240827141324.png",
-    "img/Pasted image 20240827141317.png",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
