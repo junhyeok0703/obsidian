@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md"
+                "file": "CodeingTest/코테 책/DFS,BFS/DFS.md"
               }
             }
           },
@@ -157,7 +157,7 @@
   },
   "active": "97a953140cdc0a88",
   "lastOpenFiles": [
-    "CodeingTest/코테 책/DFS,BFS/그래프 탐색 알고리즘.md",
+    "CodeingTest/코테 책/DFS,BFS/알아야하는 자료구조.md",
     "CodeingTest/코테 책/DFS,BFS/그래프 자료구조.md",
     "CodeingTest/코테 책/DFS,BFS/DFS.md",
     "img/Pasted image 20240910153529.png",

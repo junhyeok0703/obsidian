@@ -11,6 +11,14 @@ DFS는 스택 자료구조 or 재귀함수를 이용한다
 시작노드 1 
 1 -> 2 -> 7 -> 6 -> 8 -> 3 -> 4 -> 5
 
-
+```
+def dfs(graph,v,visited):
+	visited[v] = True
+	print(v,'->',end='')
+	
+	
+		
+	
+```
 
 
