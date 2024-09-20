@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
+                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
+                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
+                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md"
+                "file": "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md"
               }
             }
           },
@@ -159,9 +159,10 @@
   },
   "active": "39953c49098622c9",
   "lastOpenFiles": [
+    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
+    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md",
     "img/screencapture-codeit-kr-topics-statistics-and-visualization-lessons-8298-2024-09-20-22_26_26.png",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/13. 분산과 표준편차.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/12. 데이터 분포의 모양.md",
     "img/Pasted image 20240920214919.png",
     "img/Pasted image 20240920214859.png",
@@ -189,7 +190,6 @@
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/05. DataFrame에서 일부만 선택하기.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/04. 프리미어 리그 데이터 탐색하기.md",
     "img/Pasted image 20240920143658.png",
-    "img/Pasted image 20240920143643.png",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/03. 데이터 불러오기.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/pandas/02. dataframe을 만드는 다양한 방법.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
