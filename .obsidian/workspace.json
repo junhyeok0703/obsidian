@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/08. 여러 개의 조건으로 불린 인덱싱하기.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/08. 여러 개의 조건으로 불린 인덱싱하기.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/08. 여러 개의 조건으로 불린 인덱싱하기.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/08. 여러 개의 조건으로 불린 인덱싱하기.md"
+                "file": "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md"
               }
             }
           },
@@ -159,8 +159,15 @@
   },
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
-    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/07. Series살펴보기 실습.md",
+    "img/Pasted image 20240924144621.png",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/12. drop()함수의 axis.md",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/11. 데이터삭제하기.md",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/10. query() 함수로 불린인덱싱.md",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/08. 여러 개의 조건으로 불린 인덱싱하기.md",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/09. 여러개조건불린인덱싱실습.md",
+    "img/Pasted image 20240924143340.png",
+    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/07. Series살펴보기 실습.md",
     "img/Pasted image 20240924141622.png",
     "img/Pasted image 20240924141621.png",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/06. Series 살펴보기.md",
@@ -188,17 +195,10 @@
     "img/Pasted image 20240921002424.png",
     "img/Pasted image 20240921002309.png",
     "img/Pasted image 20240921001933.png",
-    "img/Pasted image 20240921001733.png",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03. 공유 자전거 데이터 더 살펴보기.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/01. seaborn으로 그래프 그릭.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03.",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/토픽소개.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/16. 코드댓 성공할수있을까?.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/15. 누적값 계산하기.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/14. 데이터 분포 퀴즈.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/13. 분산과 표준편차.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/12. 데이터 분포의 모양.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프",
     "데이터분석/코드잇/기초 통계와 데이터 시각화",
     "Excalidraw",
