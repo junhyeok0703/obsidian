@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
+                "file": "코테문제풀기/1920번.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
+                "file": "코테문제풀기/1920번.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
+                "file": "코테문제풀기/1920번.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md"
+                "file": "코테문제풀기/1920번.md"
               }
             }
           },
@@ -159,12 +159,15 @@
   },
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
+    "img/Pasted image 20240929182132.png",
+    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
+    "코테문제풀기/1920번.md",
+    "코테문제풀기",
     "img/Pasted image 20240929162916.png",
     "img/Pasted image 20240929162909.png",
     "img/Pasted image 20240929160848.png",
     "img/Pasted image 20240929160753.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/04. 정규화 실습.md",
-    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
     "img/Pasted image 20240929160712.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
     "img/Pasted image 20240929004859.png",
@@ -177,7 +180,6 @@
     "img/Pasted image 20240925171212.png",
     "데이터분석/코드잇/클러스터분석/k-means/04. EIbow Method.md",
     "데이터분석/코드잇/클러스터분석/k-means/03. k-means 실습.md",
-    "img/Pasted image 20240925163843.png",
     "데이터분석/코드잇/클러스터분석/k-means/02. 모델 학습 및 시각화.md",
     "데이터분석/코드잇/클러스터분석/k-means/01. k-means란?.md",
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/03. 데이터준비하기.md",
@@ -200,11 +202,9 @@
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/14. 데이터 내보내기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
-    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/12. drop()함수의 axis.md",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기",
     "데이터분석/코드잇/DataFrame마스터하기",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03.",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
