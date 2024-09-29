@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
+                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md"
+                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md"
               }
             }
           },
@@ -159,11 +159,16 @@
   },
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
+    "img/Pasted image 20240929160848.png",
+    "img/Pasted image 20240929160753.png",
+    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/04. 정규화 실습.md",
+    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
+    "img/Pasted image 20240929160712.png",
+    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
     "img/Pasted image 20240929004859.png",
     "img/Pasted image 20240929004748.png",
     "img/Pasted image 20240929004712.png",
     "데이터분석/코드잇/DataFrame마스터하기/문제 데이터 가공하기/01. 대소문자 처리하기.md",
-    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공",
     "데이터분석/코드잇/클러스터분석/k-means/05. EIbow Method 실습.md",
     "img/Pasted image 20240925171212 1.png",
@@ -184,23 +189,18 @@
     "데이터분석/코드잇/클러스터분석",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/09. 이상점 처리하기 실습.md",
     "데이터분석/코드잇/DataFrame마스터하기/문제 데이터 가공하기",
-    "img/Pasted image 20240924185227.png",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/08. 이상치 처리하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/07. 이상점 찾기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/05. 중복값 처리하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/04. 중복값 찾기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/06. 중복값 처리하기 실습.md",
-    "img/Pasted image 20240924160407.png",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/02 .결측값 처리하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/01. 결측값 찾기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/03. 결측값 처리하기 실습.md",
-    "img/Pasted image 20240924152628.png",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/14. 데이터 내보내기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/13. 데이터 삭제하기 실습.md",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/12. drop()함수의 axis.md",
-    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/11. 데이터삭제하기.md",
-    "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기/10. query() 함수로 불린인덱싱.md",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기",
     "데이터분석/코드잇/DataFrame마스터하기",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03.",
