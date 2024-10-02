@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md",
+                "file": "CodeingTest/문제풀기/1764번.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md",
+                "file": "CodeingTest/문제풀기/1764번.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md",
+                "file": "CodeingTest/문제풀기/1764번.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md"
+                "file": "CodeingTest/문제풀기/1764번.md"
               }
             }
           },
@@ -159,9 +159,11 @@
   },
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
+    "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md",
+    "CodeingTest/문제풀기/1764번.md",
+    "CodeingTest/문제풀기",
     "SQL/SQL 문제 풀기",
     "데이터 분석가의 역량.md",
-    "SQL/SQL 문제 풀기/경기도 위치한 식품창고 목록 출력.md",
     "코테문제풀기/1920번.md",
     "img/Pasted image 20240929182132.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
@@ -203,8 +205,6 @@
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/03. 결측값 처리하기 실습.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기",
     "데이터분석/코드잇/DataFrame마스터하기/DataFrame 기본기",
-    "데이터분석/코드잇/DataFrame마스터하기",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03.",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
