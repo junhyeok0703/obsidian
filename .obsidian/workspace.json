@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
+                "file": "CodeingTest/코테 책/정렬/퀵 정렬.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
+                "file": "CodeingTest/코테 책/정렬/퀵 정렬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
+                "file": "CodeingTest/코테 책/정렬/퀵 정렬.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/무제 파일.md"
+                "file": "CodeingTest/코테 책/정렬/퀵 정렬.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
     "CodeingTest/코테 책/정렬/삽입정렬.md",
-    "CodeingTest/코테 책/정렬/무제 파일.md",
+    "CodeingTest/코테 책/정렬/퀵 정렬.md",
     "CodeingTest/코테 책/정렬/선택정렬.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/08. 데이터 구간화 실습.md",
