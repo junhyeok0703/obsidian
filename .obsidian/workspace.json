@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
+                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
+                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
+                "file": "CodeingTest/코테 책/정렬/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md"
+                "file": "CodeingTest/코테 책/정렬/무제 파일.md"
               }
             }
           },
@@ -159,8 +159,11 @@
   },
   "active": "107dbc349d0fb128",
   "lastOpenFiles": [
-    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/08. 데이터 구간화 실습.md",
+    "CodeingTest/코테 책/정렬/삽입정렬.md",
+    "CodeingTest/코테 책/정렬/무제 파일.md",
+    "CodeingTest/코테 책/정렬/선택정렬.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
+    "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/08. 데이터 구간화 실습.md",
     "img/Pasted image 20241003231039.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/07. cut() 함수로 데이터 구간화하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/06. 표준화 실습.md",
@@ -168,8 +171,6 @@
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/05. 표준화.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/02 .결측값 처리하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/01. 결측값 찾기.md",
-    "CodeingTest/코테 책/정렬/삽입정렬.md",
-    "CodeingTest/코테 책/정렬/선택정렬.md",
     "CodeingTest/문제풀기/1920번.md",
     "CodeingTest/코테 책/정렬",
     "CodeingTest/문제풀기/1764번.md",
@@ -202,7 +203,6 @@
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/02 클러스터링 원리 이해하기.md",
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기",
     "데이터분석/코드잇/클러스터분석",
-    "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기/09. 이상점 처리하기 실습.md",
     "데이터분석/코드잇/DataFrame마스터하기/문제 데이터 가공하기",
     "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기",
     "무제 파일 1.canvas",
