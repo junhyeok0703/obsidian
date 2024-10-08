@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/계수 정렬.md",
+                "file": "SQL/SQL 문제 풀기/없어진 기록 찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/계수 정렬.md",
+                "file": "SQL/SQL 문제 풀기/없어진 기록 찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/계수 정렬.md",
+                "file": "SQL/SQL 문제 풀기/없어진 기록 찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/정렬/계수 정렬.md"
+                "file": "SQL/SQL 문제 풀기/없어진 기록 찾기.md"
               }
             }
           },
@@ -157,11 +157,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "107dbc349d0fb128",
   "lastOpenFiles": [
+    "img/Pasted image 20241008225610.png",
+    "img/Pasted image 20241008225449.png",
+    "CodeingTest/코테 책/정렬/계수 정렬.md",
+    "SQL/SQL 문제 풀기/없어진 기록 찾기.md",
     "CodeingTest/코테 책/이진탐색",
     "CodeingTest/코테 책/정렬/퀵 정렬.md",
-    "CodeingTest/코테 책/정렬/계수 정렬.md",
     "CodeingTest/코테 책/정렬/삽입정렬.md",
     "CodeingTest/코테 책/정렬/선택정렬.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/09. apply() 함수알아보기.md",
@@ -190,7 +193,6 @@
     "img/Pasted image 20240929160712.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공/03 정규화.md",
     "img/Pasted image 20240929004859.png",
-    "img/Pasted image 20240929004748.png",
     "데이터분석/코드잇/DataFrame마스터하기/문제 데이터 가공하기/01. 대소문자 처리하기.md",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공",
     "데이터분석/코드잇/클러스터분석/k-means/05. EIbow Method 실습.md",
@@ -199,12 +201,10 @@
     "데이터분석/코드잇/클러스터분석/k-means/02. 모델 학습 및 시각화.md",
     "데이터분석/코드잇/클러스터분석/k-means/01. k-means란?.md",
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/03. 데이터준비하기.md",
-    "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/04. 클러스터링 퀴즈.md",
     "데이터분석/코드잇/클러스터분석/k-means",
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기",
     "데이터분석/코드잇/클러스터분석",
     "데이터분석/코드잇/DataFrame마스터하기/문제 데이터 가공하기",
-    "데이터분석/코드잇/DataFrame마스터하기/데이터다듬기",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
