@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/이진 탐색.md",
+                "file": "CodeingTest/코테 책/DP/DP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/이진 탐색.md",
+                "file": "CodeingTest/코테 책/DP/DP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/이진 탐색.md",
+                "file": "CodeingTest/코테 책/DP/DP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/이진 탐색.md"
+                "file": "CodeingTest/코테 책/DP/DP.md"
               }
             }
           },
@@ -159,6 +159,9 @@
   },
   "active": "23beadca0825ef6d",
   "lastOpenFiles": [
+    "CodeingTest/코테 책/이진탐색/이진 탐색.md",
+    "CodeingTest/코테 책/DP/DP.md",
+    "CodeingTest/코테 책/DP",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/10. 확률 밀도 함수와 KDE plot.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/08. 중고차 데이터 분석 1.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/09. 모집단과 표본.md",
@@ -183,8 +186,6 @@
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/04. 비트코인 가격 정보 탐색하기 1.md",
     "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/01. Numpy란?.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/02. Numpy와 array.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/03. 인덱싱과 슬라이싱 - 1차원 arr.md",
     "데이터분석/코드잇/DataFrame마스터하기/날짜와 시간 데이터 다루기",
     "img/Pasted image 20241008225610.png",
     "img/Pasted image 20241008225449.png",
@@ -204,7 +205,6 @@
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공",
     "데이터분석/코드잇/클러스터분석/k-means",
     "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기",
-    "데이터분석/코드잇/클러스터분석",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
