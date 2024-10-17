@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/1로 만들기.md",
+                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/1로 만들기.md",
+                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/1로 만들기.md",
+                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/이진탐색/1로 만들기.md"
+                "file": "CodeingTest/코테 책/DP/1로 만들기.md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "active": "23beadca0825ef6d",
   "lastOpenFiles": [
     "CodeingTest/코테 책/DP/DP.md",
-    "CodeingTest/코테 책/이진탐색/1로 만들기.md",
+    "CodeingTest/코테 책/DP/1로 만들기.md",
     "CodeingTest/코테 책/이진탐색/이진 탐색.md",
     "CodeingTest/코테 책/DP",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/10. 확률 밀도 함수와 KDE plot.md",
