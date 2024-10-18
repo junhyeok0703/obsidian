@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "38d6a1bbbb531c8a",
+        "id": "d8412b720a1a8e07",
         "type": "tabs",
         "children": [
           {
-            "id": "23beadca0825ef6d",
+            "id": "7fcd068ad4665e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
+                "file": "CodeingTest/프로그래머스문제풀기/완전탐색/소수찾기.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
+                "file": "CodeingTest/프로그래머스문제풀기/완전탐색/소수찾기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/DP/1로 만들기.md",
+                "file": "CodeingTest/프로그래머스문제풀기/완전탐색/소수찾기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/DP/1로 만들기.md"
+                "file": "CodeingTest/프로그래머스문제풀기/완전탐색/소수찾기.md"
               }
             }
           },
@@ -157,10 +157,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23beadca0825ef6d",
+  "active": "7fcd068ad4665e19",
   "lastOpenFiles": [
-    "CodeingTest/코테 책/DP/DP.md",
+    "img/Pasted image 20241018232957.png",
+    "CodeingTest/코테 책/DP/개미전사.md",
+    "CodeingTest/프로그래머스문제풀기/완전탐색/소수찾기.md",
+    "CodeingTest/프로그래머스문제풀기/완전탐색",
+    "CodeingTest/프로그래머스문제풀기",
     "CodeingTest/코테 책/DP/1로 만들기.md",
+    "CodeingTest/코테 책/DP/DP.md",
+    "python/코드잇/파이썬 응용하기/프로젝트-로또/01. 로또 시뮬레이션.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/07. 단어 퀴즈.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/06. 단어장 만들기.md",
+    "python/코드잇/파이썬 응용하기/사용자 입력받기/02. 숫자 맞히기 게임.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/08. 고급 단어장.md",
+    "python/코드잇/파이썬 응용하기/파일 읽고 쓰기/04. 코딩에 빠진 닭.md",
+    "python/코드잇/파이썬 응용하기/사용자 입력받기/01. input.md",
     "CodeingTest/코테 책/이진탐색/이진 탐색.md",
     "CodeingTest/코테 책/DP",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/통계 기본 상식과 그래프/10. 확률 밀도 함수와 KDE plot.md",
@@ -176,16 +188,6 @@
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/07. 이코노미와 비즈니스.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/06. 데이터 분포 시각화2.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/08.흡연여부와보험금.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/01. seaborn으로 그래프 그릭.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/03. 공유 자전거 데이터 더 살펴보기.md",
-    "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/03. 데이터준비하기.md",
-    "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/02 클러스터링 원리 이해하기.md",
-    "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기/01. 클러스터링이란?.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/10. 쇼핑물 매출액 계산하기.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/09. NumPy 기본 연산.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/08. 짝수만 추출하기.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/07. 불린 인덱싱 or 마스킹.md",
-    "데이터분석/코드잇/데이터 사이언스 toolkit/Numpy/04. 비트코인 가격 정보 탐색하기 1.md",
     "데이터분석/코드잇/DataFrame마스터하기/날짜와 시간 데이터 다루기",
     "img/Pasted image 20241008225610.png",
     "img/Pasted image 20241008225449.png",
@@ -203,8 +205,6 @@
     "img/Pasted image 20240929160753.png",
     "img/Pasted image 20240929160712.png",
     "데이터분석/코드잇/DataFrame마스터하기/숫자 데이터 가공",
-    "데이터분석/코드잇/클러스터분석/k-means",
-    "데이터분석/코드잇/클러스터분석/클러스터 분석 이해하기",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
