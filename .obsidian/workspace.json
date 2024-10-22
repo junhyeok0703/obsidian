@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CodeingTest/코테 책/DP/개미전사.md",
+                "file": "데이터분석/코드잇/객체와 클래스/토픽 소개.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CodeingTest/코테 책/DP/개미전사.md",
+                "file": "데이터분석/코드잇/객체와 클래스/토픽 소개.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CodeingTest/코테 책/DP/개미전사.md",
+                "file": "데이터분석/코드잇/객체와 클래스/토픽 소개.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CodeingTest/코테 책/DP/개미전사.md"
+                "file": "데이터분석/코드잇/객체와 클래스/토픽 소개.md"
               }
             }
           },
@@ -159,6 +159,11 @@
   },
   "active": "7fcd068ad4665e19",
   "lastOpenFiles": [
+    "데이터분석/코드잇/기초 통계와 데이터 시각화/토픽소개.md",
+    "데이터분석/코드잇/객체와 클래스/토픽 소개.md",
+    "CodeingTest/코테 책/DP/개미전사.md",
+    "데이터분석/코드잇/객체와 클래스/무제 폴더",
+    "데이터분석/코드잇/객체와 클래스",
     "img/Pasted image 20241019215715.png",
     "img/Pasted image 20241019215446.png",
     "img/Pasted image 20241019215437.png",
@@ -168,7 +173,6 @@
     "데이터분석/코드잇/대표적인 딥러닝 네트워크 이해하기/무제 파일.md",
     "데이터분석/코드잇/대표적인 딥러닝 네트워크",
     "img/Pasted image 20241018232957.png",
-    "CodeingTest/코테 책/DP/개미전사.md",
     "CodeingTest/프로그래머스문제풀기/완전탐색",
     "CodeingTest/프로그래머스문제풀기",
     "CodeingTest/코테 책/DP/DP.md",
@@ -191,7 +195,6 @@
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/12.보험데이터 분석.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/09. 상관관계 시각화.md",
     "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/11. 비싼 와인이 더 맛있을까?.md",
-    "데이터분석/코드잇/기초 통계와 데이터 시각화/seaborn/07. 이코노미와 비즈니스.md",
     "데이터분석/코드잇/DataFrame마스터하기/날짜와 시간 데이터 다루기",
     "img/Pasted image 20241008225610.png",
     "img/Pasted image 20241008225449.png",
@@ -200,11 +203,8 @@
     "img/Pasted image 20241003224952.png",
     "CodeingTest/코테 책/정렬",
     "CodeingTest/문제풀기",
-    "SQL/SQL 문제 풀기",
     "img/Pasted image 20240929182132.png",
-    "코테문제풀기",
     "img/Pasted image 20240929162916.png",
-    "img/Pasted image 20240929162909.png",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
