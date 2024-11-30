@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "26d1536a0a999323",
+        "id": "5d2b9c0d74e5620e",
         "type": "tabs",
         "children": [
           {
-            "id": "c43ed47185c6c3cd",
+            "id": "bbbc2b0b84886879",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "백엔드/어떻게 공부할지 , 왜 공부하는지.md",
+                "file": "BDA/특강/데이터 엔지니어의 취업 가이드.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "어떻게 공부할지 , 왜 공부하는지"
+              "title": "데이터 엔지니어의 취업 가이드"
             }
           }
         ]
@@ -171,16 +171,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c43ed47185c6c3cd",
+  "active": "bbbc2b0b84886879",
   "lastOpenFiles": [
+    "코드잇스프린트/초급 프로젝트/따릉이 수요와 공급 불균형 분석.md",
+    "BDA/특강/데이터 엔지니어의 취업 가이드.md",
+    "BDA/특강",
+    "BDA",
+    "백엔드/홍팍/MVC 패턴의 이해.md",
     "백엔드/홍팍/JPA.md",
+    "백엔드/홍팍/DTO.md",
+    "백엔드/어떻게 공부할지 , 왜 공부하는지.md",
     "img/Pasted image 20241129000631.png",
     "img/Pasted image 20241129000545.png",
     "img/Pasted image 20241129000404.png",
     "img/Pasted image 20241129000155.png",
-    "백엔드/홍팍/DTO.md",
-    "백엔드/홍팍/MVC 패턴의 이해.md",
-    "백엔드/어떻게 공부할지 , 왜 공부하는지.md",
     "img/Pasted image 20241128233328.png",
     "img/Pasted image 20241128233314.png",
     "img/Pasted image 20241128232711.png",
@@ -188,12 +192,11 @@
     "img/Pasted image 20241128232534.png",
     "img/Pasted image 20241128232502.png",
     "LLM/멀티모달RAG/구글 제미나이.md",
-    "코드잇/스프린트미션7/호텔 데이터 데이터분석.md",
+    "코드잇스프린트/스프린트미션7/호텔 데이터 데이터분석.md",
     "LLM/멀티모달RAG",
-    "코드잇/초급 프로젝트/따릉이 수요와 공급 불균형 분석.md",
-    "코드잇/스프린트미션7",
-    "코드잇/초급 프로젝트",
-    "코드잇",
+    "코드잇스프린트/스프린트미션7",
+    "코드잇스프린트/초급 프로젝트",
+    "코드잇스프린트",
     "통계/분산분석이란?.md",
     "통계/모집단, 표본이란?.md",
     "통계/T-검정이란?.md",
@@ -216,8 +219,6 @@
     "python/파이썬 응용하기/파일 읽고 쓰기",
     "python/파이썬 응용하기/프로젝트-로또",
     "python/파이썬 응용하기/파이썬 모듈 맛보기",
-    "python/파이썬 응용하기/사용자 입력받기",
-    "python/파이썬 모듈과 패키지/외부 패키지",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
