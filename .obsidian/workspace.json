@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/DBSCAN이란?.md",
+                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/DBSCAN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DBSCAN이란?"
+              "title": "DBSCAN"
             }
           }
         ]
@@ -173,11 +173,17 @@
   },
   "active": "bbbc2b0b84886879",
   "lastOpenFiles": [
-    "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/DBSCAN이란?.md",
+    "img/Pasted image 20241204182238.png",
     "코드잇스프린트/클러스터분석과차원축소/K-means/다양한 클러스터링 종류.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/계층적 클러스터링이란?.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/K-means++모델.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/DBSCAN.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/차원의 저주.md",
     "코드잇스프린트/클러스터분석과차원축소/K-means/실루엣 계수.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/계층적 클러스터링이란?.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/K-Means란?.md",
+    "img/Pasted image 20241204181811.png",
     "img/Pasted image 20241204173420.png",
     "img/Pasted image 20241204173348.png",
     "img/Pasted image 20241204171933.png",
@@ -186,15 +192,10 @@
     "img/Pasted image 20241204170929.png",
     "img/Pasted image 20241204170922.png",
     "img/Pasted image 20241204170921.png",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/차원의 저주.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/K-means++모델.md",
     "코드잇스프린트/클러스터분석과차원축소/K-means/K-means의 장단점.md",
     "img/Pasted image 20241204154434.png",
-    "img/Pasted image 20241204154431.png",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/클러스터 분석 살펴보기.md",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/클러스터링 원리.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/K-Means란?.md",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/데이터준비하기.md",
     "코드잇스프린트/클러스터분석과차원축소",
     "코드잇스프린트/클러스터분석과차원축소/K-means",
@@ -218,7 +219,6 @@
     "LLM/멀티모달RAG/구글 제미나이.md",
     "LLM/멀티모달RAG",
     "통계/분산분석이란?.md",
-    "통계/모집단, 표본이란?.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",

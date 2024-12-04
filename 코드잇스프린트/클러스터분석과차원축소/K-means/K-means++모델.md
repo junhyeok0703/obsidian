@@ -5,3 +5,8 @@ Centroid의 초기값이 잘못되면 k-means의 성능저하로 인해서 k-mea
 	- 실제 데이터 포인트 이용, 수렴 시간 단축
 2. 첫 초기 중심점으로부터 가장 멀리 떨어진, 데이터 포인트를 우선해 두번째 중심점 선택 
 	- 몰리지 않아, 결과값이 안정적 
+
+
+```python
+model = KMeans(n_clusters=k,random_state=123,init='k-means++')
+```
