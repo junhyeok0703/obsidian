@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/실루엣 계수.md",
+                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/K-means++모델.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "실루엣 계수"
+              "title": "K-means++모델"
             }
           }
         ]
@@ -173,11 +173,16 @@
   },
   "active": "bbbc2b0b84886879",
   "lastOpenFiles": [
+    "코드잇스프린트/클러스터분석과차원축소/K-means/K-means의 장단점.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/K-means++모델.md",
+    "img/Pasted image 20241204154434.png",
+    "img/Pasted image 20241204154431.png",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/실루엣 계수.md",
+    "img/Pasted image 20241204153739.png",
     "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/클러스터 분석 살펴보기.md",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/클러스터링 원리.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/실루엣 계수.md",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
     "img/Pasted image 20241204150441.png",
     "img/Pasted image 20241204134245.png",
     "img/Pasted image 20241204134054.png",
@@ -185,10 +190,7 @@
     "img/Pasted image 20241204131850.png",
     "img/Pasted image 20241204131829.png",
     "img/Pasted image 20241204131741.png",
-    "img/Pasted image 20241204131739.png",
     "코드잇스프린트/클러스터분석과차원축소/K-means/K-Means란?.md",
-    "img/Pasted image 20241204110409.png",
-    "img/Pasted image 20241204110344.png",
     "코드잇스프린트/클러스터분석과차원축소/클러스터분석/데이터준비하기.md",
     "코드잇스프린트/클러스터분석과차원축소",
     "코드잇스프린트/클러스터분석과차원축소/K-means",
@@ -217,8 +219,6 @@
     "통계/Z-검정이란?.md",
     "통계/F 검정 - 등분산 여부 확인.md",
     "통계/표본오차이란?.md",
-    "통계/카이제곱이란?.md",
-    "통계/등분산 확인후 t검정은?.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
