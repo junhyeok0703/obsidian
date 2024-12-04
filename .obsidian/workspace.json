@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
+                "file": "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모델 학습 및 시각화"
+              "title": "Elbow_method"
             }
           }
         ]
@@ -173,10 +173,11 @@
   },
   "active": "bbbc2b0b84886879",
   "lastOpenFiles": [
+    "img/Pasted image 20241204150441.png",
+    "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
     "코드잇스프린트/클러스터분석과차원축소/K-means/Elbow_method.md",
     "img/Pasted image 20241204134245.png",
     "img/Pasted image 20241204134054.png",
-    "코드잇스프린트/클러스터분석과차원축소/K-means/모델 학습 및 시각화.md",
     "img/Pasted image 20241204131853.png",
     "img/Pasted image 20241204131850.png",
     "img/Pasted image 20241204131829.png",
