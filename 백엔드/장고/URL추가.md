@@ -8,11 +8,11 @@ from django.urls import path,include
 
 urlpatterns = [
 	path('admin/',admin.site.urls),
-	path('food/',include('foods.urls')
+	path('foods/',include('foods.urls')
 ]
 ```
 여기서 include로 admin쪽의 urls.py에 추가해준다. path를 그러면 foods파일에 있는걸 리턴할수있게 도와주는듯?
-
+**도메인 옆에 foods를 입력하면 foods.urls파일을 봐라**
 ### 2. foods 앱에 urls.py를 만들어서 
 ```python
 
@@ -27,7 +27,7 @@ path('index/',views.index) #foods/views.py를 봐라
 ```
 위에서 저 admin에 urls에서 저렇게 foods폴더를 접근할수있다.
 이처럼 urls.py에 하게되면 views파일에 있는 index를 리턴할수있다.
-
+**foods/index/를 입력하면 views안에 있는 index함수를 실행해라**
 ```python
 from django.shortcuts import render
 from django.http import HttpResponse
@@ -40,3 +40,4 @@ def index(request):
 
 ```
 views.py에 위처럼 해주면 HttpsResponse를 사용하게 되면 저 html태크를 페이지에 리턴해줄수있다.
+**index라는 함수는 HttpResonse그니까 이걸 줄거야**
