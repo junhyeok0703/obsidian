@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "위클리페이퍼1"
             }
-          },
-          {
-            "id": "482bff3c7847cd27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "코드잇스프린트/웹자동화/웹/CSS 선택자.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSS 선택자"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,16 +186,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "482bff3c7847cd27",
+  "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
-    "코드잇스프린트/웹자동화/무제 파일.md",
-    "코드잇스프린트/웹자동화/웹/CSS 선택자.md",
-    "코드잇스프린트/웹자동화/웹",
+    "TIL/12월 16일.md",
     "위클리페이퍼1.md",
+    "코드잇스프린트/웹자동화/셀레니움/무제 파일.md",
+    "코드잇스프린트/웹자동화/웹/CSS 선택자.md",
+    "코드잇스프린트/웹자동화/무제 파일.md",
+    "코드잇스프린트/웹자동화/셀레니움",
+    "코드잇스프린트/웹자동화/뷰티풀숩",
+    "코드잇스프린트/웹자동화/웹",
     "코드잇스프린트/웹자동화",
     "위클리페이퍼2.md",
     "데이터 분석가의 역량.md",
-    "TIL/12월 16일.md",
     "TIL/12월 15일.md",
     "코드잇스프린트/장바구니분석/연관규칙마이닝/FP-Growth 구현해보기.md",
     "코드잇스프린트/장바구니분석/순차패턴마이닝",
@@ -244,10 +233,7 @@
     "백엔드/장고/무제 폴더",
     "백엔드/장고/URL추가.md",
     "백엔드/장고/프로젝트 vs 앱.md",
-    "백엔드/장고/환경설정.md",
     "백엔드/장고",
-    "코드잇스프린트/데이터시각화심화/seaborn심화",
-    "코드잇스프린트/데이터시각화심화/Matplotlib심화",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
