@@ -25,3 +25,10 @@ git push
 ```python
 git pull
 ```
+
+
+
+### 어떠한 다른사람이 작업했던 리모트 레포를 내가 가져오고 싶을때(복제가능)
+```python
+git clone '주소'
+```
