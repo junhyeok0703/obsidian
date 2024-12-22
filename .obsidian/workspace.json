@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/git/로컬 레포, remote 레포.md",
+                "file": "코드잇스프린트/통계적가설검정/표본을 통해 모집단을 파악한다..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "로컬 레포, remote 레포"
+              "title": "표본을 통해 모집단을 파악한다."
             }
           }
         ],
@@ -188,8 +188,11 @@
   },
   "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
-    "코드잇스프린트/git/git 써보기.md",
+    "코드잇스프린트/통계적가설검정/데이터분석과 통계학.md",
+    "코드잇스프린트/통계적가설검정/표본을 통해 모집단을 파악한다..md",
     "코드잇스프린트/git/로컬 레포, remote 레포.md",
+    "코드잇스프린트/통계적가설검정",
+    "코드잇스프린트/git/git 써보기.md",
     "img/Pasted image 20241221183411.png",
     "코드잇스프린트/git/git의 3가지 작업 영역.md",
     "img/Pasted image 20241221182313.png",
@@ -231,9 +234,6 @@
     "img/Pasted image 20241214191141.png",
     "img/Pasted image 20241214191010.png",
     "img/Pasted image 20241214190621.png",
-    "코드잇스프린트/장바구니분석/결제 데이터 전처리하기.md",
-    "코드잇스프린트/장바구니분석/연관규칙마이닝",
-    "코드잇스프린트/장바구니분석/결제 데이터 살펴보기.md",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
