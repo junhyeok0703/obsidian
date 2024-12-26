@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/지표이해하기/5. Acquistion - 광고 지표.md",
+                "file": "코드잇스프린트/지표이해하기/8. Activation - 활성화 지표.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Acquistion - 광고 지표"
+              "title": "8. Activation - 활성화 지표"
             }
           }
         ]
@@ -173,20 +173,24 @@
   },
   "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
-    "코드잇스프린트/지표이해하기/2.지표 관리를 위한 AARRR프레임워크.md",
-    "코드잇스프린트/지표이해하기/5. Acquistion - 광고 지표.md",
+    "img/Pasted image 20241226172935.png",
+    "img/Pasted image 20241226172754.png",
+    "코드잇스프린트/지표이해하기/7. Activation(엑티베이션).md",
+    "코드잇스프린트/지표이해하기/8. Activation - 활성화 지표.md",
+    "img/Pasted image 20241226172221.png",
+    "img/Pasted image 20241226172139.png",
+    "img/Pasted image 20241226172053.png",
+    "img/Pasted image 20241226171812.png",
+    "img/Pasted image 20241226171810.png",
+    "img/Pasted image 20241226171653.png",
+    "img/Pasted image 20241226171643.png",
+    "img/Pasted image 20241226171528.png",
+    "img/Pasted image 20241226171443.png",
+    "코드잇스프린트/지표이해하기/6. Acquisition - 통합적으로 생각해보기.md",
     "코드잇스프린트/지표이해하기/4. Acquisition - 획득 지표.md",
-    "img/Pasted image 20241226160731.png",
-    "img/Pasted image 20241226160250.png",
-    "img/Pasted image 20241226160214.png",
-    "img/Pasted image 20241226160122.png",
     "코드잇스프린트/지표이해하기/3.주의 - 지표는 고정된 개념이 아님.md",
-    "img/Pasted image 20241226154333.png",
-    "img/Pasted image 20241225100822.png",
-    "img/Pasted image 20241225100755.png",
-    "img/Pasted image 20241225100641.png",
-    "img/Pasted image 20241225100540.png",
-    "img/Pasted image 20241224233148.png",
+    "코드잇스프린트/지표이해하기/5. Acquistion - 광고 지표.md",
+    "코드잇스프린트/지표이해하기/2.지표 관리를 위한 AARRR프레임워크.md",
     "코드잇스프린트/지표이해하기/1.토픽소개.md",
     "코드잇스프린트/데이터기반프로덕트개선/3. 프로덕트 데이터 분석의 중요성.md",
     "코드잇스프린트/데이터기반프로덕트개선/2. 프로덕트 데이터란?.md",
@@ -205,11 +209,7 @@
     "코드잇스프린트/데이터기반프로덕트개선/데이터 시각화.md",
     "코드잇스프린트/통계적가설검정/4. 확률과 확률분포.md",
     "코드잇스프린트/통계적가설검정/3. 통찰을 위해 통계학에서 중요한 것들 - 평균.md",
-    "코드잇스프린트/통계적가설검정/2. 표본을 통해 모집단을 파악한다..md",
-    "코드잇스프린트/통계적가설검정/1. 데이터분석과 통계학.md",
-    "코드잇스프린트/git/로컬 레포, remote 레포.md",
     "코드잇스프린트/통계적가설검정",
-    "코드잇스프린트/git/git 써보기.md",
     "코드잇스프린트/git",
     "코드잇스프린트/지표이해하기",
     "코드잇스프린트/데이터기반프로덕트개선",
