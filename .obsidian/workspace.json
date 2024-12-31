@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/AB테스트/AB테스트_시작/4. 샘플 설정하기.md",
+                "file": "코드잇스프린트/AB테스트/AB테스트_시작/7. AB테스트 진행하기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. 샘플 설정하기"
+              "title": "7. AB테스트 진행하기"
             }
           }
         ]
@@ -173,12 +173,15 @@
   },
   "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
+    "코드잇스프린트/AB테스트/AB테스트_시작/6. AB테스트 플랫폼 소개.md",
+    "코드잇스프린트/AB테스트/AB테스트_시작/7. AB테스트 진행하기.md",
+    "코드잇스프린트/AB테스트/AB테스트_시작/5. AB테스트 설계서 작성 가이드.md",
+    "img/screencapture-codeit-kr-topics-ab-test-lessons-10555-2024-12-31-23_45_23.png",
+    "코드잇스프린트/AB테스트/AB테스트_시작/4. 샘플 설정하기.md",
     "img/Pasted image 20241231230511.png",
     "img/Pasted image 20241231230350.png",
     "img/Pasted image 20241231220700.png",
     "코드잇스프린트/AB테스트/AB테스트_시작/3. 지표 설정 및 로그 정의하기.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/4. 샘플 설정하기.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/무제 파일.md",
     "코드잇스프린트/AB테스트/AB테스트_이해/3.AB테스트활용사례.md",
     "코드잇스프린트/통계적가설검정/4. 확률과 확률분포.md",
     "코드잇스프린트/통계적가설검정/3. 통찰을 위해 통계학에서 중요한 것들 - 평균.md",
@@ -200,15 +203,12 @@
     "코드잇스프린트/데이터시각화심화/Matplotlib심화/5. 한 화면에 여러 개의 그래프 그리기.md",
     "코드잇스프린트/데이터시각화심화/Matplotlib심화/4. 구성 요소 자유자재로 다루기.md",
     "코드잇스프린트/데이터시각화심화/Matplotlib심화/3. 그래프의 구성요소.md",
-    "코드잇스프린트/데이터시각화심화/Matplotlib심화/2. Figure와 Axes.md",
     "img/Pasted image 20241231142536.png",
     "img/Pasted image 20241231113819.png",
     "img/Pasted image 20241231113014.png",
     "img/Pasted image 20241231112952.png",
     "img/Pasted image 20241231112623.png",
     "img/Pasted image 20241231111319.png",
-    "img/Pasted image 20241231111037.png",
-    "img/Pasted image 20241231110949.png",
     "코드잇스프린트/AB테스트/AB테스트_결과분석",
     "코드잇스프린트/AB테스트/AB테스트_시작",
     "코드잇스프린트/AB테스트/AB테스트_이해",
