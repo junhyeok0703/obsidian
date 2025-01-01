@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "코드잇스프린트/AB테스트/AB테스트_결과분석/1. 결론 도출.md",
+                "file": "코드잇스프린트/AB테스트/AB테스트_결과분석/2. 결과 해석시 주의 사항.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. 결론 도출"
+              "title": "2. 결과 해석시 주의 사항"
             }
           }
         ]
@@ -173,10 +173,18 @@
   },
   "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
+    "img/Pasted image 20250102001239.png",
+    "img/Pasted image 20250102001234.png",
+    "코드잇스프린트/AB테스트/AB테스트_결과분석/1. 결론 도출.md",
+    "코드잇스프린트/AB테스트/AB테스트_결과분석/2. 결과 해석시 주의 사항.md",
+    "img/Pasted image 20250102000554.png",
+    "img/Pasted image 20250102000338.png",
+    "img/Pasted image 20250102000018.png",
+    "img/Pasted image 20250101235923.png",
+    "img/Pasted image 20250101234733.png",
     "img/Pasted image 20250101224857.png",
     "img/Pasted image 20250101224539.png",
     "코드잇스프린트/AB테스트/AB테스트_시작/7. AB테스트 진행하기.md",
-    "코드잇스프린트/AB테스트/AB테스트_결과분석/1. 결론 도출.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/3. 지표 설정 및 로그 정의하기.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/2. 문제 정의 및 가설 설정하기.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/1. 목표 수립.md",
@@ -185,8 +193,6 @@
     "코드잇스프린트/AB테스트/AB테스트_시작/6. AB테스트 플랫폼 소개.md",
     "img/screencapture-codeit-kr-topics-ab-test-lessons-10555-2024-12-31-23_45_23.png",
     "img/Pasted image 20241231230511.png",
-    "img/Pasted image 20241231230350.png",
-    "img/Pasted image 20241231220700.png",
     "코드잇스프린트/AB테스트/AB테스트_이해/3.AB테스트활용사례.md",
     "코드잇스프린트/통계적가설검정/4. 확률과 확률분포.md",
     "코드잇스프린트/통계적가설검정/3. 통찰을 위해 통계학에서 중요한 것들 - 평균.md",
@@ -203,12 +209,6 @@
     "코드잇스프린트/지표이해하기/9. Retention - 유지 지표.md",
     "코드잇스프린트/지표이해하기/10. Retention - 유지율을 계산하는 3가지 방식.md",
     "코드잇스프린트/지표이해하기/4. Acquisition - 획득 지표.md",
-    "코드잇스프린트/데이터시각화심화/Matplotlib심화/5. 한 화면에 여러 개의 그래프 그리기.md",
-    "img/Pasted image 20241231142536.png",
-    "img/Pasted image 20241231113819.png",
-    "img/Pasted image 20241231113014.png",
-    "img/Pasted image 20241231112952.png",
-    "img/Pasted image 20241231112623.png",
     "코드잇스프린트/AB테스트/AB테스트_결과분석",
     "코드잇스프린트/AB테스트/AB테스트_시작",
     "코드잇스프린트/AB테스트/AB테스트_이해",
