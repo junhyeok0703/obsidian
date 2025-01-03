@@ -2,4 +2,4 @@
 행(row) -> 하나의 데이터
 
 
-OLTP -> mysql,
+OLTP -> mysql,e
