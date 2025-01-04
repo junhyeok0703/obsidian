@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
+                "file": "LLM/프롬프트 엔지니어링.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BigQuery 환경설정하기"
+              "title": "프롬프트 엔지니어링"
             }
           }
         ]
@@ -173,6 +173,7 @@
   },
   "active": "2b2fdaccf7f9a2b0",
   "lastOpenFiles": [
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
     "img/Pasted image 20250104110603.png",
     "img/Pasted image 20250104110543.png",
     "img/Pasted image 20250104110514.png",
@@ -180,7 +181,6 @@
     "img/Pasted image 20250104110419.png",
     "LLM/프롬프트 엔지니어링.md",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 기초 지식.md",
     "코드잇스프린트/AB테스트/AB테스트_결과분석/3. AB결과 분석 보고서 작성 가이드.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
@@ -204,7 +204,6 @@
     "img/Pasted image 20250102003105.png",
     "img/Pasted image 20250102001239.png",
     "img/Pasted image 20250102001234.png",
-    "img/Pasted image 20250102000554.png",
     "코드잇스프린트/AB테스트/AB테스트_이해/3.AB테스트활용사례.md",
     "코드잇스프린트/통계적가설검정/4. 확률과 확률분포.md",
     "코드잇스프린트/통계적가설검정/3. 통찰을 위해 통계학에서 중요한 것들 - 평균.md",
