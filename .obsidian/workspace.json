@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "1. 데이터 탐색(SELECT,FROM,WHERE)"
             }
+          },
+          {
+            "id": "57c1f33a344a1bcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/1. 데이터 탐색(SELECT,FROM,WHERE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. 데이터 탐색(SELECT,FROM,WHERE)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,23 +186,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2b2fdaccf7f9a2b0",
+  "active": "57c1f33a344a1bcf",
   "lastOpenFiles": [
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
+    "Excalidraw/Drawing 2025-01-07 23.57.38.excalidraw.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/1. 데이터 탐색(SELECT,FROM,WHERE).md",
+    "Excalidraw",
+    "img/Pasted image 20250107235625.png",
     "img/Pasted image 20250107234351.png",
     "img/Pasted image 20250107234314.png",
     "img/Pasted image 20250107233319.png",
     "img/Pasted image 20250107233230.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/저장된 데이터 확인하기.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/1. 데이터 탐색(SELECT,FROM,WHERE).md",
     "img/Pasted image 20250107231334.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터 활용 overview.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
     "LLM/프롬프트 엔지니어링.md",
     "img/Pasted image 20250104110603.png",
     "img/Pasted image 20250104110543.png",
     "img/Pasted image 20250104110514.png",
     "img/Pasted image 20250104110428.png",
-    "img/Pasted image 20250104110419.png",
     "LLM/RAG 작업량 근거 자료 및 로직 설명.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 기초 지식.md",
     "코드잇스프린트/AB테스트/AB테스트_결과분석/3. AB결과 분석 보고서 작성 가이드.md",
@@ -203,7 +220,6 @@
     "코드잇스프린트/AB테스트/AB테스트_시작/3. 지표 설정 및 로그 정의하기.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/2. 문제 정의 및 가설 설정하기.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/1. 목표 수립.md",
-    "img/Pasted image 20250102005239.png",
     "LLM/멀티모달RAG/구글 제미나이.md",
     "코드잇스프린트/AB테스트/AB테스트_이해/2. AB테스트 프로세스.md",
     "코드잇스프린트/AB테스트/AB테스트_이해/1. AB테스트란?.md",
@@ -218,7 +234,6 @@
     "코드잇스프린트/AB테스트",
     "코드잇스프린트/통계적가설검정",
     "코드잇스프린트/git",
-    "코드잇스프린트/지표이해하기",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
