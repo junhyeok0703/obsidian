@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "57c1f33a344a1bcf",
+            "id": "dd05340a16801533",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,8 +186,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57c1f33a344a1bcf",
+  "active": "dd05340a16801533",
   "lastOpenFiles": [
+    "img/Pasted image 20250110232358.png",
+    "img/Pasted image 20250110231826.png",
     "img/Pasted image 20250110231322.png",
     "img/Pasted image 20250110231256.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/BigQuery 환경설정하기.md",
@@ -223,8 +225,6 @@
     "img/Pasted image 20250107233230.png",
     "img/Pasted image 20250107231334.png",
     "img/Pasted image 20250104110603.png",
-    "img/Pasted image 20250104110543.png",
-    "img/Pasted image 20250104110514.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
     "데이터 엔지니어링",
