@@ -169,8 +169,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cba30e12b61d1b21",
+  "active": "def288377abda391",
   "lastOpenFiles": [
+    "Excalidraw/중급 프로젝트 플로우.png",
+    "Excalidraw/중급 프로젝트 플로우.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "img/Pasted image 20250119235841.png",
     "img/Pasted image 20250119235739.png",
@@ -182,8 +185,6 @@
     "img/Pasted image 20250119234956.png",
     "img/Pasted image 20250119234643.png",
     "img/Pasted image 20250119234257.png",
-    "img/Pasted image 20250119233947.png",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/03. 여러가지 함수 정리.md",
@@ -205,7 +206,6 @@
     "코드잇스프린트/AB테스트/AB테스트_시작/7. AB테스트 진행하기.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/6. AB테스트 플랫폼 소개.md",
     "코드잇스프린트/AB테스트/AB테스트_결과분석/4. AB테스트 한계점.md",
-    "코드잇스프린트/AB테스트/AB테스트_결과분석/3. AB결과 분석 보고서 작성 가이드.md",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
