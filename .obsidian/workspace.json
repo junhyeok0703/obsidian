@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-07 23.57.38.excalidraw.md"
+                "file": "Excalidraw/중급 프로젝트 플로우.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-07 23.57.38.excalidraw"
+              "title": "중급 프로젝트 플로우"
             }
           }
         ]
@@ -169,7 +169,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "def288377abda391",
+  "active": "cba30e12b61d1b21",
   "lastOpenFiles": [
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "img/Pasted image 20250119235841.png",
