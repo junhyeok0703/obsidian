@@ -11,14 +11,12 @@
             "id": "def288377abda391",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2025-01-07 23.57.38.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "10. 다양한 JOIN 방법"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-07 23.57.38.excalidraw"
             }
           }
         ]
@@ -173,6 +171,7 @@
   },
   "active": "def288377abda391",
   "lastOpenFiles": [
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "img/Pasted image 20250119235841.png",
     "img/Pasted image 20250119235739.png",
     "img/Pasted image 20250119235546.png",
@@ -180,12 +179,10 @@
     "img/Pasted image 20250119235412.png",
     "img/Pasted image 20250119235332.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/09. JOIN.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "img/Pasted image 20250119234956.png",
     "img/Pasted image 20250119234643.png",
     "img/Pasted image 20250119234257.png",
     "img/Pasted image 20250119233947.png",
-    "img/Pasted image 20250119232938.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
