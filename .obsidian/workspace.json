@@ -23,11 +23,11 @@
             "id": "491bc465a43667b7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.png"
+                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md"
               },
-              "icon": "lucide-image",
+              "icon": "excalidraw-icon",
               "title": "Drawing 2025-01-22 14.43.28.excalidraw"
             }
           }
@@ -184,8 +184,10 @@
   },
   "active": "491bc465a43667b7",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
+    "Excalidraw/중급 프로젝트 플로우.png",
+    "Excalidraw/중급 프로젝트 플로우.md",
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.png",
+    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
     "img/Pasted Image 20250122163811_883.png",
     "img/Pasted Image 20250122163359_010.png",
     "img/Pasted Image 20250122163202_970.png",
@@ -195,7 +197,6 @@
     "img/Pasted Image 20250122162412_061.png",
     "img/Pasted Image 20250122162238_290.png",
     "img/Pasted Image 20250122161340_459.png",
-    "Excalidraw/중급 프로젝트 플로우.md",
     "Excalidraw/무제 파일.canvas",
     "Excalidraw/무제 파일.md",
     "마인드맵/마인드맵.excalidraw.md",
