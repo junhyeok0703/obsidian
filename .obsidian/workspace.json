@@ -23,11 +23,11 @@
             "id": "491bc465a43667b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.png"
               },
-              "icon": "excalidraw-icon",
+              "icon": "lucide-image",
               "title": "Drawing 2025-01-22 14.43.28.excalidraw"
             }
           }
@@ -184,23 +184,23 @@
   },
   "active": "491bc465a43667b7",
   "lastOpenFiles": [
-    "img/Pasted Image 20250122154226_181.png",
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
-    "img/Pasted Image 20250122154714_867.png",
-    "img/Pasted Image 20250122153157_623.png",
-    "img/Pasted Image 20250122145003_546.png",
-    "img/Pasted Image 20250122144606_076.png",
+    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.png",
+    "img/Pasted Image 20250122163811_883.png",
+    "img/Pasted Image 20250122163359_010.png",
+    "img/Pasted Image 20250122163202_970.png",
+    "img/Pasted Image 20250122163003_604.png",
+    "img/Pasted Image 20250122162755_646.png",
+    "img/Pasted Image 20250122162459_251.png",
+    "img/Pasted Image 20250122162412_061.png",
+    "img/Pasted Image 20250122162238_290.png",
+    "img/Pasted Image 20250122161340_459.png",
     "Excalidraw/중급 프로젝트 플로우.md",
     "Excalidraw/무제 파일.canvas",
     "Excalidraw/무제 파일.md",
     "마인드맵/마인드맵.excalidraw.md",
-    "Excalidraw/중급 프로젝트 플로우.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
-    "img/Pasted image 20250119235841.png",
-    "img/Pasted image 20250119235739.png",
-    "img/Pasted image 20250119235546.png",
-    "img/Pasted image 20250119235450.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/09. JOIN.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
