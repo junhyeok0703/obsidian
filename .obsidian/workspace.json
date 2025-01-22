@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af6c80de25b161c1",
+        "id": "9a80d0c3c15d3ab0",
         "type": "tabs",
         "children": [
           {
-            "id": "def288377abda391",
+            "id": "842a5ecf42d0ff1b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "중급 프로젝트 플로우"
             }
+          },
+          {
+            "id": "491bc465a43667b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-22 14.43.28.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,10 +182,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "def288377abda391",
+  "active": "491bc465a43667b7",
   "lastOpenFiles": [
-    "Excalidraw/중급 프로젝트 플로우.png",
+    "img/Pasted Image 20250122145003_546.png",
+    "img/Pasted Image 20250122144606_076.png",
     "Excalidraw/중급 프로젝트 플로우.md",
+    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
+    "Excalidraw/무제 파일.canvas",
+    "Excalidraw/무제 파일.md",
+    "마인드맵/마인드맵.excalidraw.md",
+    "Excalidraw/중급 프로젝트 플로우.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "img/Pasted image 20250119235841.png",
@@ -184,7 +203,6 @@
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/09. JOIN.md",
     "img/Pasted image 20250119234956.png",
     "img/Pasted image 20250119234643.png",
-    "img/Pasted image 20250119234257.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/03. 여러가지 함수 정리.md",
@@ -203,9 +221,6 @@
     "코드잇스프린트/AB테스트/AB테스트_시작/5. AB테스트 설계서 작성 가이드.md",
     "코드잇스프린트/AB테스트/AB테스트_이해/2. AB테스트 프로세스.md",
     "코드잇스프린트/AB테스트/AB테스트_이해/1. AB테스트란?.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/7. AB테스트 진행하기.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/6. AB테스트 플랫폼 소개.md",
-    "코드잇스프린트/AB테스트/AB테스트_결과분석/4. AB테스트 한계점.md",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
