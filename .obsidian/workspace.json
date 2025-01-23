@@ -11,10 +11,14 @@
             "id": "3f2557b42bfdc6e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/11. JOIN 쿼리 작성하기.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "11. JOIN 쿼리 작성하기"
             }
           }
         ]
@@ -169,6 +173,9 @@
   },
   "active": "3f2557b42bfdc6e0",
   "lastOpenFiles": [
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/11. JOIN 쿼리 작성하기.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/무제 폴더",
     "Excalidraw/중급 프로젝트 플로우.md",
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
     "img/Pasted Image 20250123172211_785.png",
@@ -185,7 +192,6 @@
     "Excalidraw/무제 파일.md",
     "마인드맵/마인드맵.excalidraw.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/09. JOIN.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
@@ -214,7 +220,6 @@
     "코드잇스프린트/AB테스트/AB테스트_이해",
     "코드잇스프린트/AB테스트",
     "코드잇스프린트/통계적가설검정",
-    "코드잇스프린트/git",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
