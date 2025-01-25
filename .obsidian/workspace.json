@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8637bf1f4b930c71",
+        "id": "e99c5fb278729875",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2557b42bfdc6e0",
+            "id": "a6ef05148e023911",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md"
+                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-22 14.43.28.excalidraw"
+              "icon": "lucide-file",
+              "title": "13. 정리 - JOIN"
             }
           }
         ]
@@ -75,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "b1a5ba50086ed8f9",
@@ -169,19 +171,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3f2557b42bfdc6e0",
+  "active": "a6ef05148e023911",
   "lastOpenFiles": [
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/09. JOIN이란?.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/10. 다양한 JOIN 방법.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/11. 쿼리 작성 - JOIN.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/12. 처음 공부할때 헷갈렸던 부분.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN",
+    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.png",
     "Excalidraw/중급 프로젝트 플로우.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/12. JOIN을 처음 공부할때 헷갈렸던 부분.md",
     "img/Pasted image 20250124001219.png",
     "img/Pasted image 20250124001201.png",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/11. JOIN 쿼리 작성하기.md",
     "img/Pasted image 20250123234523.png",
     "img/Pasted image 20250123234118.png",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/10. 다양한 JOIN 방법.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/무제 폴더",
-    "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
     "img/Pasted Image 20250123172211_785.png",
     "Excalidraw/중급 프로젝트 플로우.png",
     "img/Pasted Image 20250122163811_883.png",
@@ -191,8 +196,6 @@
     "Excalidraw/무제 파일.md",
     "마인드맵/마인드맵.excalidraw.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/09. JOIN.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/03. 여러가지 함수 정리.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/04. SQL 쿼리 잘 작성하기.md",
@@ -207,7 +210,6 @@
     "코드잇스프린트/AB테스트/AB테스트_결과분석/1. 결론 도출.md",
     "코드잇스프린트/AB테스트/AB테스트_결과분석/2. 결과 해석시 주의 사항.md",
     "코드잇스프린트/AB테스트/AB테스트_시작/4. 샘플 설정하기.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/5. AB테스트 설계서 작성 가이드.md",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
