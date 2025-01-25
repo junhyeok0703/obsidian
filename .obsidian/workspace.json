@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
+                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. 정리 - JOIN"
+              "title": "intro"
             }
           }
         ]
@@ -173,6 +173,13 @@
   },
   "active": "a6ef05148e023911",
   "lastOpenFiles": [
+    "img/Pasted image 20250125215743.png",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/가독성을 챙기기 위한 SQL 스타일 가이드.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/intro.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/데이터 결과 검증 예시.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/데이터 결과 검증.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증",
     "img/Pasted image 20250125214248.png",
     "img/Pasted image 20250125214146.png",
     "img/Pasted image 20250125214109.png",
@@ -180,7 +187,6 @@
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/10. 다양한 JOIN 방법.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/11. 쿼리 작성 - JOIN.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/12. 처음 공부할때 헷갈렸던 부분.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/01. 데이터 탐색(SELECT,FROM,WHERE).md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN",
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
@@ -192,7 +198,6 @@
     "img/Pasted image 20250123234118.png",
     "img/Pasted Image 20250123172211_785.png",
     "Excalidraw/중급 프로젝트 플로우.png",
-    "img/Pasted Image 20250122163811_883.png",
     "Excalidraw/무제 파일.canvas",
     "Excalidraw/무제 파일.md",
     "마인드맵/마인드맵.excalidraw.md",
@@ -207,10 +212,6 @@
     "캡스톤 끝나면 할일.md",
     "위클리페이퍼2.md",
     "위클리페이퍼1.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/05. 데이터 탐색 - 변환.md",
-    "코드잇스프린트/AB테스트/AB테스트_결과분석/1. 결론 도출.md",
-    "코드잇스프린트/AB테스트/AB테스트_결과분석/2. 결과 해석시 주의 사항.md",
-    "코드잇스프린트/AB테스트/AB테스트_시작/4. 샘플 설정하기.md",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
@@ -219,7 +220,6 @@
     "코드잇스프린트/AB테스트/AB테스트_시작",
     "코드잇스프린트/AB테스트/AB테스트_이해",
     "코드잇스프린트/AB테스트",
-    "코드잇스프린트/통계적가설검정",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
