@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 엔지니어링/FASTAPI로 AI채팅 서비스/아키텍처 소개.md",
+                "file": "코드잇스프린트/ML기본기/ML이란?/2. 머신러닝이 핫해진 이유.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아키텍처 소개"
+              "title": "2. 머신러닝이 핫해진 이유"
             }
           }
         ]
@@ -173,6 +173,14 @@
   },
   "active": "cdeb6aaccbbf219d",
   "lastOpenFiles": [
+    "코드잇스프린트/ML기본기/ML이란?/1. 머신러닝이란?.md",
+    "코드잇스프린트/ML기본기/ML이란?/2. 머신러닝이 핫해진 이유.md",
+    "img/Pasted image 20250130000918.png",
+    "코드잇스프린트/ML기본기/ML이란?",
+    "코드잇스프린트/데이터기반프로덕트개선/2. 프로덕트 데이터란?.md",
+    "코드잇스프린트/ML기본기",
+    "코드잇스프린트/데이터기반프로덕트개선/1. 토픽 소개.md",
+    "데이터 엔지니어링/FASTAPI로 AI채팅 서비스/아키텍처 소개.md",
     "img/Pasted image 20250129230542.png",
     "img/Pasted image 20250129230516.png",
     "img/Pasted image 20250129230156.png",
@@ -183,7 +191,6 @@
     "img/Pasted image 20250129224300.png",
     "img/Pasted image 20250129224050.png",
     "부스트 코스/인공지능기초다지기/2. 파이썬 다지기/python OOP.md",
-    "데이터 엔지니어링/FASTAPI로 AI채팅 서비스/아키텍처 소개.md",
     "데이터 엔지니어링/FASTAPI로 AI채팅 서비스",
     "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/Variables.md",
     "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/string and advanced function concept.md",
@@ -202,24 +209,17 @@
     "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/Conditionals and Loops.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/모든 정리.md",
     "데이터 엔지니어링/빅쿼리활용",
-    "img/Pasted image 20250128230206.png",
     "통계/분산분석이란?.md",
     "복습/통계적가설검정",
     "복습",
     "통계/모집단, 표본이란?.md",
     "통계/등분산 확인후 t검정은?.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/데이터 결과 검증.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/데이터 결과 검증 예시.md",
-    "img/Pasted image 20250125235810.png",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/가독성을 챙기기 위한 WITH문 & 파티션.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/가독성을 챙기기 위한 SQL 스타일 가이드 1.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN",
     "Excalidraw/무제 파일.canvas",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
-    "데이터 엔지니어링/빅쿼리",
-    "데이터 엔지니어링",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
