@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e99c5fb278729875",
+        "id": "740795903dc46581",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ef05148e023911",
+            "id": "cdeb6aaccbbf219d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/모든 정리.md",
+                "file": "통계/척도에 따른 데이터 분류.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "모든 정리"
+              "title": "척도에 따른 데이터 분류"
             }
           }
         ]
@@ -171,11 +171,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6ef05148e023911",
+  "active": "cdeb6aaccbbf219d",
   "lastOpenFiles": [
+    "통계/모수.md",
+    "통계/척도에 따른 데이터 분류.md",
+    "통계/왜도,첨도?.md",
+    "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/string and advanced function concept.md",
+    "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/pythonic code.md",
+    "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/Python Data Structure.md",
+    "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/Function and Console IO.md",
+    "부스트 코스/인공지능기초다지기/1. 파이썬 기초 문법/Conditionals and Loops.md",
+    "백엔드/어떻게 공부할지 , 왜 공부하는지.md",
+    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/모든 정리.md",
+    "데이터 엔지니어링/빅쿼리활용",
     "img/Pasted image 20250128230206.png",
     "통계/분산분석이란?.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/모든 정리.md",
     "복습/통계적가설검정",
     "복습",
     "통계/모집단, 표본이란?.md",
@@ -192,7 +202,6 @@
     "img/Pasted image 20250125224100.png",
     "img/Pasted image 20250125223940.png",
     "img/Pasted image 20250125223827.png",
-    "img/Pasted image 20250125223807.png",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/가독성을 챙기기 위한 SQL 스타일 가이드 1.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/데이터검증/intro.md",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/JOIN/13. 정리 - JOIN.md",
@@ -206,20 +215,11 @@
     "Excalidraw/Drawing 2025-01-22 14.43.28.excalidraw.md",
     "Excalidraw/중급 프로젝트 플로우.md",
     "Excalidraw/무제 파일.canvas",
-    "Excalidraw/무제 파일.md",
-    "마인드맵/마인드맵.excalidraw.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/08. bigquery 공식 문서 확인하기.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/02. 집계함수.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/03. 여러가지 함수 정리.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/04. SQL 쿼리 잘 작성하기.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/06. 조건문.md",
-    "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)/07. 정리하기.md",
     "Excalidraw",
     "데이터 엔지니어링/빅쿼리/초보자BigQuery(카일스쿨)",
     "데이터 엔지니어링/빅쿼리",
     "데이터 엔지니어링",
     "코드잇스프린트/AB테스트/AB테스트_결과분석",
-    "코드잇스프린트/AB테스트/AB테스트_시작",
     "무제 파일 1.canvas",
     "무제 파일.canvas",
     "부스트 캠프/AI프리코스/무제 파일.canvas",
