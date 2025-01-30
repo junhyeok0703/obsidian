@@ -35,3 +35,7 @@ pubsubClient.onmessage = function(event){
 
 웹소켓에 연결을 한다음에 그룹으로 조인을 하도록 해야한다.
 특정한 그룹이랑 Join을 해야한다.
+
+그다음에 onopen함수에 group을 조인하는 코드를 작성해주고
+
+그다음은 onmessage함수는 메세지를 받았을때 event에 data의 data에 우리가 받은 메세지를 jquery로 뿌리기만 하면 된다.
